@@ -1,0 +1,1001 @@
+,Unnamed: 0,world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year,institution_alt,twitter_handle,total,positive,negative,university,happiness_ranking
+0,0,1,Harvard University,USA,1,1,1,1,1,1,1,1.0,3,100.0,2015,,Harvard,31,23,8,Harvard University,0.7419354838709677
+1,1,2,Stanford University,USA,2,9,2,4,5,3,3,4.0,10,98.66,2015,,Stanford,109,76,33,Stanford University,0.6972477064220184
+2,2,3,Massachusetts Institute of Technology,USA,3,3,11,2,15,2,2,2.0,1,97.54,2015,,MIT,39,32,7,Massachusetts Institute of Technology,0.8205128205128205
+3,3,4,University of Cambridge,United Kingdom,1,2,10,5,11,6,12,13.0,48,96.81,2015,Cambridge University,Cambridge_Uni,47,34,13,University of Cambridge,0.723404255319149
+4,4,5,University of Oxford,United Kingdom,2,7,13,10,7,12,7,9.0,15,96.46,2015,Oxford University,UniofOxford,99,68,31,University of Oxford,0.6868686868686869
+5,5,6,Columbia University,USA,4,13,6,9,13,13,11,12.0,4,96.14,2015,,Columbia,84,58,26,Columbia University,0.6904761904761905
+6,6,7,"University of California, Berkeley",USA,5,5,21,6,10,4,4,7.0,29,92.25,2015,"California, Berkeley University",UCBerkeley,103,66,37,"University of California, Berkeley",0.6407766990291263
+7,7,8,University of Chicago,USA,6,11,14,8,17,16,12,22.0,141,90.7,2015,Chicago University,UChicago,97,59,38,University of Chicago,0.6082474226804123
+8,8,9,Princeton University,USA,7,4,15,3,72,25,24,33.0,225,89.42,2015,,Princeton,55,38,17,Princeton University,0.6909090909090909
+9,9,10,Cornell University,USA,8,12,18,14,24,15,25,22.0,11,86.79,2015,,Cornell,83,61,22,Cornell University,0.7349397590361446
+10,10,11,Yale University,USA,9,10,26,11,18,8,35,20.0,49,86.61,2015,,Yale,87,52,35,Yale University,0.5977011494252874
+11,11,12,California Institute of Technology,USA,10,6,328,7,53,9,19,25.0,13,84.4,2015,,Caltech,31,18,13,California Institute of Technology,0.5806451612903226
+12,12,13,University of Tokyo,Japan,1,16,3,38,14,19,31,29.0,7,78.23,2015,Tokyo University,UTEA_CasinoPj,0,0,0,University of Tokyo,
+13,13,14,University of Pennsylvania,USA,11,20,4,28,8,18,14,9.0,14,77.6,2015,Pennsylvania University,IUPedu,4,4,0,University of Pennsylvania,1.0
+14,14,15,"University of California, Los Angeles",USA,12,28,27,13,6,14,8,6.0,9,76.91,2015,"California, Los Angeles University",UCLA,117,76,41,"University of California, Los Angeles",0.6495726495726496
+15,15,16,Johns Hopkins University,USA,13,18,84,16,4,11,5,3.0,2,71.6,2015,,JohnsHopkins,80,56,24,Johns Hopkins University,0.7
+16,16,17,Kyoto University,Japan,2,22,16,24,30,42,88,60.0,16,68.6,2015,,KyotoU_News,2,2,0,Kyoto University,1.0
+17,17,18,New York University,USA,14,32,22,18,47,29,46,32.0,43,68.39,2015,,nyuniversity,34,28,6,New York University,0.8235294117647058
+18,18,19,"University of Michigan, Ann Arbor",USA,15,24,17,140,3,20,6,14.0,12,68.36,2015,"Michigan, Ann Arbor University",UMich,109,68,41,"University of Michigan, Ann Arbor",0.6238532110091743
+19,19,20,Swiss Federal Institute of Technology in Zurich,Switzerland,1,17,64,17,44,27,39,79.0,57,66.93,2015,,ETH,16,14,2,Swiss Federal Institute of Technology in Zurich,0.875
+20,20,21,"University of California, San Diego",USA,16,36,567,19,16,5,15,15.0,17,66.59,2015,"California, San Diego University",UCSanDiego,26,5,21,"University of California, San Diego",0.19230769230769232
+21,21,22,Northwestern University,USA,17,163,12,104,27,34,27,26.0,42,66.56,2015,,NorthwesternU,49,35,14,Northwestern University,0.7142857142857143
+22,22,23,Hebrew University of Jerusalem,Israel,1,15,164,15,120,97,368,143.0,35,65.71,2015,Jerusalem Hebrew University,AmFriendsHU,0,0,0,Hebrew University of Jerusalem,
+23,23,24,Seoul National University,South Korea,1,367,9,218,36,163,146,112.0,6,64.82,2015,,union2845,0,0,0,Seoul National University,
+24,24,25,University of Wisconsin–Madison,USA,18,29,29,34,21,24,22,27.0,27,64.51,2015,Wisconsin–Madison University,UWMadison,72,48,24,University of Wisconsin–Madison,0.6666666666666666
+25,25,26,"University of California, San Francisco",USA,19,367,567,20,22,7,15,11.0,56,63.69,2015,"California, San Francisco University",UCSF,80,60,20,"University of California, San Francisco",0.75
+26,26,27,University College London,United Kingdom,3,21,447,27,12,22,15,18.0,67,62.27,2015,,ucl,118,92,26,University College London,0.7796610169491526
+27,27,28,Duke University,USA,20,74,31,56,19,23,15,16.0,33,61.55,2015,,DukeU,87,70,17,Duke University,0.8045977011494253
+28,28,29,Rockefeller University,USA,21,49,567,12,372,28,115,70.0,289,61.28,2015,,RockefellerUniv,14,13,1,Rockefeller University,0.9285714285714286
+29,29,30,University of Texas at Austin,USA,22,75,36,25,48,50,26,71.0,38,61.14,2015,Texas At Austin University,UTiSchool,1,0,1,University of Texas at Austin,0.0
+30,30,31,University of Washington - Seattle,USA,23,48,103,41,9,10,10,5.0,40,60.61,2015,Washington - Seattle University,UW,93,64,29,University of Washington - Seattle,0.6881720430107527
+31,31,32,University of Toronto,Canada,1,70,51,32,2,17,9,8.0,145,60.04,2015,Toronto University,UofT,134,105,29,University of Toronto,0.7835820895522388
+32,32,33,University of Illinois at Urbana–Champaign,USA,24,33,75,21,40,48,42,74.0,65,59.94,2015,Illinois At Urbana–Champaign University,Illinois_Alma,79,71,8,University of Illinois at Urbana–Champaign,0.8987341772151899
+33,33,34,Keio University,Japan,3,284,5,218,309,246,368,270.0,80,59.84,2015,,keio_university,0,0,0,Keio University,
+34,34,35,Imperial College London,United Kingdom,4,90,82,30,19,26,23,19.0,47,59.61,2015,,imperialcollege,82,62,20,Imperial College London,0.7560975609756098
+35,35,36,École Polytechnique,France,1,98,7,216,327,314,234,295.0,172,59.2,2015,,Polytechnique,5,1,4,École Polytechnique,0.2
+36,36,37,École normale supérieure - Paris,France,2,8,502,54,379,157,645,295.0,871,58.8,2015,,,11,8,3,École normale supérieure - Paris,0.7272727272727273
+37,37,38,Waseda University,Japan,4,288,8,218,406,389,368,388.0,248,58.17,2015,,UnivMen,0,0,0,Waseda University,
+38,38,39,Weizmann Institute of Science,Israel,2,19,567,22,246,63,234,143.0,45,57.17,2015,,WeizmannInst,0,0,0,Weizmann Institute of Science,
+39,39,40,University of North Carolina at Chapel Hill,USA,25,124,69,86,32,32,19,21.0,41,57.09,2015,North Carolina At Chapel Hill University,UNC,117,98,19,University of North Carolina at Chapel Hill,0.8376068376068376
+40,40,41,University of Virginia,USA,26,209,20,126,94,74,88,90.0,97,56.73,2015,Virginia University,UVA,74,61,13,University of Virginia,0.8243243243243243
+41,41,42,McGill University,Canada,2,34,37,75,33,53,44,34.0,132,56.49,2015,,mcgillu,61,53,8,McGill University,0.8688524590163934
+42,42,43,"Purdue University, West Lafayette",USA,27,55,33,47,75,95,68,117.0,28,56.39,2015,,LifeAtPurdue,17,7,10,"Purdue University, West Lafayette",0.4117647058823529
+43,43,44,Dartmouth College,USA,28,40,19,218,246,167,136,154.0,63,56.35,2015,,dartmouth,15,11,4,Dartmouth College,0.7333333333333333
+44,44,45,Osaka University,Japan,5,46,39,75,50,58,182,67.0,18,56.03,2015,,osaka_univ_e,0,0,0,Osaka University,
+45,45,46,University of Pittsburgh - Pittsburgh Campus,USA,29,79,169,218,25,57,21,24.0,50,55.63,2015,Pittsburgh - Pittsburgh Campus University,,11,8,3,University of Pittsburgh - Pittsburgh Campus,0.7272727272727273
+46,46,47,"Pennsylvania State University, University Park",USA,30,230,44,62,49,43,28,38.0,92,55.54,2015,,penn_state,35,22,13,"Pennsylvania State University, University Park",0.6285714285714286
+47,47,48,"University of Minnesota, Twin Cities",USA,31,63,130,63,23,40,31,28.0,59,55.51,2015,"Minnesota, Twin Cities University",,11,8,3,"University of Minnesota, Twin Cities",0.7272727272727273
+48,48,49,"Ohio State University, Columbus",USA,32,96,87,82,28,52,31,38.0,44,55.39,2015,,reese_terry,0,0,0,"Ohio State University, Columbus",
+49,49,50,Rutgers University-New Brunswick,USA,33,91,40,37,100,66,46,89.0,61,55.23,2015,,RutgersU,51,26,25,Rutgers University-New Brunswick,0.5098039215686274
+50,50,51,University of Southern California,USA,34,152,62,39,57,64,101,56.0,34,55.12,2015,Southern California University,USC,80,40,40,University of Southern California,0.5
+51,51,52,Washington University in St. Louis,USA,35,101,96,71,41,21,29,17.0,169,55.03,2015,,WUSTL,11,6,5,Washington University in St. Louis,0.5454545454545454
+52,52,53,"University of California, Davis",USA,36,54,227,59,29,33,35,52.0,62,54.85,2015,"California, Davis University",ucdavis,180,153,27,"University of California, Davis",0.85
+53,53,54,University of Colorado Boulder,USA,37,80,67,31,96,38,45,74.0,133,54.62,2015,Colorado Boulder University,CUBoulder,30,24,6,University of Colorado Boulder,0.8
+54,54,55,University of Edinburgh,United Kingdom,5,44,127,33,54,37,65,43.0,228,54.39,2015,Edinburgh University,EdinburghUni,127,89,38,University of Edinburgh,0.7007874015748031
+55,55,56,Peking University,China,1,182,38,218,52,131,182,125.0,20,54.26,2015,,PKU1898,29,28,1,Peking University,0.9655172413793104
+56,56,57,National Taiwan University,Taiwan,1,92,25,218,46,223,182,204.0,695,54.23,2015,,yogitrip,0,0,0,National Taiwan University,
+57,57,58,University of Paris-Sud,France,3,26,393,26,73,86,115,97.0,324,54.21,2015,Paris-Sud University,u_psud,1,0,1,University of Paris-Sud,0.0
+58,58,59,Lomonosov Moscow State University,Russia,1,14,175,48,268,254,287,344.0,861,54.19,2015,,MSU_1755,2,2,0,Lomonosov Moscow State University,1.0
+59,59,60,University of Florida,USA,38,214,276,96,37,73,46,59.0,5,54.18,2015,Florida University,UF,127,83,44,University of Florida,0.6535433070866141
+60,60,61,Carnegie Mellon University,USA,39,25,160,23,211,225,78,150.0,165,54.0,2015,,CarnegieMellon,25,22,3,Carnegie Mellon University,0.88
+61,61,62,University of British Columbia,Canada,3,81,275,93,26,36,37,34.0,81,53.92,2015,British Columbia University,UBC,76,56,20,University of British Columbia,0.7368421052631579
+62,62,63,Pierre-and-Marie-Curie University,France,4,30,404,88,31,35,68,63.0,87,53.79,2015,,UPMC,15,10,5,Pierre-and-Marie-Curie University,0.6666666666666666
+63,63,64,"University of California, Santa Barbara",USA,40,133,280,29,111,59,46,55.0,77,53.63,2015,"California, Santa Barbara University",ucsantabarbara,15,12,3,"University of California, Santa Barbara",0.8
+64,64,65,National University of Singapore,Singapore,1,367,98,218,34,125,78,90.0,25,53.44,2015,Singapore National University,NUSingapore,3,2,1,National University of Singapore,0.6666666666666666
+65,65,66,Boston University,USA,41,303,54,83,60,45,37,34.0,135,53.43,2015,,BU_Tweets,17,10,7,Boston University,0.5882352941176471
+66,66,67,University of Manchester,United Kingdom,6,99,92,72,43,70,29,53.0,142,53.38,2015,Manchester University,OfficialUoM,166,137,29,University of Manchester,0.8253012048192772
+67,67,68,University of Arizona,USA,42,139,55,87,74,39,31,49.0,235,53.26,2015,Arizona University,UAZHousing,0,0,0,University of Arizona,
+68,68,69,Vanderbilt University,USA,43,87,94,110,55,62,59,41.0,51,53.05,2015,,VanderbiltU,21,18,3,Vanderbilt University,0.8571428571428571
+69,69,70,University of Utah,USA,44,97,105,67,97,65,101,90.0,19,52.89,2015,Utah University,UUtah,75,56,19,University of Utah,0.7466666666666667
+70,70,71,Karolinska Institute,Sweden,1,149,567,36,51,54,52,34.0,743,52.79,2015,,TEDxCreativity,0,0,0,Karolinska Institute,
+71,71,72,"University of Maryland, College Park",USA,45,68,210,43,58,47,39,67.0,280,52.72,2015,"Maryland, College Park University",UofMaryland,7,5,2,"University of Maryland, College Park",0.7142857142857143
+72,72,73,Tohoku University,Japan,6,41,170,218,68,127,115,119.0,22,52.57,2015,,TohokuUniPR,0,0,0,Tohoku University,
+73,73,74,University of Copenhagen,Denmark,1,117,149,64,38,31,59,31.0,432,52.51,2015,Copenhagen University,BiofilmLab,0,0,0,University of Copenhagen,
+74,74,75,University of Texas Southwestern Medical Center,USA,46,59,567,35,131,30,78,40.0,173,52.5,2015,Texas Southwestern Medical Center University,Dr_ErdalToprak,0,0,0,University of Texas Southwestern Medical Center,
+75,75,76,Ruprecht Karl University of Heidelberg,Germany,1,38,402,51,69,61,46,46.0,243,52.32,2015,Heidelberg Ruprecht Karl University,UniHeidelberg,3,3,0,Ruprecht Karl University of Heidelberg,1.0
+76,76,77,University of Notre Dame,USA,47,221,24,155,242,242,182,235.0,352,52.27,2015,Notre Dame University,NotreDame,69,49,20,University of Notre Dame,0.7101449275362319
+77,77,78,Tsinghua University,China,2,309,73,218,63,158,65,156.0,30,52.21,2015,,Tsinghua_Uni,44,38,6,Tsinghua University,0.8636363636363636
+78,78,79,Ludwig Maximilian University of Munich,Germany,2,42,129,92,66,55,53,51.0,167,52.16,2015,Munich Ludwig Maximilian University,LMU_Muenchen,5,5,0,Ludwig Maximilian University of Munich,1.0
+79,79,80,Georgia Institute of Technology,USA,48,135,60,218,107,152,78,106.0,36,52.08,2015,,GeorgiaTech,68,49,19,Georgia Institute of Technology,0.7205882352941176
+80,80,81,University of Rochester,USA,49,72,53,113,114,118,68,79.0,64,52.03,2015,Rochester University,UofR,36,19,17,University of Rochester,0.5277777777777778
+81,81,82,Katholieke Universiteit Leuven,Belgium,1,367,202,218,35,92,53,46.0,74,52.03,2015,,KU_Leuven,15,10,5,Katholieke Universiteit Leuven,0.6666666666666666
+82,82,83,Brown University,USA,50,64,43,73,121,67,76,99.0,200,52.01,2015,,BrownUniversity,27,21,6,Brown University,0.7777777777777778
+83,83,84,Emory University,USA,51,367,146,116,67,60,93,41.0,55,51.85,2015,,EmoryUniversity,34,19,15,Emory University,0.5588235294117647
+84,84,85,Erasmus University Rotterdam,Netherlands,1,367,46,189,87,147,53,44.0,227,51.78,2015,,erasmusuni,2,1,1,Erasmus University Rotterdam,0.5
+85,85,86,Tel Aviv University,Israel,3,77,107,50,98,117,136,154.0,39,51.75,2015,,TelAvivUni,5,4,1,Tel Aviv University,0.8
+86,86,87,Utrecht University,Netherlands,2,84,199,115,39,44,59,46.0,429,51.74,2015,,UtrechtUni,7,6,1,Utrecht University,0.8571428571428571
+87,87,88,University of Sydney,Australia,1,105,198,166,45,103,46,84.0,75,51.61,2015,Sydney University,Sydney_Uni,105,89,16,University of Sydney,0.8476190476190476
+88,88,89,"University of California, Irvine",USA,52,227,567,44,78,51,68,54.0,162,51.51,2015,"California, Irvine University",UCIrvine,25,19,6,"University of California, Irvine",0.76
+89,89,90,University of Texas MD Anderson Cancer Center,USA,53,367,567,80,93,72,42,29.0,71,51.51,2015,Texas Md Anderson Cancer Center University,MDAndersonNews,71,50,21,University of Texas MD Anderson Cancer Center,0.704225352112676
+90,90,91,Swiss Federal Institute of Technology in Lausanne,Switzerland,2,367,74,116,124,114,39,110.0,58,51.47,2015,,EPFL,12,10,2,Swiss Federal Institute of Technology in Lausanne,0.8333333333333334
+91,91,92,University of Geneva,Switzerland,3,35,191,42,122,77,115,79.0,321,51.46,2015,Geneva University,UNIGEmedianews,0,0,0,University of Geneva,
+92,92,93,University of Melbourne,Australia,2,141,113,218,42,68,53,71.0,223,51.34,2015,Melbourne University,unimelb,79,67,12,University of Melbourne,0.8481012658227848
+93,93,94,King's College London,United Kingdom,7,27,190,114,76,116,101,74.0,188,51.31,2015,,KingsCollegeLon,94,80,14,King's College London,0.851063829787234
+94,94,95,Tufts University,USA,54,60,48,182,166,160,93,85.0,84,51.22,2015,,TuftsUniversity,12,9,3,Tufts University,0.75
+95,95,96,University of Zurich,Switzerland,4,115,389,85,56,46,68,56.0,137,51.14,2015,Zurich University,UZH_en,12,9,3,University of Zurich,0.75
+96,96,97,Arizona State University,USA,55,367,455,66,143,85,76,140.0,21,51.13,2015,,ASU,104,76,28,Arizona State University,0.7307692307692307
+97,97,98,Yonsei University,South Korea,2,367,45,218,140,326,321,235.0,23,51.02,2015,,yonsei_u,0,0,0,Yonsei University,
+98,98,99,University of Oslo,Norway,1,53,286,40,106,134,101,102.0,302,50.81,2015,Oslo University,CO2_DAY,0,0,0,University of Oslo,
+99,99,100,Kyushu University,Japan,7,367,49,218,152,182,264,200.0,37,50.6,2015,,KyusuU,0,0,0,Kyushu University,
+100,100,101,Technical University of Munich,Germany,3,37,118,177,104,90,128,95.0,119,50.58,2015,Munich Technical University,AleTirachini,0,0,0,Technical University of Munich,
+101,101,102,"Texas A&M University, College Station",USA,56,339,108,46,77,98,88,143.0,201,50.43,2015,,CityofCS,1,1,0,"Texas A&M University, College Station",1.0
+102,102,103,University of Queensland,Australia,3,269,292,142,65,78,101,99.0,68,50.4,2015,Queensland University,UQ_News,65,46,19,University of Queensland,0.7076923076923077
+103,103,104,Mines ParisTech,France,5,278,23,169,977,834,812,906.0,871,50.34,2015,,MINES_ParisTech,0,0,0,Mines ParisTech,
+104,104,105,Case Western Reserve University,USA,57,50,215,195,137,106,59,74.0,111,50.28,2015,,cwru,6,4,2,Case Western Reserve University,0.6666666666666666
+105,105,106,Indiana University - Bloomington,USA,58,134,35,178,180,143,161,190.0,178,50.26,2015,,IUBloomington,51,27,24,Indiana University - Bloomington,0.5294117647058824
+106,106,107,University of Alberta,Canada,4,169,151,153,62,109,82,103.0,116,50.25,2015,Alberta University,UAlberta,62,51,11,University of Alberta,0.8225806451612904
+107,107,108,Leiden University,Netherlands,3,120,567,102,82,94,53,56.0,260,50.17,2015,,UniLeidenNews,7,6,1,Leiden University,0.8571428571428571
+108,108,109,Tokyo Institute of Technology,Japan,8,170,50,128,169,169,136,190.0,52,50.13,2015,,tokyotech_en,0,0,0,Tokyo Institute of Technology,
+109,109,110,University of Groningen,Netherlands,4,313,193,196,64,96,68,67.0,316,50.1,2015,Groningen University,BijzCollecties,0,0,0,University of Groningen,
+110,110,111,University of Helsinki,Finland,1,56,551,111,80,79,88,65.0,420,50.04,2015,Helsinki University,helsinkiuni,65,45,20,University of Helsinki,0.6923076923076923
+111,111,112,Sapienza University of Rome,Italy,1,67,205,45,83,166,212,130.0,312,49.97,2015,Rome Sapienza University,SapienzaRoma,2,1,1,Sapienza University of Rome,0.5
+112,112,113,Georgetown University,USA,59,159,34,218,298,321,321,204.0,122,49.92,2015,,Georgetown,50,34,16,Georgetown University,0.68
+113,113,114,University of Amsterdam,Netherlands,5,109,317,212,70,88,93,60.0,282,49.83,2015,Amsterdam University,LucassenPJ,0,0,0,University of Amsterdam,
+114,114,115,Korea University,South Korea,3,367,58,218,172,411,321,273.0,26,49.79,2015,,UniversityKorea,0,0,0,Korea University,
+115,115,116,University of Barcelona,Spain,1,367,226,218,61,108,93,83.0,215,49.79,2015,Barcelona University,UABBarcelona,3,2,1,University of Barcelona,0.6666666666666666
+116,116,117,Lund University,Sweden,2,136,466,169,85,135,53,60.0,871,49.75,2015,,lunduniversity,19,13,6,Lund University,0.6842105263157895
+117,117,118,Michigan State University,USA,60,112,162,218,88,123,65,111.0,136,49.74,2015,,ASMSU,7,5,2,Michigan State University,0.7142857142857143
+118,118,119,Ghent University,Belgium,2,123,329,147,84,149,68,119.0,90,49.73,2015,,ResearchUGent,2,2,0,Ghent University,1.0
+119,119,120,Rice University,USA,61,52,161,95,255,150,59,130.0,76,49.73,2015,,RiceUniversity,18,16,2,Rice University,0.8888888888888888
+120,120,121,Baylor College of Medicine,USA,62,367,567,218,113,41,101,44.0,199,49.7,2015,,bcmhouston,17,13,4,Baylor College of Medicine,0.7647058823529411
+121,121,122,Aarhus University,Denmark,2,310,165,106,91,81,101,95.0,154,49.65,2015,,AarhusUni,76,67,9,Aarhus University,0.881578947368421
+122,122,123,University of Bristol,United Kingdom,8,194,196,74,92,69,82,106.0,335,49.59,2015,Bristol University,UoBBoatClub,0,0,0,University of Bristol,
+123,123,124,Uppsala University,Sweden,3,73,321,70,95,75,93,103.0,871,49.57,2015,,UU_University,4,1,3,Uppsala University,0.25
+124,124,125,Nagoya University,Japan,9,39,322,53,138,140,146,195.0,78,49.57,2015,,NagoyaUniv,0,0,0,Nagoya University,
+125,125,126,Royal Institute of Technology,Sweden,4,199,30,105,221,300,321,318.0,797,49.54,2015,,RMIT,10,7,3,Royal Institute of Technology,0.7
+126,126,127,University of Colorado Denver,USA,63,367,567,140,135,110,128,66.0,72,49.48,2015,Colorado Denver University,UofDenver,7,5,2,University of Colorado Denver,0.7142857142857143
+127,127,128,University of Glasgow,United Kingdom,9,234,89,218,123,144,82,87.0,402,49.45,2015,Glasgow University,UofGlasgow,173,130,43,University of Glasgow,0.7514450867052023
+128,128,129,VU University Amsterdam,Netherlands,6,367,385,218,79,120,68,79.0,871,49.44,2015,,FrankVanHarmele,1,1,0,VU University Amsterdam,1.0
+129,129,130,University of New South Wales,Australia,4,177,70,218,90,177,101,164.0,157,49.33,2015,New South Wales University,UNSW,124,107,17,University of New South Wales,0.8629032258064516
+130,130,131,Paris Diderot University - Paris 7,France,6,127,567,68,105,56,115,97.0,483,49.33,2015,,,11,8,3,Paris Diderot University - Paris 7,0.7272727272727273
+131,131,132,University of São Paulo,Brazil,1,297,71,218,59,186,136,164.0,710,49.31,2015,São Paulo University,usponline,0,0,0,University of São Paulo,
+132,132,133,Western University (The University of Western Ontario),Canada,5,367,41,218,149,208,234,190.0,261,49.31,2015,Western Ontario) Western University (The University,WesternU,74,62,12,Western University (The University of Western Ontario),0.8378378378378378
+133,133,134,Radboud University Nijmegen,Netherlands,7,128,274,218,89,119,93,74.0,410,49.3,2015,,IrishStudiesRU,0,0,0,Radboud University Nijmegen,
+134,134,135,Nanyang Technological University,Singapore,2,367,567,218,102,361,212,204.0,32,49.29,2015,,paterno_II,0,0,0,Nanyang Technological University,
+135,135,136,Technion – Israel Institute of Technology,Israel,4,45,180,55,186,221,161,209.0,88,49.12,2015,,,11,8,3,Technion – Israel Institute of Technology,0.7272727272727273
+136,136,137,University of Miami,USA,64,367,241,218,159,130,82,112.0,73,49.09,2015,Miami University,univmiami,8,5,3,University of Miami,0.625
+137,137,138,Stony Brook University,USA,65,186,567,58,173,84,93,134.0,96,49.09,2015,,sbucompsc,0,0,0,Stony Brook University,
+138,138,139,University of Texas at Dallas,USA,66,367,159,218,250,151,59,49.0,313,49.05,2015,Texas At Dallas University,UT_Dallas,18,13,5,University of Texas at Dallas,0.7222222222222222
+139,139,140,University of Nottingham,United Kingdom,10,131,109,84,116,176,146,140.0,138,49.02,2015,Nottingham University,UniofNottingham,112,89,23,University of Nottingham,0.7946428571428571
+140,140,141,University of Iowa,USA,67,233,296,167,103,83,115,112.0,121,49.01,2015,Iowa University,uiowa,39,23,16,University of Iowa,0.5897435897435898
+141,141,142,Southern Methodist University,USA,68,179,28,218,624,655,368,646.0,824,48.99,2015,,SMU,16,16,0,Southern Methodist University,1.0
+142,142,143,Icahn School of Medicine at Mount Sinai,USA,69,367,567,218,160,71,161,63.0,101,48.96,2015,,IcahnMountSinai,43,33,10,Icahn School of Medicine at Mount Sinai,0.7674418604651163
+143,143,144,Korea Advanced Institute of Science and Technology (KAIST),South Korea,4,367,194,218,183,283,368,289.0,8,48.95,2015,,Astro_Soyeon,0,0,0,Korea Advanced Institute of Science and Technology (KAIST),
+144,144,145,Monash University,Australia,5,277,145,218,86,136,182,161.0,99,48.91,2015,,MonashUni,44,37,7,Monash University,0.8409090909090909
+145,145,146,University of Alabama at Birmingham,USA,70,367,567,218,141,124,128,71.0,130,48.79,2015,Alabama At Birmingham University,UABNews,6,3,3,University of Alabama at Birmingham,0.5
+146,146,147,Free University of Berlin,Germany,4,76,548,128,109,80,234,90.0,461,48.78,2015,Berlin Free University,FU_Berlin,14,9,5,Free University of Berlin,0.6428571428571429
+147,147,148,University of Southampton,United Kingdom,11,329,95,218,115,133,101,130.0,334,48.77,2015,Southampton University,unisouthampton,43,35,8,University of Southampton,0.813953488372093
+148,148,149,University of the Witwatersrand,South Africa,1,61,32,172,442,237,321,447.0,291,48.75,2015,The Witwatersrand University,WitsUniversity,15,11,4,University of the Witwatersrand,0.7333333333333333
+149,149,150,McMaster University,Canada,6,222,268,163,127,156,101,87.0,222,48.74,2015,,McMasterU,58,53,5,McMaster University,0.9137931034482759
+150,150,151,University of Montreal,Canada,7,320,376,218,101,111,101,90.0,540,48.72,2015,Montreal University,UmontrealN,0,0,0,University of Montreal,
+151,151,152,University of Birmingham,United Kingdom,12,65,158,205,117,165,146,138.0,170,48.7,2015,Birmingham University,unibirmingham,102,78,24,University of Birmingham,0.7647058823529411
+152,152,153,Humboldt University of Berlin,Germany,5,291,567,108,108,82,161,85.0,471,48.64,2015,Berlin Humboldt University,HumboldtUni,3,2,1,Humboldt University of Berlin,0.6666666666666666
+153,153,154,"University of California, Santa Cruz",USA,71,175,567,100,243,49,115,99.0,183,48.59,2015,"California, Santa Cruz University",ucsc,14,11,3,"University of California, Santa Cruz",0.7857142857142857
+154,154,155,Albert Ludwig University of Freiburg,Germany,6,148,134,193,156,104,182,134.0,98,48.57,2015,Freiburg Albert Ludwig University,UniFreiburg,6,3,3,Albert Ludwig University of Freiburg,0.5
+155,155,156,University of Tübingen,Germany,7,69,490,103,142,122,146,115.0,226,48.56,2015,Tübingen University,tdiez_tuebingen,0,0,0,University of Tübingen,
+156,156,157,University of Cincinnati,USA,72,188,86,218,150,171,128,127.0,263,48.56,2015,Cincinnati University,uofcincy,53,32,21,University of Cincinnati,0.6037735849056604
+157,157,158,University of Bonn,Germany,8,58,249,65,153,107,146,150.0,341,48.54,2015,Bonn University,Isabel_Schnabel,2,2,0,University of Bonn,1.0
+158,158,159,Wake Forest University,USA,73,265,83,218,249,244,128,125.0,124,48.52,2015,,WakeForest,25,19,6,Wake Forest University,0.76
+159,159,160,University of Basel,Switzerland,5,83,363,60,167,100,136,130.0,486,48.48,2015,Basel University,UniBasel_en,3,3,0,University of Basel,1.0
+160,160,161,University of Leeds,United Kingdom,13,62,157,218,133,141,136,150.0,265,48.41,2015,Leeds University,UniversityLeeds,87,56,31,University of Leeds,0.6436781609195402
+161,161,162,University of Hamburg,Germany,9,314,136,135,147,126,101,127.0,677,48.31,2015,Hamburg University,unihh,2,1,1,University of Hamburg,0.5
+162,162,163,Université libre de Bruxelles,Belgium,3,173,110,69,236,214,101,170.0,148,48.28,2015,,ULBruxelles,3,3,0,Université libre de Bruxelles,1.0
+163,163,164,Indiana University-Purdue University Indianapolis,USA,74,367,492,218,187,190,125,122.0,79,48.28,2015,,IUPUI,48,34,14,Indiana University-Purdue University Indianapolis,0.7083333333333334
+164,164,165,Pohang University of Science and Technology,South Korea,5,367,567,218,285,355,212,281.0,24,48.24,2015,Science And Technology Pohang University,postech2020,0,0,0,Pohang University of Science and Technology,
+165,165,166,Oregon Health & Science University,USA,75,367,567,128,184,115,125,105.0,144,48.23,2015,,SEOPollyAnna,0,0,0,Oregon Health & Science University,
+166,166,167,University of Calgary,Canada,8,367,123,218,145,180,101,127.0,778,48.23,2015,Calgary University,UCalgary,47,30,17,University of Calgary,0.6382978723404256
+167,167,168,Stockholm University,Sweden,5,129,79,187,202,89,88,179.0,839,48.23,2015,,Stockholm_Uni,15,13,2,Stockholm University,0.8666666666666667
+168,168,169,University of Padua,Italy,2,281,567,218,99,105,182,119.0,351,48.17,2015,Padua University,UniPadova,1,0,1,University of Padua,0.0
+169,169,170,University of Hong Kong,Hong Kong,1,287,128,218,139,204,128,147.0,205,48.15,2015,Hong Kong University,CUHKofficial,3,3,0,University of Hong Kong,1.0
+170,170,171,Yeshiva University,USA,76,200,567,218,195,91,161,109.0,128,48.11,2015,,YUNews,1,0,1,Yeshiva University,0.0
+171,171,172,University of Milan,Italy,3,162,441,182,118,189,212,106.0,438,48.07,2015,Milan University,uniiulm,0,0,0,University of Milan,
+172,172,173,University of Sheffield,United Kingdom,14,142,209,196,129,137,136,147.0,179,48.07,2015,Sheffield University,sheffielduni,91,63,28,University of Sheffield,0.6923076923076923
+173,173,174,Technical University of Denmark,Denmark,3,351,510,202,220,230,161,216.0,46,48.06,2015,Denmark Technical University,DTUtweet,5,5,0,Technical University of Denmark,1.0
+174,174,175,"University of Maryland, Baltimore",USA,77,367,567,218,125,112,197,116.0,180,48.05,2015,"Maryland, Baltimore University",UMBaltimore,2,2,0,"University of Maryland, Baltimore",1.0
+175,175,176,Goethe University Frankfurt,Germany,10,111,219,89,179,155,212,124.0,328,48.01,2015,,goetheuni,2,2,0,Goethe University Frankfurt,1.0
+176,176,177,University of Göttingen,Germany,11,43,171,176,174,146,264,184.0,299,47.98,2015,Göttingen University,LarsPenke,3,3,0,University of Göttingen,1.0
+177,177,178,Hokkaido University,Japan,10,279,277,135,148,173,287,251.0,53,47.97,2015,,HokkaidoUni,0,0,0,Hokkaido University,
+178,178,179,Australian National University,Australia,6,196,379,52,130,99,197,188.0,415,47.97,2015,,dstanno,0,0,0,Australian National University,
+179,179,180,Shanghai Jiao Tong University,China,3,335,143,218,81,267,212,209.0,198,47.96,2015,,sjtu1896,1,1,0,Shanghai Jiao Tong University,1.0
+180,180,181,University of New Mexico,USA,78,367,567,218,223,170,82,147.0,100,47.95,2015,New Mexico University,UNM,36,24,12,University of New Mexico,0.6666666666666666
+181,181,182,University of Strasbourg,France,7,71,567,49,191,145,264,219.0,269,47.89,2015,Strasbourg University,unistra,28,21,7,University of Strasbourg,0.75
+182,182,183,University of Massachusetts Medical School,USA,79,367,567,80,296,76,234,122.0,143,47.85,2015,Massachusetts Medical School University,UMassMedical,42,31,11,University of Massachusetts Medical School,0.7380952380952381
+183,183,184,University of Houston,USA,80,367,42,218,310,257,511,349.0,156,47.83,2015,Houston University,UHouston,63,33,30,University of Houston,0.5238095238095238
+184,184,185,"Trinity College, Dublin",Ireland,1,338,78,200,289,233,115,204.0,153,47.73,2015,,tcddublin,79,55,24,"Trinity College, Dublin",0.6962025316455697
+185,185,186,University of Lausanne,Switzerland,6,102,423,218,235,101,115,117.0,683,47.73,2015,Lausanne University,heclausanne,0,0,0,University of Lausanne,
+186,186,187,Iowa State University,USA,81,286,186,109,151,178,82,184.0,339,47.71,2015,,IowaStateU,11,9,2,Iowa State University,0.8181818181818182
+187,187,188,Joseph Fourier University,France,8,195,567,218,110,93,234,170.0,160,47.71,2015,,,11,8,3,Joseph Fourier University,0.7272727272727273
+188,188,189,Wayne State University,USA,82,367,183,218,189,258,125,176.0,117,47.67,2015,,waynestate,28,21,7,Wayne State University,0.75
+189,189,190,University of South Florida - Tampa,USA,83,367,418,218,233,251,197,164.0,70,47.66,2015,South Florida - Tampa University,,11,8,3,University of South Florida - Tampa,0.7272727272727273
+190,190,191,Zhejiang University,China,4,367,309,218,71,290,368,265.0,106,47.66,2015,,ZJU_China,0,0,0,Zhejiang University,
+191,191,192,Hanyang University,South Korea,6,367,168,218,286,471,368,396.0,31,47.6,2015,,HanyangUnited,0,0,0,Hanyang University,
+192,192,193,University of Ottawa,Canada,9,223,163,218,171,194,212,134.0,496,47.6,2015,Ottawa University,uOttawa,113,91,22,University of Ottawa,0.8053097345132744
+193,193,194,University of Missouri–Columbia,USA,84,250,88,98,222,226,161,242.0,150,47.59,2015,Missouri–Columbia University,Mizzou,59,34,25,University of Missouri–Columbia,0.576271186440678
+194,194,195,Fudan University,China,5,367,203,218,112,252,368,204.0,123,47.56,2015,,Fudan_U,0,0,0,Fudan University,
+195,195,196,University of Kansas,USA,85,228,91,218,212,161,161,235.0,127,47.52,2015,Kansas University,UnivOfKansas,12,10,2,University of Kansas,0.8333333333333334
+196,196,197,University of Cologne,Germany,12,367,132,201,204,138,146,161.0,421,47.52,2015,Cologne University,UniCologneIO,0,0,0,University of Cologne,
+197,197,198,University of Georgia,USA,86,93,188,172,181,132,234,256.0,82,47.5,2015,Georgia University,GMOA,0,0,0,University of Georgia,
+198,198,199,University of Liverpool,United Kingdom,15,176,179,207,154,172,128,174.0,377,47.49,2015,Liverpool University,LivUni,48,36,12,University of Liverpool,0.75
+199,199,200,University of Bern,Switzerland,7,184,526,213,163,128,93,159.0,433,47.49,2015,Bern University,uniofbern,0,0,0,University of Bern,
+200,200,201,Cardiff University,United Kingdom,16,321,218,143,178,153,146,170.0,193,47.46,2015,,cardiffuni,71,54,17,Cardiff University,0.7605633802816901
+201,201,202,George Washington University,USA,87,192,56,218,301,227,264,235.0,326,47.46,2015,,GWtweets,21,15,6,George Washington University,0.7142857142857143
+202,202,203,University of Illinois at Chicago,USA,88,367,541,218,126,196,287,179.0,129,47.39,2015,Illinois At Chicago University,deebrown11,1,0,1,University of Illinois at Chicago,0.0
+203,203,204,University of Erlangen-Nuremberg,Germany,13,231,554,218,176,202,146,134.0,361,47.36,2015,Erlangen-Nuremberg University,midnightmatt,0,0,0,University of Erlangen-Nuremberg,
+204,204,205,University of Münster,Germany,14,113,421,174,170,192,136,174.0,192,47.34,2015,Münster University,MP_Grosz,1,1,0,University of Münster,1.0
+205,205,206,Aix-Marseille University,France,9,218,451,218,119,87,182,197.0,230,47.31,2015,,univamu,6,2,4,Aix-Marseille University,0.3333333333333333
+206,206,207,Claude Bernard University Lyon 1,France,10,367,567,218,132,121,234,184.0,151,47.31,2015,,UnivLyon1,1,1,0,Claude Bernard University Lyon 1,1.0
+207,207,208,University of Bologna,Italy,4,350,348,218,136,281,212,161.0,354,47.28,2015,Bologna University,GiovannaCosenza,0,0,0,University of Bologna,
+208,208,209,Queen Mary University of London,United Kingdom,17,147,319,218,226,175,212,138.0,255,47.25,2015,London Queen Mary University,QMUL,59,48,11,Queen Mary University of London,0.8135593220338984
+209,209,210,Dresden University of Technology,Germany,15,367,567,218,188,212,146,195.0,102,47.25,2015,Technology Dresden University,G_Cuniberti,0,0,0,Dresden University of Technology,
+210,210,211,Sungkyunkwan University,South Korea,7,367,225,218,194,317,161,270.0,69,47.19,2015,,SSKUniversity,0,0,0,Sungkyunkwan University,
+211,211,212,Newcastle University,United Kingdom,18,367,222,218,192,159,234,159.0,365,47.17,2015,,UniofNewcastle,58,47,11,Newcastle University,0.8103448275862069
+212,212,213,Karlsruhe Institute of Technology,Germany,16,356,208,131,193,280,146,247.0,103,47.15,2015,,KITKarlsruhe,1,0,1,Karlsruhe Institute of Technology,0.0
+213,213,214,"University of California, Riverside",USA,89,247,567,218,209,113,161,169.0,194,47.13,2015,"California, Riverside University",UCRiverside,49,26,23,"University of California, Riverside",0.5306122448979592
+214,214,215,University of Kiel,Germany,17,193,487,198,232,183,161,143.0,310,47.11,2015,Kiel University,EvaStukenbrock,0,0,0,University of Kiel,
+215,215,216,University of Western Australia,Australia,7,156,306,145,146,181,368,179.0,399,47.1,2015,Western Australia University,uwanews,14,9,5,University of Western Australia,0.6428571428571429
+216,216,217,Paris Descartes University,France,11,203,567,218,177,142,287,156.0,455,47.06,2015,,upemlv,1,1,0,Paris Descartes University,1.0
+217,217,218,University of Connecticut,USA,90,296,259,218,168,193,197,190.0,186,47.06,2015,Connecticut University,UConn,36,18,18,University of Connecticut,0.5
+218,218,219,University of Massachusetts Amherst,USA,91,212,141,159,198,191,212,200.0,356,47.05,2015,Massachusetts Amherst University,UMassAmherst,29,15,14,University of Massachusetts Amherst,0.5172413793103449
+219,219,220,Chinese University of Hong Kong,Hong Kong,2,100,479,116,162,356,212,209.0,168,47.05,2015,Hong Kong Chinese University,CUHKofficial,3,3,0,Chinese University of Hong Kong,1.0
+220,220,221,University of Turin,Italy,5,315,450,163,206,278,197,150.0,613,47.04,2015,Turin University,FilBarbera,0,0,0,University of Turin,
+221,221,222,University of Manitoba,Canada,10,157,93,155,261,308,212,256.0,175,47.04,2015,Manitoba University,umanitoba,30,23,7,University of Manitoba,0.7666666666666667
+222,222,223,University of Vienna,Austria,1,191,185,101,231,154,161,200.0,671,47.03,2015,Vienna University,univienna,28,22,6,University of Vienna,0.7857142857142857
+223,223,224,University of Montpellier,France,12,289,462,169,165,129,146,184.0,511,47.0,2015,Montpellier University,sSigmA_,0,0,0,University of Montpellier,
+224,224,225,Maastricht University,Netherlands,8,367,567,218,185,354,234,156.0,281,47.0,2015,,ITEM_UM,0,0,0,Maastricht University,
+225,225,226,National Cheng Kung University,Taiwan,2,367,52,218,164,485,812,388.0,436,46.97,2015,,NCKU_official,0,0,0,National Cheng Kung University,
+226,226,227,"University of Tennessee, Knoxville",USA,92,319,117,218,196,187,197,219.0,449,46.96,2015,"Tennessee, Knoxville University",UTKnoxville,32,19,13,"University of Tennessee, Knoxville",0.59375
+227,227,228,Complutense University of Madrid,Spain,2,86,68,214,215,309,368,335.0,256,46.96,2015,Madrid Complutense University,unicomplutense,5,3,2,Complutense University of Madrid,0.6
+228,228,229,Laval University,Canada,11,292,273,218,207,270,182,200.0,140,46.95,2015,,universitelaval,66,60,6,Laval University,0.9090909090909091
+229,229,230,RWTH Aachen University,Germany,18,357,238,131,197,359,182,219.0,158,46.9,2015,,RWTH,4,3,1,RWTH Aachen University,0.75
+230,230,231,Université catholique de Louvain,Belgium,4,367,264,97,283,325,115,213.0,236,46.89,2015,,UCLouvain_be,3,3,0,Université catholique de Louvain,1.0
+231,231,232,North Carolina State University,USA,93,251,228,218,157,206,182,242.0,161,46.89,2015,,NCState,35,26,9,North Carolina State University,0.7428571428571429
+232,232,233,Johannes Gutenberg University of Mainz,Germany,19,367,567,194,210,185,161,164.0,523,46.88,2015,Mainz Johannes Gutenberg University,,11,8,3,Johannes Gutenberg University of Mainz,0.7272727272727273
+233,233,234,University of Texas Health Science Center at San Antonio,USA,94,367,567,218,314,229,197,140.0,315,46.88,2015,Texas Health Science Center At San Antonio University,UTHealthSA,7,6,1,University of Texas Health Science Center at San Antonio,0.8571428571428571
+234,234,235,Julius-Maximilian's University of Würzburg,Germany,20,106,391,168,216,179,287,179.0,369,46.85,2015,Würzburg Julius-Maximilian'S University,,11,8,3,Julius-Maximilian's University of Würzburg,0.7272727272727273
+235,235,236,Paul Sabatier University - Toulouse III,France,13,367,567,218,158,102,321,188.0,514,46.81,2015,,UT3PaulSabatier,2,2,0,Paul Sabatier University - Toulouse III,1.0
+236,236,237,University of Gothenburg,Sweden,6,257,294,116,217,197,136,197.0,871,46.79,2015,Gothenburg University,goteborgsuni,8,4,4,University of Gothenburg,0.5
+237,237,238,University College Dublin,Ireland,2,241,112,218,288,285,128,247.0,278,46.79,2015,,ucddublin,62,37,25,University College Dublin,0.5967741935483871
+238,238,239,University of Science and Technology of China,China,6,367,192,218,128,269,368,247.0,452,46.73,2015,Science And Technology   China University,,11,8,3,University of Science and Technology of China,0.7272727272727273
+239,239,240,University of Leicester,United Kingdom,19,367,567,218,258,139,197,170.0,385,46.72,2015,Leicester University,uniofleicester,63,54,9,University of Leicester,0.8571428571428571
+240,240,241,Autonomous University of Barcelona,Spain,3,367,567,218,144,220,264,213.0,277,46.72,2015,Barcelona Autonomous University,UABBarcelona,3,2,1,Autonomous University of Barcelona,0.6666666666666666
+241,241,242,University of Dundee,United Kingdom,20,178,567,218,354,200,161,176.0,216,46.68,2015,Dundee University,dundeeuni,38,30,8,University of Dundee,0.7894736842105263
+242,242,243,Norwegian University of Science and Technology,Norway,2,252,119,75,279,366,212,273.0,327,46.67,2015,Science And Technology Norwegian University,NTNU,14,14,0,Norwegian University of Science and Technology,1.0
+243,243,244,Nanjing University,China,7,342,362,218,134,358,234,265.0,164,46.61,2015,,njuniversity,1,1,0,Nanjing University,1.0
+244,244,245,Okayama University,Japan,11,367,288,218,353,335,287,318.0,60,46.59,2015,,OkayamaHigh,0,0,0,Okayama University,
+245,245,246,London School of Hygiene & Tropical Medicine,United Kingdom,21,367,567,159,300,294,264,164.0,736,46.59,2015,,LSHTM,22,15,7,London School of Hygiene & Tropical Medicine,0.6818181818181818
+246,246,247,University of Florence,Italy,6,327,326,94,218,275,197,227.0,564,46.58,2015,Florence University,DraytonFlorence,0,0,0,University of Florence,
+247,247,248,University of Cape Town,South Africa,2,104,126,146,319,236,234,265.0,268,46.58,2015,Cape Town University,UCT_news,20,14,6,University of Cape Town,0.7
+248,248,249,University of Texas Health Science Center at Houston,USA,95,367,567,155,257,162,212,190.0,337,46.56,2015,Texas Health Science Center At Houston University,UTexasSPH,2,2,0,University of Texas Health Science Center at Houston,1.0
+249,249,250,Moscow Institute of Physics and Technology,Russia,2,23,339,218,949,605,812,1000.0,839,46.55,2015,,phystech_en,0,0,0,Moscow Institute of Physics and Technology,
+250,250,251,University of Düsseldorf,Germany,21,185,567,218,297,209,182,178.0,454,46.54,2015,Düsseldorf University,,11,8,3,University of Düsseldorf,0.7272727272727273
+251,251,252,Florida State University,USA,96,367,334,218,200,184,136,225.0,411,46.53,2015,,floridastate,36,26,10,Florida State University,0.7222222222222222
+252,252,253,University of Sussex,United Kingdom,22,151,257,57,359,250,161,308.0,553,46.49,2015,Sussex University,SussexUni,83,63,20,University of Sussex,0.7590361445783133
+253,253,254,Thomas Jefferson University,USA,97,158,567,218,333,334,161,179.0,502,46.47,2015,,JeffersonUniv,5,2,3,Thomas Jefferson University,0.4
+254,254,255,Delft University of Technology,Netherlands,9,307,300,218,224,224,264,247.0,146,46.46,2015,Technology Delft University,tudelft,36,26,10,Delft University of Technology,0.7222222222222222
+255,255,256,Virginia Polytechnic Institute and State University,USA,98,283,152,218,201,264,234,285.0,181,46.46,2015,,virginia_tech,31,20,11,Virginia Polytechnic Institute and State University,0.6451612903225806
+256,256,257,University of Lisbon,Portugal,1,337,465,152,155,296,197,251.0,495,46.43,2015,Lisbon University,NOVAunl,3,2,1,University of Lisbon,0.6666666666666666
+257,257,258,Drexel University,USA,99,367,233,218,362,338,287,273.0,91,46.43,2015,,DrexelUniv,12,8,4,Drexel University,0.6666666666666666
+258,258,259,Virginia Commonwealth University,USA,100,367,403,150,264,253,321,213.0,206,46.43,2015,,VCU,122,49,73,Virginia Commonwealth University,0.4016393442622951
+259,259,260,Oregon State University,USA,101,189,239,218,263,148,161,235.0,389,46.42,2015,,OregonState,84,67,17,Oregon State University,0.7976190476190477
+260,260,261,Durham University,United Kingdom,23,132,267,116,248,199,197,242.0,460,46.42,2015,,durham_uni,77,56,21,Durham University,0.7272727272727273
+261,261,262,University of Tsukuba,Japan,12,202,567,107,230,255,212,242.0,213,46.41,2015,Tsukuba University,ITF_judodokokai,0,0,0,University of Tsukuba,
+262,262,263,University of Reading,United Kingdom,24,258,63,218,400,347,182,361.0,666,46.4,2015,Reading University,UniofReading,83,55,28,University of Reading,0.6626506024096386
+263,263,264,Lehigh University,USA,102,367,47,218,615,542,511,511.0,534,46.4,2015,,LehighU,6,2,4,Lehigh University,0.3333333333333333
+264,264,265,Medical University of Vienna,Austria,2,367,567,218,251,228,212,197.0,366,46.39,2015,Vienna Medical University,dgarcia_eu,0,0,0,Medical University of Vienna,
+265,265,266,University of Auckland,New Zealand,1,235,419,218,253,260,234,256.0,125,46.38,2015,Auckland University,AucklandUni,22,17,5,University of Auckland,0.7727272727272727
+266,266,267,University of Kentucky,USA,103,332,290,218,182,216,321,231.0,447,46.37,2015,Kentucky University,universityofky,16,11,5,University of Kentucky,0.6875
+267,267,268,University of Naples Federico II,Italy,7,331,459,218,175,324,234,227.0,792,46.36,2015,Naples Federico Ii University,UninaIT,6,6,0,University of Naples Federico II,1.0
+268,268,269,University of Waterloo,Canada,12,367,124,218,190,333,234,292.0,626,46.34,2015,Waterloo University,UWaterloo,65,40,25,University of Waterloo,0.6153846153846154
+269,269,270,Charles University in Prague,Czech Republic,1,238,560,116,228,238,182,227.0,636,46.32,2015,,HumanEthologyCZ,0,0,0,Charles University in Prague,
+270,270,271,Colorado State University - Fort Collins,USA,104,211,493,148,244,203,234,231.0,257,46.32,2015,,,11,8,3,Colorado State University - Fort Collins,0.7272727272727273
+271,271,272,Tulane University,USA,105,324,144,218,365,299,264,251.0,258,46.31,2015,,Tulane,3,3,0,Tulane University,1.0
+272,272,273,"University at Buffalo, The State University of New York",USA,106,367,398,218,203,298,287,235.0,237,46.3,2015,"New York University At Buffalo, The State University",UBuffalo,12,8,4,"University at Buffalo, The State University of New York",0.6666666666666666
+273,273,274,Brandeis University,USA,107,51,342,78,549,195,428,330.0,249,46.29,2015,,BrandeisU,24,18,6,Brandeis University,0.75
+274,274,275,Northeastern University,USA,108,316,125,218,370,312,264,362.0,86,46.29,2015,,Northeastern,65,28,37,Northeastern University,0.4307692307692308
+275,275,276,Wageningen University and Research Centre,Netherlands,10,293,512,175,214,168,234,235.0,477,46.26,2015,,WUR,24,18,6,Wageningen University and Research Centre,0.75
+276,276,277,Sun Yat-sen University,China,8,367,254,218,161,393,287,285.0,221,46.25,2015,,MuGOHER,0,0,0,Sun Yat-sen University,
+277,277,278,University of Ulm,Germany,22,367,471,131,290,231,321,209.0,594,46.24,2015,Ulm University,,11,8,3,University of Ulm,0.7272727272727273
+278,278,279,London School of Economics,United Kingdom,25,78,65,91,503,739,264,590.0,871,46.22,2015,,LSEnews,31,24,7,London School of Economics,0.7741935483870968
+279,279,280,Vrije Universiteit Brussel,Belgium,5,110,567,218,294,301,161,231.0,506,46.21,2015,,VUBrussel,6,6,0,Vrije Universiteit Brussel,1.0
+280,280,281,University of Delaware,USA,109,318,337,135,272,304,234,292.0,120,46.21,2015,Delaware University,UDelaware,22,15,7,University of Delaware,0.6818181818181818
+281,281,282,Rensselaer Polytechnic Institute,USA,110,137,142,218,402,346,182,292.0,210,46.19,2015,,arasbulent,0,0,0,Rensselaer Polytechnic Institute,
+282,282,283,University of Bergen,Norway,3,367,567,218,229,201,212,227.0,871,46.18,2015,Bergen University,UNESCOchairUiB,2,1,1,University of Bergen,0.5
+283,283,284,Queen's University,Canada,13,322,155,218,254,274,264,281.0,275,46.18,2015,,queensu,23,20,3,Queen's University,0.8695652173913043
+284,284,285,University of Aberdeen,United Kingdom,26,360,314,199,273,207,287,225.0,422,46.17,2015,Aberdeen University,aberdeenuni,49,36,13,University of Aberdeen,0.7346938775510204
+285,285,286,Dalhousie University,Canada,14,367,137,218,280,247,264,273.0,384,46.17,2015,,DalhousieU,25,17,8,Dalhousie University,0.68
+286,286,287,Umeå University,Sweden,7,367,567,218,275,198,212,219.0,871,46.14,2015,,UmeaUniversity,5,1,4,Umeå University,0.2
+287,287,288,University of Duisburg-Essen,Germany,23,367,498,218,287,282,321,216.0,348,46.13,2015,Duisburg-Essen University,AchimTruger,14,11,3,University of Duisburg-Essen,0.7857142857142857
+288,288,289,City College of New York,USA,111,31,187,218,680,422,511,590.0,358,46.12,2015,,CityCollegeNY,12,6,6,City College of New York,0.5
+289,289,290,Hiroshima University,Japan,13,367,567,218,304,287,428,273.0,112,46.12,2015,,HU_Research,1,0,1,Hiroshima University,0.0
+290,290,291,University of Texas at San Antonio,USA,112,367,567,218,445,376,197,216.0,254,46.1,2015,Texas At San Antonio University,UTSA,80,54,26,University of Texas at San Antonio,0.675
+291,291,292,Hannover Medical School,Germany,24,367,567,218,322,245,287,219.0,308,46.07,2015,,Bioinformatik80,0,0,0,Hannover Medical School,
+292,292,293,University of Warwick,United Kingdom,27,210,444,116,205,239,161,308.0,234,46.05,2015,Warwick University,warwickuni,64,54,10,University of Warwick,0.84375
+293,293,294,University of Valencia,Spain,4,367,470,218,208,348,264,256.0,548,46.03,2015,Valencia University,GenomicsLab_UV,0,0,0,University of Valencia,
+294,294,295,University of Pisa,Italy,8,273,473,218,227,360,212,255.0,528,46.03,2015,Pisa University,CPiaggioUniPisa,0,0,0,University of Pisa,
+295,295,296,Ruhr University Bochum,Germany,25,367,235,218,236,235,368,265.0,797,46.0,2015,,ruhrunibochum,22,20,2,Ruhr University Bochum,0.9090909090909091
+296,296,297,Medical College of Wisconsin,USA,113,367,567,218,337,284,321,219.0,659,45.97,2015,,MedicalCollege,18,16,2,Medical College of Wisconsin,0.8888888888888888
+297,297,298,University of Louisville,USA,114,367,484,218,338,405,368,300.0,105,45.97,2015,Louisville University,uofl,43,19,24,University of Louisville,0.4418604651162791
+298,298,299,University of Bordeaux,France,14,354,567,218,291,265,234,251.0,297,45.96,2015,Bordeaux University,Welcome_UBx,0,0,0,University of Bordeaux,
+299,299,300,University of South Carolina - Columbia,USA,115,367,299,185,262,367,146,273.0,649,45.95,2015,South Carolina - Columbia University,UofSC,66,40,26,University of South Carolina - Columbia,0.6060606060606061
+300,300,301,National and Kapodistrian University of Athens,Greece,1,367,200,218,245,416,428,273.0,871,45.94,2015,Athens National And Kapodistrian University,uoaofficial,0,0,0,National and Kapodistrian University of Athens,
+301,301,302,Leipzig University,Germany,26,326,567,208,281,266,511,242.0,364,45.94,2015,,ubleipzig,0,0,0,Leipzig University,
+302,302,303,Medical University of South Carolina,USA,116,367,567,218,316,364,287,231.0,508,45.94,2015,South Carolina Medical University,muschollings,0,0,0,Medical University of South Carolina,
+303,303,304,Autonomous University of Madrid,Spain,5,367,460,218,225,256,321,262.0,443,45.92,2015,Madrid Autonomous University,UAM_Madrid,3,3,0,Autonomous University of Madrid,1.0
+304,304,305,Dalian University of Technology,China,9,367,104,218,313,667,511,409.0,131,45.92,2015,Technology Dalian University,,11,8,3,Dalian University of Technology,0.7272727272727273
+305,305,306,Stellenbosch University,South Africa,3,367,66,218,520,503,321,486.0,219,45.92,2015,,matiesstudents,4,3,1,Stellenbosch University,0.75
+306,306,307,Kyungpook National University,South Korea,8,367,412,218,355,625,321,413.0,66,45.92,2015,,zozemo,0,0,0,Kyungpook National University,
+307,307,308,University of Porto,Portugal,2,94,316,90,266,380,264,341.0,405,45.91,2015,Porto University,UPorto,0,0,0,University of Porto,
+308,308,309,University of St Andrews,United Kingdom,28,145,506,218,308,188,321,281.0,189,45.89,2015,St Andrews University,univofstandrews,43,35,8,University of St Andrews,0.813953488372093
+309,309,310,Gwangju Institute of Science and Technology,South Korea,9,367,567,218,540,538,368,529.0,54,45.88,2015,,cmwony90,0,0,0,Gwangju Institute of Science and Technology,
+310,310,311,Chulalongkorn University,Thailand,1,367,57,218,584,734,511,558.0,871,45.86,2015,,ChulalongkornU,0,0,0,Chulalongkorn University,
+311,311,312,University of Antwerp,Belgium,6,367,567,218,265,307,234,265.0,372,45.84,2015,Antwerp University,UA_VehicleTeam,0,0,0,University of Antwerp,
+312,312,313,Xiamen University,China,10,367,80,218,331,493,645,409.0,467,45.83,2015,,xmumalaysia,0,0,0,Xiamen University,
+313,313,314,University of Nebraska–Lincoln,USA,117,165,207,218,278,262,234,311.0,456,45.8,2015,Nebraska–Lincoln University,UNLincoln,24,20,4,University of Nebraska–Lincoln,0.8333333333333334
+314,314,315,Nankai University,China,11,334,135,218,282,454,321,334.0,419,45.8,2015,,servetsapci,0,0,0,Nankai University,
+315,315,316,University of Stuttgart,Germany,27,82,172,218,399,369,511,335.0,376,45.79,2015,Stuttgart University,sfb_1313,0,0,0,University of Stuttgart,
+316,316,317,University of Rome Tor Vergata,Italy,9,367,557,218,267,272,287,262.0,816,45.79,2015,Rome Tor Vergata University,unitorvergata,1,1,0,University of Rome Tor Vergata,1.0
+317,317,318,University of Regensburg,Germany,28,367,303,218,302,241,287,270.0,522,45.79,2015,Regensburg University,MedienInfRgb,0,0,0,University of Regensburg,
+318,318,319,Hong Kong University of Science and Technology,Hong Kong,3,367,359,218,256,466,368,300.0,185,45.77,2015,Science And Technology Hong Kong University,mixingale,0,0,0,Hong Kong University of Science and Technology,
+319,319,320,Kobe University,Japan,14,95,240,116,368,271,321,335.0,301,45.74,2015,,KobeU_Global,0,0,0,Kobe University,
+320,320,321,University of Liège,Belgium,7,143,567,144,317,218,234,300.0,285,45.73,2015,Liège University,xavierfettweis,0,0,0,University of Liège,
+321,321,322,Federal University of Rio de Janeiro,Brazil,2,125,116,218,305,330,645,381.0,295,45.72,2015,Rio De Janeiro Federal University,ufrj,0,0,0,Federal University of Rio de Janeiro,
+322,322,323,Rush University,USA,118,367,567,218,427,404,197,260.0,871,45.71,2015,,RushMedical,12,12,0,Rush University,1.0
+323,323,324,University of Vermont,USA,119,198,256,218,357,288,368,285.0,397,45.7,2015,Vermont University,uvmvermont,10,9,1,University of Vermont,0.9
+324,324,325,University of York,United Kingdom,29,367,567,218,270,205,161,300.0,406,45.69,2015,York University,UniOfYork,120,95,25,University of York,0.7916666666666666
+325,325,326,Boston College,USA,120,367,97,218,557,363,197,402.0,386,45.65,2015,,BostonCollege,26,14,12,Boston College,0.5384615384615384
+326,326,327,University of Pavia,Italy,10,295,380,214,330,381,264,273.0,680,45.64,2015,Pavia University,unipv,3,3,0,University of Pavia,1.0
+327,327,328,University of Jena,Germany,29,367,567,218,260,263,321,289.0,457,45.64,2015,Jena University,csteinbeck,0,0,0,University of Jena,
+328,328,329,Vita-Salute San Raffaele University,Italy,11,367,567,218,478,279,321,260.0,871,45.61,2015,,GGandaglia,0,0,0,Vita-Salute San Raffaele University,
+329,329,330,University of Genoa,Italy,12,367,567,218,299,402,234,285.0,537,45.61,2015,Genoa University,GenoaSudan,0,0,0,University of Genoa,
+330,330,331,Tianjin University,China,12,367,77,218,348,934,428,606.0,245,45.61,2015,,TJU1895,0,0,0,Tianjin University,
+331,331,332,Louisiana State University - Baton Rouge,USA,121,270,177,218,292,215,197,353.0,458,45.61,2015,,,11,8,3,Louisiana State University - Baton Rouge,0.7272727272727273
+332,332,333,University of Exeter,United Kingdom,30,264,481,218,293,174,428,295.0,353,45.59,2015,Exeter University,UniofExeter,111,80,31,University of Exeter,0.7207207207207207
+333,333,334,National Autonomous University of Mexico,Mexico,1,282,546,218,199,219,368,330.0,486,45.58,2015,Mexico National Autonomous University,UNAM_MX,1,1,0,National Autonomous University of Mexico,1.0
+334,334,335,University of Adelaide,Australia,8,219,445,218,234,243,287,318.0,465,45.58,2015,Adelaide University,environmentinst,6,5,1,University of Adelaide,0.8333333333333334
+335,335,336,University of East Anglia,United Kingdom,31,206,567,179,349,211,146,313.0,500,45.58,2015,East Anglia University,uniofeastanglia,92,68,24,University of East Anglia,0.7391304347826086
+336,336,337,York University,Canada,15,367,106,218,382,408,264,388.0,871,45.56,2015,,yorkuniversity,44,29,15,York University,0.6590909090909091
+337,337,338,University of Navarra,Spain,6,367,76,218,578,722,511,503.0,645,45.56,2015,Navarra University,unav,1,1,0,University of Navarra,1.0
+338,338,339,University of Oregon,USA,122,346,567,218,378,217,161,295.0,729,45.55,2015,Oregon University,uoregon,46,24,22,University of Oregon,0.5217391304347826
+339,339,340,"St George's, University of London",United Kingdom,32,367,567,218,554,476,368,262.0,648,45.55,2015,"London St George'S, University",StGeorgesUni,25,17,8,"St George's, University of London",0.68
+340,340,341,Indian Institute of Technology Delhi,India,1,367,59,218,635,943,812,781.0,625,45.54,2015,,iitdelhi,16,13,3,Indian Institute of Technology Delhi,0.8125
+341,341,342,University of Trieste,Italy,13,367,443,218,395,286,287,281.0,616,45.54,2015,Trieste University,UrologiaTrieste,0,0,0,University of Trieste,
+342,342,343,Queen's University Belfast,United Kingdom,33,183,387,218,306,276,264,313.0,377,45.53,2015,,QUBelfast,39,23,16,Queen's University Belfast,0.5897435897435898
+343,343,344,University of Perugia,Italy,14,367,567,116,375,332,428,289.0,642,45.53,2015,Perugia University,PVRGunipg,0,0,0,University of Perugia,
+344,344,345,Technical University of Berlin,Germany,30,85,271,218,360,412,368,388.0,177,45.52,2015,Berlin Technical University,TUBerlin,3,1,2,Technical University of Berlin,0.3333333333333333
+345,345,346,University of Marburg,Germany,31,304,567,217,329,249,428,300.0,271,45.51,2015,Marburg University,AO_Marburg,0,0,0,University of Marburg,
+346,346,347,University of Innsbruck,Austria,3,197,397,112,430,222,287,311.0,442,45.51,2015,Innsbruck University,uniinnsbruck,3,2,1,University of Innsbruck,0.6666666666666666
+347,347,348,Eindhoven University of Technology,Netherlands,11,367,347,186,306,549,321,318.0,279,45.51,2015,Technology Eindhoven University,TUeindhoven,11,7,4,Eindhoven University of Technology,0.6363636363636364
+348,348,349,Ben-Gurion University of the Negev,Israel,5,367,567,218,277,379,428,381.0,118,45.49,2015,The Negev Ben-Gurion University,bengurionu,4,4,0,Ben-Gurion University of the Negev,1.0
+349,349,350,University of Oklahoma - Norman Campus,USA,123,367,150,218,383,240,234,362.0,474,45.49,2015,Oklahoma - Norman Campus University,,11,8,3,University of Oklahoma - Norman Campus,0.7272727272727273
+350,350,351,Wesleyan University,USA,124,154,61,218,983,506,812,850.0,871,45.48,2015,,OhioWesleyan,2,2,0,Wesleyan University,1.0
+351,351,352,University of Victoria,Canada,16,367,567,218,321,328,234,300.0,853,45.48,2015,Victoria University,uvic,37,32,5,University of Victoria,0.8648648648648649
+352,352,353,Kansas State University,USA,125,130,229,218,373,320,212,358.0,294,45.47,2015,,KState,16,10,6,Kansas State University,0.625
+353,353,354,Hong Kong Polytechnic University,Hong Kong,4,367,166,218,259,764,511,375.0,329,45.47,2015,,HongKongPolyU,3,3,0,Hong Kong Polytechnic University,1.0
+354,354,355,Linköping University,Sweden,8,367,237,218,323,401,368,324.0,871,45.47,2015,,shony_lalengke,0,0,0,Linköping University,
+355,355,356,University of Southern Denmark,Denmark,4,367,567,218,386,327,321,295.0,320,45.46,2015,Southern Denmark University,UniSouthDenmark,0,0,0,University of Southern Denmark,
+356,356,357,University of Otago,New Zealand,2,367,377,218,312,353,287,313.0,542,45.44,2015,Otago University,otago,18,13,5,University of Otago,0.7222222222222222
+357,357,358,Justus Liebig University Giessen,Germany,32,367,567,218,332,357,264,313.0,309,45.43,2015,,jlugiessen,1,1,0,Justus Liebig University Giessen,1.0
+358,358,359,University of New Hampshire,USA,126,367,318,79,531,273,234,362.0,596,45.42,2015,New Hampshire University,UofNH,45,28,17,University of New Hampshire,0.6222222222222222
+359,359,360,College of William and Mary,USA,127,367,85,218,611,459,321,511.0,809,45.42,2015,,williamandmary,9,7,2,College of William and Mary,0.7777777777777778
+360,360,361,San Diego State University,USA,128,248,204,218,467,302,264,339.0,509,45.41,2015,,SDSU,86,46,40,San Diego State University,0.5348837209302325
+361,361,362,Simon Fraser University,Canada,17,367,567,218,284,303,368,324.0,381,45.4,2015,,SFU,52,32,20,Simon Fraser University,0.6153846153846154
+362,362,363,University of Santiago de Compostela,Spain,7,367,489,218,385,600,287,373.0,126,45.4,2015,Santiago De Compostela University,TomD_Santiago,0,0,0,University of Santiago de Compostela,
+363,363,364,Saint Louis University,USA,129,367,261,202,458,293,428,330.0,286,45.39,2015,,SLU_Official,13,11,2,Saint Louis University,0.8461538461538461
+364,364,365,Colorado School of Mines,USA,130,367,81,218,668,601,321,565.0,690,45.39,2015,,coschoolofmines,6,5,1,Colorado School of Mines,0.8333333333333334
+365,365,366,University of Eastern Finland,Finland,2,367,567,218,374,388,321,300.0,861,45.37,2015,Eastern Finland University,UniEastFinland,2,1,1,University of Eastern Finland,0.5
+366,366,367,University of Buenos Aires,Argentina,1,126,500,180,276,350,321,344.0,871,45.37,2015,Buenos Aires University,martinkrause,0,0,0,University of Buenos Aires,
+367,367,368,University of Guelph,Canada,18,367,483,218,325,277,146,344.0,445,45.36,2015,Guelph University,UofGuelphNews,1,1,0,University of Guelph,1.0
+368,368,369,University of Ferrara,Italy,15,367,567,218,416,392,287,300.0,656,45.36,2015,Ferrara University,JC_Rotondo,0,0,0,University of Ferrara,
+369,369,370,Polytechnic University of Catalonia,Spain,8,367,330,218,371,576,368,540.0,85,45.36,2015,Catalonia Polytechnic University,la_UPC,4,2,2,Polytechnic University of Catalonia,0.5
+370,370,371,Versailles Saint-Quentin-en-Yvelines University,France,15,367,567,218,443,232,264,308.0,839,45.36,2015,,uvsq,1,0,1,Versailles Saint-Quentin-en-Yvelines University,0.0
+371,371,372,Saarland University,Germany,33,367,375,218,392,434,428,318.0,367,45.33,2015,,memeei_,0,0,0,Saarland University,
+372,372,373,City University of Hong Kong,Hong Kong,5,367,567,218,252,874,511,339.0,387,45.33,2015,Hong Kong City University,FuDaoge,0,0,0,City University of Hong Kong,
+373,373,374,Darmstadt University of Technology,Germany,34,66,344,218,376,457,368,413.0,330,45.32,2015,Technology Darmstadt University,nitschv,0,0,0,Darmstadt University of Technology,
+374,374,375,Pompeu Fabra University,Spain,9,367,567,218,397,164,428,318.0,604,45.31,2015,,UPFBarcelona,1,1,0,Pompeu Fabra University,1.0
+375,375,376,Pontifical Catholic University of Chile,Chile,1,343,139,218,446,310,645,388.0,396,45.31,2015,Chile Pontifical Catholic University,,11,8,3,Pontifical Catholic University of Chile,0.7272727272727273
+376,376,377,University of Bari Aldo Moro,Italy,16,367,567,218,352,322,511,313.0,527,45.31,2015,Bari Aldo Moro University,unibait,1,1,0,University of Bari Aldo Moro,1.0
+377,377,378,University of Texas Medical Branch at Galveston,USA,131,367,567,218,401,311,321,324.0,333,45.3,2015,Texas Medical Branch At Galveston University,utmbhealth,31,15,16,University of Texas Medical Branch at Galveston,0.4838709677419355
+378,378,379,University of Delhi,India,2,240,72,218,703,763,812,796.0,797,45.3,2015,Delhi University,Delhi_U,0,0,0,University of Delhi,
+379,379,380,"Washington State University, Pullman",USA,132,367,301,131,334,234,428,362.0,298,45.29,2015,,WSUPullman,34,27,7,"Washington State University, Pullman",0.7941176470588235
+380,380,381,Temple University,USA,133,272,553,218,326,349,511,349.0,211,45.29,2015,,TempleUniv,23,21,2,Temple University,0.9130434782608695
+381,381,382,University of Milan - Bicocca,Italy,17,367,567,218,390,305,287,324.0,468,45.28,2015,Milan - Bicocca University,iBicocca,0,0,0,University of Milan - Bicocca,
+382,382,383,University of Turku,Finland,3,367,531,218,320,319,812,330.0,568,45.27,2015,Turku University,UniTurku,6,3,3,University of Turku,0.5
+383,383,384,Chonnam National University,South Korea,10,367,547,218,405,589,511,437.0,109,45.27,2015,,2_KJ,0,0,0,Chonnam National University,
+384,384,385,University of Lorraine,France,16,216,213,190,311,342,321,437.0,208,45.25,2015,Lorraine University,Univ_Lorraine,2,2,0,University of Lorraine,1.0
+385,385,386,National Chiao Tung University,Taiwan,3,367,206,218,240,651,428,413.0,871,45.24,2015,,,11,8,3,National Chiao Tung University,0.7272727272727273
+386,386,387,Catholic University of the Sacred Heart,Italy,18,367,555,218,424,482,321,324.0,770,45.22,2015,The Sacred Heart Catholic University,raulcaruso,0,0,0,Catholic University of the Sacred Heart,
+387,387,388,"University at Albany, SUNY",USA,134,180,567,165,411,374,212,353.0,531,45.22,2015,,ualbany,30,25,5,"University at Albany, SUNY",0.8333333333333334
+388,388,389,Xi'an Jiaotong University,China,13,367,154,218,271,583,812,606.0,174,45.21,2015,,,11,8,3,Xi'an Jiaotong University,0.7272727272727273
+389,389,390,Ewha Womans University,South Korea,11,367,567,218,462,509,645,457.0,107,45.2,2015,,EwhaVoice,0,0,0,Ewha Womans University,
+390,390,391,Jilin University,China,14,220,338,218,239,452,645,375.0,551,45.2,2015,,JLU_CN,0,0,0,Jilin University,
+391,391,392,Tokyo Medical and Dental University,Japan,15,367,567,218,473,352,645,335.0,272,45.2,2015,,TMDUniversity,0,0,0,Tokyo Medical and Dental University,
+392,392,393,Scuola Normale Superiore di Pisa,Italy,19,263,567,61,548,526,321,503.0,871,45.2,2015,,,11,8,3,Scuola Normale Superiore di Pisa,0.7272727272727273
+393,393,394,University of Central Florida,USA,135,367,501,218,381,386,511,381.0,159,45.18,2015,Central Florida University,UCF,100,62,38,University of Central Florida,0.62
+394,394,395,Innsbruck Medical University,Austria,4,367,567,218,469,413,812,324.0,678,45.18,2015,,xt00ph,0,0,0,Innsbruck Medical University,
+395,395,396,Beijing Normal University,China,15,57,567,218,363,492,428,480.0,755,45.17,2015,,BNU_Official,0,0,0,Beijing Normal University,
+396,396,397,Polytechnic University of Milan,Italy,20,103,181,191,358,510,428,503.0,292,45.17,2015,Milan Polytechnic University,polimi,3,2,1,Polytechnic University of Milan,0.6666666666666666
+397,397,398,University of Seville,Spain,10,367,564,218,339,516,428,529.0,104,45.17,2015,Seville University,unisevilla,1,0,1,University of Seville,0.0
+398,398,399,University of Nebraska Medical Center,USA,136,367,567,218,463,399,368,344.0,253,45.16,2015,Nebraska Medical Center University,unmc,55,49,6,University of Nebraska Medical Center,0.8909090909090909
+399,399,400,Huazhong University of Science and Technology,China,16,367,282,218,219,626,645,480.0,242,45.16,2015,Science And Technology Huazhong University,,11,8,3,Huazhong University of Science and Technology,0.7272727272727273
+400,400,401,Kyung Hee University,South Korea,12,245,495,218,380,584,645,558.0,95,45.16,2015,,kh_univ,0,0,0,Kyung Hee University,
+401,401,402,Chalmers University of Technology,Sweden,9,361,311,218,367,426,428,349.0,871,45.16,2015,Technology Chalmers University,chalmersuniv,1,1,0,Chalmers University of Technology,1.0
+402,402,403,Brigham Young University,USA,137,298,361,218,498,424,287,424.0,134,45.15,2015,,BYU,40,18,22,Brigham Young University,0.45
+403,403,404,University of Campinas,Brazil,3,367,567,218,295,575,511,388.0,197,45.14,2015,Campinas University,JorgeStolfi,4,0,4,University of Campinas,0.0
+404,404,405,University of Bath,United Kingdom,34,367,368,218,388,378,287,353.0,478,45.14,2015,Bath University,UniofBath,28,20,8,University of Bath,0.7142857142857143
+405,405,406,Saint Petersburg State University,Russia,3,47,250,218,621,574,645,754.0,816,45.14,2015,,Don4a,0,0,0,Saint Petersburg State University,
+406,406,407,National Tsing Hua University,Taiwan,4,262,520,218,238,425,428,375.0,731,45.14,2015,,gshmueli,0,0,0,National Tsing Hua University,
+407,407,408,University of Twente,Netherlands,12,367,511,218,343,511,368,358.0,288,45.14,2015,Twente University,UTwente,12,7,5,University of Twente,0.5833333333333334
+408,408,409,University of Alabama - Tuscaloosa,USA,138,325,140,218,511,490,368,471.0,314,45.14,2015,Alabama - Tuscaloosa University,,11,8,3,University of Alabama - Tuscaloosa,0.7272727272727273
+409,409,410,Harbin Institute of Technology,China,17,367,244,218,241,847,645,437.0,375,45.14,2015,,victoriacharlz,4,2,2,Harbin Institute of Technology,0.5
+410,410,411,University of Verona,Italy,21,367,567,218,508,464,212,341.0,736,45.13,2015,Verona University,PancreasVerona,0,0,0,University of Verona,
+411,411,412,Oklahoma State University–Stillwater,USA,139,239,153,218,447,648,428,471.0,303,45.13,2015,,,11,8,3,Oklahoma State University–Stillwater,0.7272727272727273
+412,412,413,Shandong University,China,18,367,437,218,213,604,511,409.0,538,45.13,2015,,Shandongdaxue,0,0,0,Shandong University,
+413,413,414,George Mason University,USA,140,367,567,98,450,371,264,388.0,526,45.13,2015,,GeorgeMasonU,39,21,18,George Mason University,0.5384615384615384
+414,414,415,Wuhan University,China,19,367,258,218,274,612,645,396.0,576,45.13,2015,,WuHanUniv,0,0,0,Wuhan University,
+415,415,416,Swedish University of Agricultural Sciences,Sweden,10,146,567,218,393,268,428,353.0,871,45.12,2015,Agricultural Sciences Swedish University,_SLU,10,7,3,Swedish University of Agricultural Sciences,0.7
+416,416,417,Concordia University,Canada,19,367,99,218,545,745,645,590.0,718,45.12,2015,,cu_portland,8,4,4,Concordia University,0.5
+417,417,418,Chiba University,Japan,16,367,567,218,361,343,368,362.0,267,45.11,2015,,hscchiba,0,0,0,Chiba University,
+418,418,419,Kumamoto University,Japan,17,308,353,218,495,441,428,409.0,152,45.11,2015,,kumamotoUniv_PR,0,0,0,Kumamoto University,
+419,419,420,Tongji University,China,20,153,115,218,346,480,645,671.0,373,45.1,2015,,university_tj,0,0,0,Tongji University,
+420,420,421,Aalto University,Finland,4,367,224,218,336,403,645,424.0,246,45.1,2015,,AaltoUniversity,17,12,5,Aalto University,0.7058823529411765
+421,421,422,Chonbuk National University,South Korea,13,367,567,218,507,774,812,646.0,83,45.09,2015,,cbnu_official,0,0,0,Chonbuk National University,
+422,422,423,Peking Union Medical College,China,21,367,567,218,324,297,368,358.0,797,45.09,2015,,,11,8,3,Peking Union Medical College,0.7272727272727273
+423,423,424,Georgia Regents University,USA,141,367,567,218,482,418,368,341.0,481,45.09,2015,,AUG_University,5,4,1,Georgia Regents University,0.8
+424,424,425,University of Chile,Chile,2,242,173,218,418,351,645,424.0,489,45.08,2015,Chile University,UAustraldeChile,0,0,0,University of Chile,
+425,425,426,Lancaster University,United Kingdom,35,367,360,218,364,398,234,369.0,673,45.08,2015,,LancasterUni,67,50,17,Lancaster University,0.746268656716418
+426,426,427,Vienna University of Technology,Austria,5,363,350,218,377,377,321,424.0,171,45.08,2015,Technology Vienna University,TUWRacing,0,0,0,Vienna University of Technology,
+427,427,428,University of Denver,USA,142,312,101,218,901,522,511,590.0,760,45.08,2015,Denver University,UofDenver,9,5,4,University of Denver,0.5555555555555556
+428,428,429,University of Arkansas for Medical Sciences,USA,143,367,567,218,501,565,812,344.0,340,45.08,2015,Arkansas For Medical Sciences University,uamshealth,6,3,3,University of Arkansas for Medical Sciences,0.5
+429,429,430,Grenoble Institute of Technology,France,17,144,567,188,328,520,428,388.0,345,45.06,2015,,GrenobleINP,1,1,0,Grenoble Institute of Technology,1.0
+430,430,431,University of Granada,Spain,11,367,567,218,303,449,321,424.0,190,45.06,2015,Granada University,CanalUGR,2,2,0,University of Granada,1.0
+431,431,432,University of Modena and Reggio Emilia,Italy,22,367,567,218,435,474,368,349.0,709,45.04,2015,Modena And Reggio Emilia University,Formula_MMR,0,0,0,University of Modena and Reggio Emilia,
+432,432,433,Ajou University,South Korea,14,367,426,218,646,729,645,671.0,89,45.04,2015,,AjouUniv,0,0,0,Ajou University,
+433,433,434,Gyeongsang National University,South Korea,15,367,567,218,633,673,645,606.0,93,45.04,2015,,,11,8,3,Gyeongsang National University,0.7272727272727273
+434,434,435,Technical University of Madrid,Spain,12,215,212,218,470,697,645,770.0,110,45.03,2015,Madrid Technical University,La_UPM,0,0,0,Technical University of Madrid,
+435,435,436,University College Cork,Ireland,3,367,430,218,426,431,368,402.0,195,45.03,2015,,UCC,130,88,42,University College Cork,0.676923076923077
+436,436,437,Loyola University Chicago,USA,144,367,366,218,522,438,511,353.0,713,45.03,2015,,LoyolaChicago,3,3,0,Loyola University Chicago,1.0
+437,437,438,Central South University,China,22,367,131,218,366,783,511,558.0,444,45.02,2015,,,11,8,3,Central South University,0.7272727272727273
+438,438,439,South China University of Technology,China,23,367,266,218,347,620,511,471.0,196,45.02,2015,Technology South China University,fengzhangmc,0,0,0,South China University of Technology,
+439,439,440,Polytechnic University of Valencia,Spain,13,367,567,218,386,505,645,437.0,155,45.02,2015,Valencia Polytechnic University,UPV,2,0,2,Polytechnic University of Valencia,0.0
+440,440,441,West Virginia University,USA,145,328,178,218,441,409,428,437.0,617,45.02,2015,,WestVirginiaU,20,13,7,West Virginia University,0.65
+441,441,442,University of Tampere,Finland,5,367,297,218,526,439,511,362.0,679,45.02,2015,Tampere University,TampereUni,7,6,1,University of Tampere,0.8571428571428571
+442,442,443,Southeast University,China,24,168,488,218,369,702,645,480.0,149,45.01,2015,,SEMissouriState,0,0,0,Southeast University,
+443,443,444,Miami University,USA,146,367,102,218,715,543,511,659.0,871,45.0,2015,,miamiuniversity,18,13,5,Miami University,0.7222222222222222
+444,444,445,University of Dayton,USA,147,348,90,218,988,818,511,781.0,675,44.99,2015,Dayton University,univofdayton,5,4,1,University of Dayton,0.8
+445,445,446,University of Siena,Italy,23,367,482,218,420,365,287,369.0,712,44.98,2015,Siena University,unisiena,0,0,0,University of Siena,
+446,446,447,University of Oulu,Finland,6,275,369,218,432,344,368,375.0,521,44.96,2015,Oulu University,UniOulu,7,4,3,University of Oulu,0.5714285714285714
+447,447,448,Indian Institute of Science,India,3,367,332,218,315,537,511,447.0,239,44.96,2015,,iiscbangalore,76,67,9,Indian Institute of Science,0.881578947368421
+448,448,449,Macquarie University,Australia,9,367,304,218,391,292,321,402.0,530,44.96,2015,,Macquarie_Uni,13,10,3,Macquarie University,0.7692307692307693
+449,449,450,University of Rostock,Germany,35,364,567,218,443,591,511,373.0,325,44.96,2015,Rostock University,RalphJanik,0,0,0,University of Rostock,
+450,450,451,Jagiellonian University,Poland,1,367,567,218,403,465,645,375.0,355,44.94,2015,,TheguildJU,0,0,0,Jagiellonian University,
+451,451,452,Pusan National University,South Korea,16,367,401,218,398,488,428,503.0,147,44.94,2015,,haniXVI,0,0,0,Pusan National University,
+452,452,453,University of Strathclyde,United Kingdom,36,367,216,218,389,467,368,486.0,305,44.94,2015,Strathclyde University,UniStrathclyde,67,54,13,University of Strathclyde,0.8059701492537313
+453,453,454,"University of Nevada, Reno",USA,148,367,364,218,542,382,264,381.0,708,44.93,2015,"Nevada, Reno University",unevadareno,4,3,1,"University of Nevada, Reno",0.75
+454,454,455,University of Saskatchewan,Canada,20,336,278,218,335,442,287,457.0,427,44.92,2015,Saskatchewan University,usask,16,13,3,University of Saskatchewan,0.8125
+455,455,456,University of Parma,Italy,24,367,356,218,438,463,368,381.0,741,44.92,2015,Parma University,SusannaEsposit1,0,0,0,University of Parma,
+456,456,457,Kanazawa University,Japan,18,367,416,218,474,419,511,381.0,350,44.92,2015,,KanazawaUniv,0,0,0,Kanazawa University,
+457,457,458,Eötvös Loránd University,Hungary,1,89,567,116,559,444,287,495.0,724,44.92,2015,,ELTE_UNI,0,0,0,Eötvös Loránd University,
+458,458,459,Aristotle University of Thessaloniki,Greece,2,367,567,218,340,683,511,381.0,756,44.92,2015,Thessaloniki Aristotle University,Aristoteleio,0,0,0,Aristotle University of Thessaloniki,
+459,459,460,Ohio University,USA,149,205,174,218,590,472,812,565.0,224,44.91,2015,,ohiou,24,15,9,Ohio University,0.625
+460,460,461,University of Iceland,Iceland,1,367,567,218,612,295,321,369.0,839,44.91,2015,Iceland University,uni_iceland,0,0,0,University of Iceland,
+461,461,462,University of Warsaw,Poland,2,118,562,150,409,462,428,437.0,716,44.91,2015,Warsaw University,asc_uw,0,0,0,University of Warsaw,
+462,462,463,Syracuse University,USA,150,138,221,218,453,494,428,495.0,392,44.91,2015,,SyracuseU,39,29,10,Syracuse University,0.7435897435897436
+463,463,464,Bielefeld University,Germany,36,367,567,218,480,375,511,369.0,774,44.91,2015,,unibielefeld,9,8,1,Bielefeld University,0.8888888888888888
+464,464,465,Juntendo University,Japan,19,367,567,218,653,498,428,362.0,853,44.9,2015,,tokoswimmer,0,0,0,Juntendo University,
+465,465,466,University of Wyoming,USA,151,367,230,218,534,316,321,457.0,380,44.89,2015,Wyoming University,UWyonews,1,1,0,University of Wyoming,1.0
+466,466,467,University of Wollongong,Australia,10,367,269,218,431,433,428,424.0,493,44.88,2015,Wollongong University,UOW,20,13,7,University of Wollongong,0.65
+467,467,468,Niigata University,Japan,20,367,285,218,527,514,511,447.0,238,44.88,2015,,nuphar27,0,0,0,Niigata University,
+468,468,469,Texas Tech University (TTU),USA,152,367,184,218,455,618,287,511.0,809,44.87,2015,,TexasTechMBB,40,20,20,Texas Tech University (TTU),0.5
+469,469,470,Middle East Technical University,Turkey,1,367,120,218,550,879,511,659.0,871,44.87,2015,,METU_ODTU,2,2,0,Middle East Technical University,1.0
+470,470,471,École normale supérieure de Lyon,France,18,367,567,135,481,210,511,413.0,589,44.87,2015,,educIFE,0,0,0,École normale supérieure de Lyon,
+471,471,472,Brunel University,United Kingdom,37,367,236,218,497,676,511,437.0,667,44.86,2015,,Bruneluni,20,19,1,Brunel University,0.95
+472,472,473,Nihon University,Japan,21,301,565,218,599,588,812,637.0,113,44.86,2015,,UnionNihon,0,0,0,Nihon University,
+473,473,474,Osaka City University,Japan,22,108,414,218,484,536,321,471.0,374,44.86,2015,,Sasa_Jim,0,0,0,Osaka City University,
+474,474,475,University of Rennes 1,France,19,367,567,218,351,341,428,420.0,344,44.86,2015,Rennes 1 University,UnivRennes1,1,1,0,University of Rennes 1,1.0
+475,475,476,University of Oklahoma Health Sciences Center,USA,153,367,567,218,580,461,511,375.0,482,44.86,2015,Oklahoma Health Sciences Center University,OUHSC_research,0,0,0,University of Oklahoma Health Sciences Center,
+476,476,477,East China University of Science and Technology,China,25,367,567,218,423,828,645,471.0,184,44.86,2015,Science And Technology East China University,,11,8,3,East China University of Science and Technology,0.7272727272727273
+477,477,478,University of KwaZulu-Natal,South Africa,4,367,148,218,562,397,368,579.0,539,44.85,2015,Kwazulu-Natal University,UKZN,45,15,30,University of KwaZulu-Natal,0.3333333333333333
+478,478,479,Sichuan University,China,26,367,563,218,269,478,645,447.0,597,44.85,2015,,LetChinaSleep,0,0,0,Sichuan University,
+479,479,480,Illinois Institute of Technology,USA,154,274,114,218,784,713,511,715.0,861,44.85,2015,,illinoistech,0,0,0,Illinois Institute of Technology,
+480,480,481,Tokyo University of Science,Japan,23,367,567,218,530,530,428,457.0,191,44.84,2015,Science Tokyo University,HultTokyo,0,0,0,Tokyo University of Science,
+481,481,482,"University of Science, Malaysia",Malaysia,1,367,567,218,669,888,428,809.0,94,44.84,2015,"Science, Malaysia University",,11,8,3,"University of Science, Malaysia",0.7272727272727273
+482,482,483,Clemson University,USA,155,367,535,218,433,497,645,396.0,510,44.83,2015,,ClemsonUniv,36,24,12,Clemson University,0.6666666666666666
+483,483,484,University of Zaragoza,Spain,14,366,408,218,342,675,428,471.0,276,44.83,2015,Zaragoza University,RicardoJRdez,1,1,0,University of Zaragoza,1.0
+484,484,485,University of the Basque Country,Spain,15,367,567,218,318,387,511,480.0,266,44.83,2015,The Basque Country University,upvehu,4,3,1,University of the Basque Country,0.75
+485,485,486,Nagasaki University,Japan,24,299,214,218,614,607,645,529.0,233,44.82,2015,,NU_kouhou,0,0,0,Nagasaki University,
+486,486,487,Technical University of Dortmund,Germany,37,367,567,218,459,528,368,420.0,284,44.82,2015,Dortmund Technical University,TU_Dortmund,5,4,1,Technical University of Dortmund,0.8
+487,487,488,University of Hawaii at Manoa,USA,156,367,435,153,448,213,368,457.0,490,44.82,2015,Hawaii At Manoa University,uhmanoa,12,8,4,University of Hawaii at Manoa,0.6666666666666666
+488,488,489,University of Nebraska Omaha,USA,157,367,365,218,704,606,428,396.0,871,44.81,2015,Nebraska Omaha University,UNOmaha,47,40,7,University of Nebraska Omaha,0.851063829787234
+489,489,490,University of Konstanz,Germany,38,367,567,218,475,337,368,402.0,614,44.81,2015,Konstanz University,icouzin,11,4,7,University of Konstanz,0.36363636363636365
+490,490,491,Panjab University,India,4,333,167,218,720,786,368,540.0,824,44.8,2015,,OfficialPU,0,0,0,Panjab University,
+491,491,492,University of Hanover,Germany,39,367,485,218,434,507,368,457.0,250,44.8,2015,Hanover University,,11,8,3,University of Hanover,0.7272727272727273
+492,492,493,"University of Maryland, Baltimore County",USA,158,367,567,218,587,391,428,402.0,423,44.8,2015,"Maryland, Baltimore County University",UofMaryland,7,5,2,"University of Maryland, Baltimore County",0.7142857142857143
+493,493,494,University of Newcastle,Australia,11,367,567,218,408,496,812,424.0,322,44.79,2015,Newcastle University,UniofNewcastle,46,37,9,University of Newcastle,0.8043478260869565
+494,494,495,University of Ulsan,South Korea,17,367,436,218,421,599,645,424.0,370,44.79,2015,Ulsan University,UofUlsan,0,0,0,University of Ulsan,
+495,495,496,Renmin University of China,China,27,367,100,218,965,936,812,896.0,715,44.79,2015,China Renmin University,CIPSFRUC,0,0,0,Renmin University of China,
+496,496,497,Martin Luther University of Halle-Wittenberg,Germany,40,358,567,210,394,345,812,413.0,706,44.79,2015,Halle-Wittenberg Martin Luther University,TietjeChristian,0,0,0,Martin Luther University of Halle-Wittenberg,
+497,497,498,University of Malaya,Malaysia,2,367,138,218,572,877,428,741.0,274,44.79,2015,Malaya University,UMalaya,0,0,0,University of Malaya,
+498,498,499,University of Savoy,France,20,367,567,218,490,435,428,402.0,731,44.79,2015,Savoy University,,11,8,3,University of Savoy,0.7272727272727273
+499,499,500,University of Udine,Italy,25,367,567,218,600,390,511,396.0,634,44.78,2015,Udine University,uniud,0,0,0,University of Udine,
+500,500,501,Tokyo Metropolitan University,Japan,25,367,415,218,593,460,321,413.0,574,44.78,2015,,TMU_PR,0,0,0,Tokyo Metropolitan University,
+501,501,502,University of Sherbrooke,Canada,21,367,567,218,454,421,321,413.0,853,44.77,2015,Sherbrooke University,,11,8,3,University of Sherbrooke,0.7272727272727273
+502,502,503,University of Brescia,Italy,26,367,567,218,585,614,645,396.0,816,44.77,2015,Brescia University,rlucchin,0,0,0,University of Brescia,
+503,503,504,University of Ljubljana,Slovenia,1,367,567,218,341,415,321,457.0,507,44.77,2015,Ljubljana University,FDVLjubljana,0,0,0,University of Ljubljana,
+504,504,505,University of Nice Sophia Antipolis,France,21,266,567,218,451,259,511,424.0,513,44.75,2015,Nice Sophia Antipolis University,Univ_Nice,1,1,0,University of Nice Sophia Antipolis,1.0
+505,505,506,University of Hull,United Kingdom,38,305,253,162,602,557,511,511.0,524,44.75,2015,Hull University,UniOfHull,107,70,37,University of Hull,0.6542056074766355
+506,506,507,University of Coimbra,Portugal,3,359,567,218,415,423,645,424.0,459,44.75,2015,Coimbra University,ciberesfera,0,0,0,University of Coimbra,
+507,507,508,Creighton University,USA,159,367,567,218,824,724,368,402.0,615,44.75,2015,,Creighton,14,10,4,Creighton University,0.7142857142857143
+508,508,509,Georgia State University,USA,160,367,405,218,449,484,511,457.0,360,44.74,2015,,GeorgiaStateU,18,13,5,Georgia State University,0.7222222222222222
+509,509,510,University of Wisconsin–Milwaukee,USA,161,229,248,218,516,491,511,503.0,871,44.74,2015,Wisconsin–Milwaukee University,UWM,11,5,6,University of Wisconsin–Milwaukee,0.45454545454545453
+510,510,511,Catholic University of Korea,South Korea,18,367,567,218,576,792,645,590.0,139,44.74,2015,Korea Catholic University,,11,8,3,Catholic University of Korea,0.7272727272727273
+511,511,512,University of Tokushima,Japan,26,107,567,218,643,453,645,529.0,247,44.73,2015,Tokushima University,,11,8,3,University of Tokushima,0.7272727272727273
+512,512,513,Yokohama City University,Japan,27,367,231,218,685,370,645,520.0,359,44.73,2015,,clarizewatanabe,0,0,0,Yokohama City University,
+513,513,514,Lanzhou University,China,28,367,567,218,350,689,645,457.0,624,44.72,2015,,Lanzhoudaxue,0,0,0,Lanzhou University,
+514,514,515,University of Crete,Greece,3,367,567,218,491,518,511,420.0,871,44.72,2015,Crete University,Notis_Marias,0,0,0,University of Crete,
+515,515,516,SUNY Downstate Medical Center,USA,162,367,567,155,756,446,511,437.0,660,44.72,2015,,DMCLibraryBKLYN,0,0,0,SUNY Downstate Medical Center,
+516,516,517,University of Potsdam,Germany,41,367,567,218,485,313,511,424.0,584,44.72,2015,Potsdam University,potsdambrennt,0,0,0,University of Potsdam,
+517,517,518,Yokohama National University,Japan,28,88,217,135,909,865,645,809.0,440,44.72,2015,,chocsae,0,0,0,Yokohama National University,
+518,518,519,New Mexico State University,USA,163,367,432,218,711,585,321,424.0,871,44.71,2015,,nmsu,23,22,1,New Mexico State University,0.9565217391304348
+519,519,520,University of Bayreuth,Germany,42,367,567,218,457,331,321,447.0,603,44.71,2015,Bayreuth University,ThorstenPolleit,0,0,0,University of Bayreuth,
+520,520,521,Bar-Ilan University,Israel,6,280,392,218,404,410,645,495.0,338,44.71,2015,,BarIlanCanada,0,0,0,Bar-Ilan University,
+521,521,522,University of Mississippi - Oxford Campus,USA,164,367,567,218,508,851,428,424.0,611,44.7,2015,Mississippi - Oxford Campus University,,11,8,3,University of Mississippi - Oxford Campus,0.7272727272727273
+522,522,523,University of Tasmania,Australia,12,367,567,218,429,261,645,447.0,727,44.7,2015,Tasmania University,UTAS_,15,11,4,University of Tasmania,0.7333333333333333
+523,523,524,Graduate University for Advanced Studies,Japan,29,367,567,218,613,291,645,420.0,871,44.7,2015,,herzlhefter,0,0,0,Graduate University for Advanced Studies,
+524,524,525,University of Surrey,United Kingdom,39,217,295,218,419,553,428,549.0,300,44.7,2015,Surrey University,UniOfSurrey,32,27,5,University of Surrey,0.84375
+525,525,526,Federal University of Minas Gerais,Brazil,4,367,425,218,417,521,428,549.0,207,44.7,2015,Minas Gerais Federal University,ufmg,0,0,0,Federal University of Minas Gerais,
+526,526,527,University of Tromsø - The Arctic University of Norway,Norway,4,367,567,218,493,407,287,447.0,824,44.7,2015,Tromsø - The Arctic University   Norway University,,11,8,3,University of Tromsø - The Arctic University of Norway,0.7272727272727273
+527,527,528,University of Palermo,Italy,27,367,567,218,452,545,812,437.0,559,44.7,2015,Palermo University,udepalermo,0,0,0,University of Palermo,
+528,528,529,Shinshu University,Japan,30,367,517,218,594,602,368,486.0,244,44.7,2015,,Nao_kodaira,0,0,0,Shinshu University,
+529,529,530,University of Science and Technology Beijing,China,29,367,121,218,542,937,511,886.0,408,44.7,2015,Science And Technology Beijing University,BychkovLaoshi,0,0,0,University of Science and Technology Beijing,
+530,530,531,University of Catania,Italy,28,213,567,218,438,693,428,457.0,853,44.69,2015,Catania University,DFCapodanno,22,18,4,University of Catania,0.8181818181818182
+531,531,532,Mahidol University,Thailand,2,367,567,218,476,372,368,447.0,861,44.69,2015,,MahidolU,1,0,1,Mahidol University,0.0
+532,532,533,University of Canterbury,New Zealand,3,190,195,218,569,437,428,606.0,871,44.68,2015,Canterbury University,UCNZ,18,14,4,University of Canterbury,0.7777777777777778
+533,533,534,Indian Institute of Technology Madras,India,5,367,147,218,523,943,812,796.0,317,44.68,2015,,iitmadras,30,25,5,Indian Institute of Technology Madras,0.8333333333333334
+534,534,535,University of Bremen,Germany,43,367,567,218,466,289,321,471.0,515,44.68,2015,Bremen University,ZARM_de,0,0,0,University of Bremen,
+535,535,536,Otto-von-Guericke University Magdeburg,Germany,44,367,567,218,486,629,511,457.0,388,44.68,2015,,edelmannlab,0,0,0,Otto-von-Guericke University Magdeburg,
+536,536,537,University of Tartu,Estonia,1,365,567,218,586,318,368,457.0,426,44.68,2015,Tartu University,unitartu,1,1,0,University of Tartu,1.0
+537,537,538,University of Windsor,Canada,22,367,133,218,764,912,812,754.0,658,44.68,2015,Windsor University,UWindsor,19,12,7,University of Windsor,0.631578947368421
+538,538,539,University of Nantes,France,22,367,567,218,483,420,511,447.0,579,44.67,2015,Nantes University,UnivNantes,5,4,1,University of Nantes,0.8
+539,539,540,"Royal Holloway, University of London",United Kingdom,40,367,567,218,564,306,428,447.0,556,44.67,2015,"London Royal Holloway, University",RoyalHolloway,23,17,6,"Royal Holloway, University of London",0.7391304347826086
+540,540,541,James Cook University,Australia,13,367,567,218,505,248,428,457.0,665,44.67,2015,,jcu,13,13,0,James Cook University,1.0
+541,541,542,National Yang-Ming University,Taiwan,5,367,567,218,345,517,511,495.0,824,44.65,2015,,ValerieHolton,0,0,0,National Yang-Ming University,
+542,542,543,University of Akron,USA,165,367,400,218,656,653,645,606.0,166,44.65,2015,Akron University,uakron,10,4,6,University of Akron,0.4
+543,543,544,National Chung Hsing University,Taiwan,6,367,211,218,412,682,511,606.0,871,44.65,2015,,,11,8,3,National Chung Hsing University,0.7272727272727273
+544,544,545,City University London,United Kingdom,41,367,122,218,785,861,812,880.0,601,44.64,2015,,CityUniLondon,70,57,13,City University London,0.8142857142857143
+545,545,546,New York Medical College,USA,166,367,567,218,752,622,812,437.0,719,44.64,2015,,ualbany,30,25,5,New York Medical College,0.8333333333333334
+546,546,547,Nara Institute of Science and Technology,Japan,31,367,567,218,773,329,645,495.0,270,44.63,2015,,smiley0311,0,0,0,Nara Institute of Science and Technology,
+547,547,548,École Centrale Paris,France,23,367,111,218,995,827,812,958.0,839,44.63,2015,,Polytechnique,5,1,4,École Centrale Paris,0.2
+548,548,549,Auburn University,USA,167,367,232,218,472,569,368,606.0,425,44.63,2015,,AuburnU,11,8,3,Auburn University,0.7272727272727273
+549,549,550,University of Arkansas - Fayetteville,USA,168,204,345,218,517,571,645,520.0,409,44.62,2015,Arkansas - Fayetteville University,UArkansas,10,6,4,University of Arkansas - Fayetteville,0.6
+550,550,551,University of Zagreb,Croatia,1,367,567,218,553,541,428,471.0,650,44.62,2015,Zagreb University,gogymark,0,0,0,University of Zagreb,
+551,551,552,University of Lübeck,Germany,45,367,567,218,649,394,812,457.0,629,44.62,2015,Lübeck University,jonasobleser,8,3,5,University of Lübeck,0.375
+552,552,553,Hunan University,China,30,367,291,218,464,906,645,529.0,816,44.62,2015,,hunanuniv,0,0,0,Hunan University,
+553,553,554,University of Missouri–Kansas City,USA,169,311,480,218,634,447,645,471.0,687,44.61,2015,Missouri–Kansas City University,,11,8,3,University of Missouri–Kansas City,0.7272727272727273
+554,554,555,Tokyo Women's Medical University,Japan,32,367,567,218,787,594,511,480.0,362,44.61,2015,,,11,8,3,Tokyo Women's Medical University,0.7272727272727273
+555,555,556,Montana State University - Bozeman,USA,170,367,477,218,575,323,287,495.0,744,44.61,2015,,montanastate,3,1,2,Montana State University - Bozeman,0.3333333333333333
+556,556,557,University of Aveiro,Portugal,4,367,567,218,413,680,511,590.0,212,44.61,2015,Aveiro University,FTeles,0,0,0,University of Aveiro,
+557,557,558,"National University of Ireland, Galway",Ireland,4,367,567,218,588,546,645,503.0,293,44.61,2015,"Ireland, Galway National University",nuigarchives,0,0,0,"National University of Ireland, Galway",
+558,558,559,University of Oviedo,Spain,16,367,539,218,440,445,428,495.0,579,44.61,2015,Oviedo University,UniOviedo,0,0,0,University of Oviedo,
+559,559,560,Dongguk University,South Korea,19,367,305,218,927,917,812,997.0,108,44.61,2015,,donggukuniv,0,0,0,Dongguk University,
+560,560,561,University of Trento,Italy,29,367,567,218,488,556,368,486.0,861,44.61,2015,Trento University,TrentoU,0,0,0,University of Trento,
+561,561,562,University Lille 1: Sciences and Technologies,France,24,367,567,218,414,400,368,511.0,546,44.6,2015,,Univ_Lille1,0,0,0,University Lille 1: Sciences and Technologies,
+562,562,563,Chang Gung University,Taiwan,7,367,567,218,344,598,812,520.0,824,44.6,2015,,,11,8,3,Chang Gung University,0.7272727272727273
+563,563,564,National Central University,Taiwan,8,225,567,218,384,468,511,520.0,839,44.6,2015,,Robihamanto,0,0,0,National Central University,
+564,564,565,Aalborg University,Denmark,5,367,439,218,596,660,287,520.0,401,44.59,2015,,AAUArch,0,0,0,Aalborg University,
+565,565,566,Utah State University,USA,171,166,352,218,564,414,368,565.0,371,44.59,2015,,USUAggies,26,17,9,Utah State University,0.6538461538461539
+566,566,567,Baylor University,USA,172,367,293,218,682,681,321,540.0,630,44.59,2015,,Baylor,164,124,40,Baylor University,0.7560975609756098
+567,567,568,Bangor University,United Kingdom,42,260,370,218,622,568,511,529.0,342,44.59,2015,,BangorUni,26,19,7,Bangor University,0.7307692307692307
+568,568,569,King Saud University,Saudi Arabia,1,367,182,218,560,539,645,837.0,232,44.59,2015,,_KSU,4,3,1,King Saud University,0.75
+569,569,570,University of Cagliari,Italy,30,367,567,218,518,567,511,486.0,623,44.59,2015,Cagliari University,biggiobattista,2,1,1,University of Cagliari,0.5
+570,570,571,Kent State University,USA,173,367,567,218,610,436,511,486.0,498,44.58,2015,,KentState,25,15,10,Kent State University,0.6
+571,571,572,Central China Normal University,China,31,367,567,218,631,855,511,480.0,778,44.58,2015,,_siyarr,0,0,0,Central China Normal University,
+572,572,573,University of Fribourg,Switzerland,8,232,252,218,734,428,428,579.0,787,44.58,2015,Fribourg University,unifr,2,2,0,University of Fribourg,1.0
+573,573,574,Medical University of Graz,Austria,6,367,567,218,573,628,812,486.0,576,44.58,2015,Graz Medical University,,11,8,3,Medical University of Graz,0.7272727272727273
+574,574,575,Second University of Naples,Italy,31,367,567,218,556,641,645,486.0,824,44.57,2015,Naples Second University,,11,8,3,Second University of Naples,0.7272727272727273
+575,575,576,International School for Advanced Studies,Italy,32,367,567,218,623,406,812,486.0,768,44.57,2015,,Sissaschool,0,0,0,International School for Advanced Studies,
+576,576,577,Tampere University of Technology,Finland,7,367,156,218,816,646,645,796.0,746,44.56,2015,Technology Tampere University,fahadsohrab,0,0,0,Tampere University of Technology,
+577,577,578,Inha University,South Korea,20,367,381,218,568,780,511,565.0,273,44.56,2015,,inhabiz,0,0,0,Inha University,
+578,578,579,Deakin University,Australia,14,367,424,218,502,647,321,529.0,636,44.56,2015,,Deakin,34,30,4,Deakin University,0.8823529411764706
+579,579,580,National Polytechnic Institute of Toulouse,France,25,367,242,218,486,672,812,646.0,413,44.56,2015,,INP_Toulouse,0,0,0,National Polytechnic Institute of Toulouse,
+580,580,581,Sogang University,South Korea,21,367,567,218,806,798,812,921.0,115,44.56,2015,,SogangCats,0,0,0,Sogang University,
+581,581,582,University of Ioannina,Greece,4,367,567,218,597,836,645,495.0,871,44.55,2015,Ioannina University,NikoloDim,0,0,0,University of Ioannina,
+582,582,583,Federal University of Rio Grande do Sul,Brazil,5,367,567,218,410,578,428,529.0,787,44.55,2015,Rio Grande Do Sul Federal University,ufrgsnoticias,0,0,0,Federal University of Rio Grande do Sul,
+583,583,584,University of Graz,Austria,7,349,453,204,571,547,812,511.0,600,44.54,2015,Graz University,UniGraz,2,2,0,University of Graz,1.0
+584,584,585,University of Montana - Missoula,USA,174,353,567,218,713,315,428,503.0,702,44.54,2015,Montana - Missoula University,,11,8,3,University of Montana - Missoula,0.7272727272727273
+585,585,586,East China Normal University,China,32,367,272,218,436,645,812,622.0,576,44.54,2015,,ECNUER,0,0,0,East China Normal University,
+586,586,587,Plymouth University,United Kingdom,43,367,544,218,532,429,511,511.0,651,44.54,2015,,PlymUniCops,0,0,0,Plymouth University,
+587,587,588,Victoria University of Wellington,New Zealand,4,317,223,218,606,469,645,646.0,809,44.54,2015,Wellington Victoria University,VicUniWgtn,5,4,1,Victoria University of Wellington,0.8
+588,588,589,Federal University of São Paulo,Brazil,6,367,567,218,504,638,368,520.0,839,44.53,2015,São Paulo Federal University,paulohsmazevedo,0,0,0,Federal University of São Paulo,
+589,589,590,Southern Illinois University Carbondale,USA,175,208,533,218,591,512,812,520.0,588,44.53,2015,,AcsSouthern,0,0,0,Southern Illinois University Carbondale,
+590,590,591,University of Alaska Fairbanks,USA,176,367,420,218,642,373,511,520.0,792,44.53,2015,Alaska Fairbanks University,uafairbanks,2,1,1,University of Alaska Fairbanks,0.5
+591,591,592,University of Toledo,USA,177,367,567,218,618,555,812,606.0,220,44.53,2015,Toledo University,UToledo,16,13,3,University of Toledo,0.8125
+592,592,593,Carleton University,Canada,23,367,538,218,479,739,264,549.0,871,44.53,2015,,Carleton_U,37,20,17,Carleton University,0.5405405405405406
+593,593,594,Cranfield University,United Kingdom,44,367,176,218,763,762,812,770.0,549,44.52,2015,,CranfieldUni,33,24,9,Cranfield University,0.7272727272727273
+594,594,595,Curtin University,Australia,15,367,559,218,425,384,511,549.0,518,44.52,2015,,CurtinUni,10,9,1,Curtin University,0.9
+595,595,596,Indian Institute of Technology Bombay,India,6,367,507,218,521,815,645,699.0,176,44.52,2015,,iitbombay,11,11,0,Indian Institute of Technology Bombay,1.0
+596,596,597,University of Portsmouth,United Kingdom,45,367,567,218,768,719,234,540.0,765,44.52,2015,Portsmouth University,portsmouthuni,25,17,8,University of Portsmouth,0.68
+597,597,598,Osaka Prefecture University,Japan,33,367,411,218,688,671,812,686.0,187,44.52,2015,,,11,8,3,Osaka Prefecture University,0.7272727272727273
+598,598,599,Nagoya City University,Japan,34,367,333,218,785,525,368,565.0,400,44.52,2015,,AndroIwasho,0,0,0,Nagoya City University,
+599,599,600,LSU Health Sciences Center New Orleans,USA,178,367,567,218,823,544,645,503.0,661,44.52,2015,,LSUHealthNO,0,0,0,LSU Health Sciences Center New Orleans,
+600,600,601,Tata Institute of Fundamental Research,India,7,367,567,218,468,450,368,540.0,792,44.51,2015,,TIFR_CAM,0,0,0,Tata Institute of Fundamental Research,
+601,601,602,Konkuk University,South Korea,22,367,388,218,533,748,812,686.0,204,44.51,2015,,choijinsoon,0,0,0,Konkuk University,
+602,602,603,University of La Laguna,Spain,17,367,567,218,514,336,645,529.0,661,44.51,2015,La Laguna University,NorenaMartin,0,0,0,University of La Laguna,
+603,603,604,University of Hertfordshire,United Kingdom,46,367,567,218,792,396,511,511.0,839,44.51,2015,Hertfordshire University,UniofHerts,55,40,15,University of Hertfordshire,0.7272727272727273
+604,604,605,Florida International University,USA,179,367,567,218,496,508,428,540.0,585,44.5,2015,,FIU,47,30,17,Florida International University,0.6382978723404256
+605,605,606,University of Rhode Island,USA,180,367,265,218,664,385,511,637.0,472,44.5,2015,Rhode Island University,universityofri,15,10,5,University of Rhode Island,0.6666666666666666
+606,606,607,Mississippi State University,USA,181,155,220,218,605,608,645,754.0,566,44.5,2015,,msstate_writing,0,0,0,Mississippi State University,
+607,607,608,Gunma University,Japan,35,367,567,218,627,531,511,590.0,252,44.5,2015,,GunmaStudy,0,0,0,Gunma University,
+608,608,609,University of New Orleans,USA,182,367,567,218,944,840,428,511.0,871,44.5,2015,New Orleans University,unopress,0,0,0,University of New Orleans,
+609,609,610,"Putra University, Malaysia",Malaysia,3,367,567,218,860,900,812,989.0,114,44.49,2015,,,11,8,3,"Putra University, Malaysia",0.7272727272727273
+610,610,611,Memorial University of Newfoundland,Canada,24,367,567,218,552,577,645,529.0,653,44.49,2015,Newfoundland Memorial University,VisEcolMun,0,0,0,Memorial University of Newfoundland,
+611,611,612,Universidade Nova de Lisboa,Portugal,5,367,567,218,506,477,645,540.0,590,44.49,2015,,NOVAunl,3,2,1,Universidade Nova de Lisboa,0.6666666666666666
+612,612,613,Griffith University,Australia,16,367,567,218,436,500,368,565.0,556,44.49,2015,,Griffith_Uni,19,14,5,Griffith University,0.7368421052631579
+613,613,614,Indian Institute of Technology Kharagpur,India,8,367,242,218,500,974,812,686.0,644,44.49,2015,,IITKgp,13,9,4,Indian Institute of Technology Kharagpur,0.6923076923076923
+614,614,615,Soochow University (Suzhou),China,33,367,567,218,396,773,812,565.0,871,44.49,2015,,,11,8,3,Soochow University (Suzhou),0.7272727272727273
+615,615,616,Texas A&M Health Science Center,USA,183,367,567,218,672,440,645,558.0,336,44.49,2015,,TAMUHealth,1,1,0,Texas A&M Health Science Center,1.0
+616,616,617,Semmelweis University,Hungary,2,367,567,218,650,481,511,529.0,670,44.48,2015,,semmelweishu,0,0,0,Semmelweis University,
+617,617,618,Lille 2 University of Health and Law,France,26,367,567,218,821,631,645,520.0,630,44.48,2015,Health And Law Lille 2 University,univ_lille2,0,0,0,Lille 2 University of Health and Law,
+618,618,619,Kagoshima University,Japan,36,367,281,218,733,706,511,715.0,251,44.48,2015,,chouhoshu,0,0,0,Kagoshima University,
+619,619,620,Flinders University,Australia,17,122,567,218,518,581,812,622.0,686,44.48,2015,,Flinders,21,15,6,Flinders University,0.7142857142857143
+620,620,621,Queensland University of Technology,Australia,18,367,567,218,477,750,511,558.0,492,44.48,2015,Technology Queensland University,QUT,47,37,10,Queensland University of Technology,0.7872340425531915
+621,621,622,Tokai University,Japan,37,367,567,218,721,644,645,540.0,448,44.48,2015,,TokaiUnivMP,0,0,0,Tokai University,
+622,622,623,Istanbul University,Turkey,2,253,386,218,684,560,645,558.0,871,44.48,2015,,istanbuledutr,0,0,0,Istanbul University,
+623,623,624,Tokyo University of Agriculture and Technology,Japan,38,367,567,218,641,756,511,606.0,264,44.47,2015,Agriculture And Technology Tokyo University,union_y,0,0,0,Tokyo University of Agriculture and Technology,
+624,624,625,Louisiana Tech University,USA,184,367,197,218,969,871,428,754.0,792,44.47,2015,,LATech,14,12,2,Louisiana Tech University,0.8571428571428571
+625,625,626,University of Texas at Arlington,USA,185,367,567,218,492,532,511,565.0,462,44.47,2015,Texas At Arlington University,utarlington,11,10,1,University of Texas at Arlington,0.9090909090909091
+626,626,627,China Agricultural University,China,34,367,534,218,407,362,645,590.0,572,44.47,2015,,rajbdctg,0,0,0,China Agricultural University,
+627,627,628,Chungnam National University,South Korea,23,367,567,218,470,563,645,622.0,290,44.47,2015,,,11,8,3,Chungnam National University,0.7272727272727273
+628,628,629,University of Minho,Portugal,6,367,567,218,588,652,287,606.0,363,44.46,2015,Minho University,pedroprincipe,0,0,0,University of Minho,
+629,629,630,"University of Eastern Piedmont Amedeo Avogadro""""",Italy,33,367,567,218,693,623,645,540.0,739,44.46,2015,"Eastern Piedmont Amedeo Avogadro"""" University",UniAvogadro,1,1,0,"University of Eastern Piedmont Amedeo Avogadro""""",1.0
+630,630,631,Open University (UK),United Kingdom,47,367,567,218,616,340,645,549.0,809,44.46,2015,,OpenUniversity,174,113,61,Open University (UK),0.6494252873563219
+631,631,632,University of Essex,United Kingdom,48,119,358,218,694,695,511,671.0,871,44.45,2015,Essex University,Uni_of_Essex,48,32,16,University of Essex,0.6666666666666666
+632,632,633,Paris-Est Créteil Val-de-Marne University,France,27,367,406,218,732,611,812,558.0,824,44.45,2015,,UPECactus,0,0,0,Paris-Est Créteil Val-de-Marne University,
+633,633,634,Hacettepe University,Turkey,3,367,567,218,658,630,428,549.0,871,44.45,2015,,HacettepeEvents,0,0,0,Hacettepe University,
+634,634,635,State University of New York Upstate Medical University,USA,186,367,567,218,774,632,428,549.0,598,44.45,2015,New York Upstate Medical University State University,,11,8,3,State University of New York Upstate Medical University,0.7272727272727273
+635,635,636,Braunschweig University of Technology,Germany,46,226,567,218,551,383,645,622.0,343,44.44,2015,Technology Braunschweig University,tuBraunschweig,1,1,0,Braunschweig University of Technology,1.0
+636,636,637,University of Salamanca,Spain,18,367,491,218,544,483,511,565.0,736,44.44,2015,Salamanca University,usal,0,0,0,University of Salamanca,
+637,637,638,Indian Institute of Technology Roorkee,India,9,367,395,218,839,931,428,565.0,871,44.44,2015,,MediaCell_IITR,0,0,0,Indian Institute of Technology Roorkee,
+638,638,639,Örebro University,Sweden,11,367,529,218,816,747,428,549.0,871,44.44,2015,,Kriminologi_ORU,0,0,0,Örebro University,
+639,639,640,Northeast Normal University,China,35,367,567,218,678,765,645,549.0,871,44.44,2015,,NENU1946,0,0,0,Northeast Normal University,
+640,640,641,University of Patras,Greece,5,367,567,218,510,704,511,565.0,731,44.44,2015,Patras University,upatras,0,0,0,University of Patras,
+641,641,642,Beijing University of Chemical Technology,China,36,367,536,218,558,984,812,715.0,214,44.44,2015,Chemical Technology Beijing University,,11,8,3,Beijing University of Chemical Technology,0.7272727272727273
+642,642,643,Northern Illinois University,USA,187,367,284,218,669,661,321,671.0,621,44.44,2015,,NIUlive,11,8,3,Northern Illinois University,0.7272727272727273
+643,643,644,Rovira i Virgili University,Spain,19,367,567,218,555,573,428,579.0,485,44.44,2015,,universitatURV,2,2,0,Rovira i Virgili University,1.0
+644,644,645,La Trobe University,Australia,19,367,457,218,536,455,812,579.0,803,44.44,2015,,latrobe,22,15,7,La Trobe University,0.6818181818181818
+645,645,646,Warsaw University of Technology,Poland,3,344,545,218,696,757,287,579.0,824,44.43,2015,Technology Warsaw University,PW_edu,2,2,0,Warsaw University of Technology,1.0
+646,646,647,Binghamton University,USA,188,367,263,218,710,593,812,671.0,853,44.43,2015,,binghamtonu,10,7,3,Binghamton University,0.7
+647,647,648,Shizuoka University,Japan,39,367,476,218,834,708,645,826.0,163,44.43,2015,,usa_hakase,0,0,0,Shizuoka University,
+648,648,649,Hong Kong Baptist University,Hong Kong,6,367,516,218,592,937,511,565.0,691,44.43,2015,,hkbaptistu,3,3,0,Hong Kong Baptist University,1.0
+649,649,650,Albany Medical College,USA,189,171,567,218,893,771,645,579.0,720,44.43,2015,,ualbany,30,25,5,Albany Medical College,0.8333333333333334
+650,650,651,Ehime University,Japan,40,367,514,218,619,582,511,590.0,418,44.43,2015,,MaineK00n,0,0,0,Ehime University,
+651,651,652,University of Los Andes (Colombia),Colombia,1,367,189,218,898,561,428,837.0,749,44.43,2015,Los Andes (Colombia) University,julianamurciao,0,0,0,University of Los Andes (Colombia),
+652,652,653,Polytechnic University of Turin,Italy,34,367,567,218,465,798,645,659.0,283,44.43,2015,Turin Polytechnic University,mantelero,3,1,2,Polytechnic University of Turin,0.3333333333333333
+653,653,654,University of Burgundy,France,28,224,567,218,513,527,812,590.0,774,44.42,2015,Burgundy University,univbourgogne,0,0,0,University of Burgundy,
+654,654,655,University of Idaho,USA,190,367,567,218,664,417,511,579.0,469,44.42,2015,Idaho University,uidaho,5,3,2,University of Idaho,0.6
+655,655,656,Old Dominion University,USA,191,367,567,218,719,590,511,590.0,379,44.42,2015,,ODU,42,8,34,Old Dominion University,0.19047619047619047
+656,656,657,Yamaguchi University,Japan,41,367,567,218,753,787,645,732.0,202,44.42,2015,,Yamadai_jp,0,0,0,Yamaguchi University,
+657,657,658,Massey University,New Zealand,5,367,496,218,570,554,812,579.0,723,44.42,2015,,MasseyUni,19,12,7,Massey University,0.631578947368421
+658,658,659,Donghua University,China,37,367,567,218,805,962,234,622.0,726,44.41,2015,,davidr_coach,0,0,0,Donghua University,
+659,659,660,University of the Balearic Islands,Spain,20,367,567,218,629,558,428,590.0,503,44.41,2015,The Balearic Islands University,UIBuniversitat,0,0,0,University of the Balearic Islands,
+660,660,661,Portland State University,USA,192,367,245,218,800,548,812,741.0,484,44.41,2015,,Portland_State,17,7,10,Portland State University,0.4117647058823529
+661,661,662,Marche Polytechnic University,Italy,35,367,567,218,688,649,812,565.0,748,44.41,2015,,UnivPoliMarche,0,0,0,Marche Polytechnic University,
+662,662,663,University of Québec at Montreal,Canada,25,367,422,218,537,534,428,622.0,871,44.41,2015,Québec At Montreal University,AminPerezV,0,0,0,University of Québec at Montreal,
+663,663,664,"UNESP, São Paulo State University",Brazil,7,367,567,218,356,613,511,671.0,627,44.41,2015,,Unesp_Oficial,1,0,1,"UNESP, São Paulo State University",0.0
+664,664,665,Loma Linda University,USA,193,367,567,218,848,755,645,565.0,555,44.41,2015,,LLUHealth,0,0,0,Loma Linda University,
+665,665,666,University of Toyama,Japan,42,367,307,218,685,760,645,646.0,871,44.41,2015,Toyama University,univ_toyama,0,0,0,University of Toyama,
+666,666,667,University of Debrecen,Hungary,3,367,567,218,687,621,428,590.0,499,44.4,2015,Debrecen University,DebrecenOf,0,0,0,University of Debrecen,
+667,667,668,"University of Maine, Orono",USA,194,345,567,218,788,427,368,637.0,346,44.4,2015,"Maine, Orono University",DrSueIshaq,9,5,4,"University of Maine, Orono",0.5555555555555556
+668,668,669,Graz University of Technology,Austria,8,367,567,218,677,715,368,622.0,404,44.4,2015,Technology Graz University,tugraz,1,0,1,Graz University of Technology,0.0
+669,669,670,Gifu University,Japan,43,367,567,218,701,658,645,606.0,403,44.4,2015,,iGEMgifu,0,0,0,Gifu University,
+670,670,671,University of Jyväskylä,Finland,8,367,525,218,456,443,812,622.0,805,44.4,2015,Jyväskylä University,uniofjyvaskyla,2,2,0,University of Jyväskylä,1.0
+671,671,672,University of Paris 13,France,29,367,567,218,669,744,645,579.0,700,44.4,2015,Paris 13 University,CapdevilleVal,0,0,0,University of Paris 13,
+672,672,673,University of Girona,Spain,21,367,567,218,662,843,645,579.0,756,44.4,2015,Girona University,Asier_LoL,0,0,0,University of Girona,
+673,673,674,Keele University,United Kingdom,49,367,567,218,659,533,321,606.0,853,44.4,2015,,KeeleUniversity,48,42,6,Keele University,0.875
+674,674,675,University of Poitiers,France,30,255,567,148,636,470,645,671.0,754,44.39,2015,Poitiers University,LThilly_CG,0,0,0,University of Poitiers,
+675,675,676,University of Insubria,Italy,36,367,567,218,705,564,645,579.0,871,44.39,2015,Insubria University,Uni_Insubria,0,0,0,University of Insubria,
+676,676,677,Wuhan University of Technology,China,38,367,499,218,738,931,428,590.0,763,44.39,2015,Technology Wuhan University,,11,8,3,Wuhan University of Technology,0.7272727272727273
+677,677,678,University of Pretoria,South Africa,5,367,262,218,620,513,511,741.0,604,44.39,2015,Pretoria University,UPTuks,58,42,16,University of Pretoria,0.7241379310344828
+678,678,679,Banaras Hindu University,India,10,243,260,218,754,904,511,741.0,871,44.39,2015,,VCofficeBHU,30,27,3,Banaras Hindu University,0.9
+679,679,680,University of L'Aquila,Italy,37,367,567,218,655,678,645,590.0,871,44.38,2015,L'Aquila University,giodegas,0,0,0,University of L'Aquila,
+680,680,681,University of Alicante,Spain,22,367,567,218,666,779,812,686.0,262,44.38,2015,Alicante University,rectorUA,0,0,0,University of Alicante,
+681,681,682,American University of Beirut,Lebanon,1,114,247,218,915,892,812,880.0,871,44.38,2015,Beirut American University,AUB_Lebanon,27,10,17,American University of Beirut,0.37037037037037035
+682,682,683,University of Ulster,United Kingdom,50,367,567,218,747,808,321,732.0,240,44.38,2015,Ulster University,UlsterUni,23,20,3,University of Ulster,0.8695652173913043
+683,683,684,Shanghai University,China,39,367,567,218,494,929,812,622.0,782,44.38,2015,,CenterforG,0,0,0,Shanghai University,
+684,684,685,Comenius University in Bratislava,Slovak Republic,1,367,567,218,707,624,645,590.0,871,44.38,2015,,kolkava,0,0,0,Comenius University in Bratislava,
+685,685,686,University of Vigo,Spain,23,367,567,218,577,822,428,622.0,621,44.38,2015,Vigo University,UVIGOir,0,0,0,University of Vigo,
+686,686,687,"University of Nevada, Las Vegas",USA,195,367,448,218,640,473,812,622.0,861,44.38,2015,"Nevada, Las Vegas University",unlv,36,21,15,"University of Nevada, Las Vegas",0.5833333333333334
+687,687,688,Swinburne University of Technology,Australia,20,367,567,218,654,456,511,606.0,772,44.38,2015,Technology Swinburne University,Swinburne,29,26,3,Swinburne University of Technology,0.896551724137931
+688,688,689,Tilburg University,Netherlands,13,367,289,218,566,878,428,732.0,871,44.37,2015,,TilburgU,0,0,0,Tilburg University,
+689,689,690,University of Messina,Italy,38,367,567,218,608,803,812,606.0,871,44.37,2015,Messina University,UniMeHEdu,0,0,0,University of Messina,
+690,690,691,Kaiserslautern University of Technology,Germany,47,367,522,218,679,523,812,606.0,668,44.37,2015,Technology Kaiserslautern University,uni_kl,3,3,0,Kaiserslautern University of Technology,1.0
+691,691,692,University of Kent,United Kingdom,51,367,433,218,625,458,511,637.0,861,44.37,2015,Kent University,UniKent,33,19,14,University of Kent,0.5757575757575758
+692,692,693,University of Málaga,Spain,24,367,567,218,660,830,645,781.0,203,44.37,2015,Málaga University,InfoUMA,0,0,0,University of Málaga,
+693,693,694,Loughborough University,United Kingdom,52,367,567,218,512,806,511,646.0,480,44.37,2015,,lborouniversity,43,33,10,Loughborough University,0.7674418604651163
+694,694,695,National Technical University of Athens,Greece,6,187,567,218,514,950,511,659.0,871,44.37,2015,Athens National Technical University,ntua,0,0,0,National Technical University of Athens,
+695,695,696,Liverpool John Moores University,United Kingdom,53,367,567,218,723,395,511,606.0,871,44.37,2015,,LJMU,46,35,11,Liverpool John Moores University,0.7608695652173914
+696,696,697,Sharif University of Technology,Iran,1,116,567,218,563,950,511,732.0,871,44.37,2015,Technology Sharif University,Sharifihaa,0,0,0,Sharif University of Technology,
+697,697,698,"Birkbeck, University of London",United Kingdom,54,300,567,218,724,339,428,622.0,871,44.37,2015,"London Birkbeck, University",BirkbeckUoL,6,3,3,"Birkbeck, University of London",0.5
+698,698,699,"University François Rabelais, Tours",France,31,201,567,218,667,499,812,637.0,703,44.37,2015,,UnivTours,3,2,1,"University François Rabelais, Tours",0.6666666666666666
+699,699,700,University of Haifa,Israel,7,367,372,218,535,479,812,686.0,503,44.36,2015,Haifa University,UofHaifa,7,5,2,University of Haifa,0.7142857142857143
+700,700,701,Roma Tre University,Italy,39,367,567,218,639,637,511,622.0,756,44.36,2015,,AntonellaPoce,1,1,0,Roma Tre University,1.0
+701,701,702,Masaryk University,Czech Republic,2,367,567,218,645,519,645,622.0,705,44.36,2015,,MasarykUni,0,0,0,Masaryk University,
+702,702,703,University of Salerno,Italy,40,367,567,218,537,835,511,646.0,525,44.36,2015,Salerno University,Vincenzo_Naddeo,0,0,0,University of Salerno,
+703,703,704,King Abdullah University of Science and Technology,Saudi Arabia,2,367,567,126,691,529,812,946.0,182,44.36,2015,Science And Technology King Abdullah University,KAUST_News,32,26,6,King Abdullah University of Science and Technology,0.8125
+704,704,705,Beihang University,China,40,367,383,218,460,865,645,770.0,307,44.35,2015,,Beihang1952,0,0,0,Beihang University,
+705,705,706,Fuzhou University,China,41,367,399,218,727,984,428,671.0,463,44.35,2015,,FuZUniversity,0,0,0,Fuzhou University,
+706,706,707,Heriot-Watt University,United Kingdom,55,367,335,218,601,597,812,715.0,439,44.35,2015,,EBS_Global,2,2,0,Heriot-Watt University,1.0
+707,707,708,China Medical University (Taiwan),Taiwan,9,367,567,218,428,686,812,671.0,871,44.35,2015,,,11,8,3,China Medical University (Taiwan),0.7272727272727273
+708,708,709,University of Cantabria,Spain,25,367,523,218,603,587,428,646.0,571,44.35,2015,Cantabria University,unican,0,0,0,University of Cantabria,
+709,709,710,Rochester Institute of Technology,USA,196,367,431,218,905,643,287,671.0,587,44.35,2015,,RITtigers,20,14,6,Rochester Institute of Technology,0.7
+710,710,711,Royal College of Surgeons in Ireland,Ireland,5,367,567,218,888,714,368,646.0,446,44.35,2015,,RCSI_Irl,45,36,9,Royal College of Surgeons in Ireland,0.8
+711,711,712,San Francisco State University,USA,197,271,567,218,864,572,511,622.0,871,44.35,2015,,SFSU,19,11,8,San Francisco State University,0.5789473684210527
+712,712,713,Sapporo Medical University,Japan,44,367,567,218,975,837,645,637.0,441,44.35,2015,,,11,8,3,Sapporo Medical University,0.7272727272727273
+713,713,714,Indian Institute of Technology Kanpur,India,11,174,503,218,561,848,645,715.0,450,44.34,2015,,IITKanpur,41,39,2,Indian Institute of Technology Kanpur,0.9512195121951219
+714,714,715,Johannes Kepler University of Linz,Austria,9,367,378,218,742,659,645,671.0,560,44.34,2015,Linz Johannes Kepler University,heimbergecon,0,0,0,Johannes Kepler University of Linz,
+715,715,716,Czech Technical University in Prague,Czech Republic,3,347,567,218,673,816,428,646.0,582,44.34,2015,,ctu_cs,0,0,0,Czech Technical University in Prague,
+716,716,717,Marquette University,USA,198,367,201,218,912,785,812,896.0,682,44.34,2015,,MarquetteU,13,9,4,Marquette University,0.6923076923076923
+717,717,718,Missouri University of Science and Technology,USA,199,367,246,218,718,923,645,826.0,592,44.34,2015,Science And Technology Missouri University,MissouriSandT,3,3,0,Missouri University of Science and Technology,1.0
+718,718,719,Howard University,USA,200,294,567,218,934,665,511,699.0,296,44.33,2015,,HowardU,54,35,19,Howard University,0.6481481481481481
+719,719,720,Aston University,United Kingdom,56,367,355,218,827,895,645,754.0,306,44.33,2015,,AstonUniversity,17,13,4,Aston University,0.7647058823529411
+720,720,721,École normale supérieure de Cachan,France,32,121,323,218,895,776,428,826.0,871,44.33,2015,,ENS_ParisSaclay,0,0,0,École normale supérieure de Cachan,
+721,721,722,Jichi Medical University,Japan,45,367,567,218,930,633,511,637.0,641,44.33,2015,,,11,8,3,Jichi Medical University,0.7272727272727273
+722,722,723,"Rutgers, The State University of New Jersey - Newark",USA,201,367,567,218,832,515,645,637.0,871,44.33,2015,"New Jersey - Newark Rutgers, The State University",RutgersU,51,26,25,"Rutgers, The State University of New Jersey - Newark",0.5098039215686274
+723,723,724,"Palacký University, Olomouc",Czech Republic,4,367,567,218,739,562,511,659.0,475,44.33,2015,,FF_UP,0,0,0,"Palacký University, Olomouc",
+724,724,725,Ankara University,Turkey,4,367,341,218,743,728,511,699.0,871,44.33,2015,,AnkaraUni,0,0,0,Ankara University,
+725,725,726,University of Belgrade,Serbia,1,276,567,218,422,694,511,715.0,824,44.33,2015,Belgrade University,BelgradeUni,0,0,0,University of Belgrade,
+726,726,727,Toho University,Japan,46,367,567,159,836,824,812,699.0,787,44.33,2015,,Toho_diabetes,0,0,0,Toho University,
+727,727,728,Kyoto Prefectural University of Medicine,Japan,47,367,567,218,852,752,645,637.0,871,44.33,2015,Medicine Kyoto Prefectural University,,11,8,3,Kyoto Prefectural University of Medicine,0.7272727272727273
+728,728,729,Swansea University,United Kingdom,57,367,428,218,523,566,645,699.0,595,44.32,2015,,SwanseaUni,39,32,7,Swansea University,0.8205128205128205
+729,729,730,Université de Namur,Belgium,8,164,464,218,881,700,645,699.0,716,44.32,2015,,LobetDe,0,0,0,Université de Namur,
+730,730,731,University of Szeged,Hungary,4,367,567,205,657,720,812,659.0,532,44.32,2015,Szeged University,Uni_Szeged,1,1,0,University of Szeged,1.0
+731,731,732,Kitasato University,Japan,48,367,567,218,725,595,812,646.0,871,44.32,2015,,tobashaan2323,0,0,0,Kitasato University,
+732,732,733,Hasselt University,Belgium,9,367,340,218,829,904,645,699.0,761,44.32,2015,,MRS_eMRS_ChapUH,0,0,0,Hasselt University,
+733,733,734,University of Córdoba (Spain),Spain,26,367,567,218,632,725,812,659.0,633,44.32,2015,Córdoba (Spain) University,Univcordoba,4,0,4,University of Córdoba (Spain),0.0
+734,734,735,Åbo Akademi University,Finland,9,367,567,218,765,679,645,646.0,731,44.32,2015,,aboakademi,2,1,1,Åbo Akademi University,0.5
+735,735,736,Tottori University,Japan,49,367,343,218,908,721,511,741.0,390,44.32,2015,,61503891,0,0,0,Tottori University,
+736,736,737,Kindai University,Japan,50,367,567,218,680,712,428,686.0,437,44.32,2015,,tohruhoriguchi,0,0,0,Kindai University,
+737,737,738,University of Castilla–La Mancha,Spain,27,367,567,218,627,751,812,671.0,519,44.31,2015,Castilla–La Mancha University,uclm_es,0,0,0,University of Castilla–La Mancha,
+738,738,739,University of Augsburg,Germany,48,367,567,218,816,684,812,646.0,792,44.31,2015,Augsburg University,BjoernSchuller,0,0,0,University of Augsburg,
+739,739,740,"Paul Valéry University, Montpellier III",France,33,367,567,218,837,502,287,686.0,871,44.31,2015,,univpaulvalery,0,0,0,"Paul Valéry University, Montpellier III",
+740,740,741,University of Mons,Belgium,10,367,567,218,812,793,645,659.0,517,44.31,2015,Mons University,,11,8,3,University of Mons,0.7272727272727273
+741,741,742,Istanbul Technical University,Turkey,5,367,440,218,646,875,368,699.0,839,44.31,2015,,itu1773,0,0,0,Istanbul Technical University,
+742,742,743,"University of Natural Resources and Life Sciences, Vienna",Austria,10,367,567,218,778,627,511,659.0,611,44.31,2015,"Natural Resources And Life Sciences, Vienna University",BOKUvienna,3,2,1,"University of Natural Resources and Life Sciences, Vienna",0.6666666666666666
+743,743,744,National University of La Plata,Argentina,2,367,513,218,546,559,511,686.0,871,44.31,2015,La Plata National University,unlp,0,0,0,National University of La Plata,
+744,744,745,University of Calabria,Italy,41,367,567,218,583,890,428,686.0,700,44.31,2015,Calabria University,sandrasavaglio,0,0,0,University of Calabria,
+745,745,746,University of Memphis,USA,202,367,382,218,782,640,511,741.0,394,44.3,2015,Memphis University,uofmemphis,11,9,2,University of Memphis,0.8181818181818182
+746,746,747,"G. d'Annunzio University, Chieti-Pescara",Italy,42,367,567,218,750,615,812,659.0,871,44.3,2015,,univUda,0,0,0,"G. d'Annunzio University, Chieti-Pescara",
+747,747,748,University of Missouri–St. Louis,USA,203,367,371,218,897,524,428,715.0,634,44.3,2015,Missouri–St. Louis University,umsl,4,1,3,University of Missouri–St. Louis,0.25
+748,748,749,Beijing Institute of Technology,China,42,367,567,218,528,969,511,699.0,569,44.3,2015,,rachael_rudolph,0,0,0,Beijing Institute of Technology,
+749,749,750,University of Évry Val d'Essonne,France,34,367,567,218,996,368,645,659.0,871,44.3,2015,Évry Val D'Essonne University,UnivEvry,0,0,0,University of Évry Val d'Essonne,
+750,750,751,University of South Australia,Australia,21,367,324,218,604,746,812,781.0,431,44.3,2015,South Australia University,UniversitySA,23,21,2,University of South Australia,0.9130434782608695
+751,751,752,University of Alabama in Huntsville,USA,204,367,567,218,921,432,645,659.0,805,44.3,2015,Alabama In Huntsville University,UAHuntsville,1,0,1,University of Alabama in Huntsville,0.0
+752,752,753,University of Salzburg,Austria,11,367,270,218,933,738,812,796.0,871,44.3,2015,Salzburg University,MAMK,1,1,0,University of Salzburg,1.0
+753,753,754,University of Mississippi Medical Center,USA,205,367,567,218,775,504,511,671.0,871,44.29,2015,Mississippi Medical Center University,UMMCnews,8,4,4,University of Mississippi Medical Center,0.5
+754,754,755,National Research Nuclear University MEPhI,Russia,4,306,567,218,957,699,428,671.0,871,44.29,2015,,UMephi,0,0,0,National Research Nuclear University MEPhI,
+755,755,756,Chung-Ang University,South Korea,24,367,461,218,637,781,511,886.0,218,44.29,2015,,Jesicacaecilia,0,0,0,Chung-Ang University,
+756,756,757,Kaohsiung Medical University,Taiwan,10,367,567,218,539,854,812,699.0,661,44.29,2015,,,11,8,3,Kaohsiung Medical University,0.7272727272727273
+757,757,758,University of Neuchâtel,Switzerland,9,352,567,218,863,635,812,671.0,640,44.29,2015,Neuchâtel University,,11,8,3,University of Neuchâtel,0.7272727272727273
+758,758,759,University of Yamanashi,Japan,51,367,567,218,869,862,645,715.0,382,44.29,2015,Yamanashi University,,11,8,3,University of Yamanashi,0.7272727272727273
+759,759,760,Yamagata University,Japan,52,367,567,218,775,736,812,686.0,535,44.29,2015,,aryayudistira,0,0,0,Yamagata University,
+760,760,761,New Jersey Institute of Technology,USA,206,259,472,218,791,670,812,741.0,391,44.28,2015,,NJIT,11,6,5,New Jersey Institute of Technology,0.5454545454545454
+761,761,762,East Carolina University,USA,207,367,394,218,699,685,812,732.0,639,44.28,2015,,EastCarolina,36,26,10,East Carolina University,0.7222222222222222
+762,762,763,University of Hyogo,Japan,53,367,567,218,813,475,511,686.0,787,44.28,2015,Hyogo University,of_gbc,0,0,0,University of Hyogo,
+763,763,764,University of Picardie Jules Verne,France,35,367,567,218,826,782,428,699.0,543,44.28,2015,Picardie Jules Verne University,upjv,11,11,0,University of Picardie Jules Verne,1.0
+764,764,765,University of Salento,Italy,43,367,567,218,661,743,511,699.0,654,44.28,2015,Salento University,unisalento,0,0,0,University of Salento,
+765,765,766,Northern Arizona University,USA,208,367,537,218,939,489,645,686.0,609,44.28,2015,,NAU,10,6,4,Northern Arizona University,0.6
+766,766,767,Miguel Hernández University of Elche,Spain,28,367,567,218,757,617,812,699.0,497,44.28,2015,Elche Miguel Hernández University,UniversidadMH,2,2,0,Miguel Hernández University of Elche,1.0
+767,767,768,University of Tehran,Iran,2,181,567,218,489,984,812,770.0,871,44.28,2015,Tehran University,UnivOfTehran,0,0,0,University of Tehran,
+768,768,769,Blaise Pascal University,France,36,367,567,192,735,701,645,699.0,619,44.28,2015,,,11,8,3,Blaise Pascal University,0.7272727272727273
+769,769,770,Yeungnam University,South Korea,25,367,417,218,761,974,812,867.0,231,44.27,2015,,YeungnamUniv,0,0,0,Yeungnam University,
+770,770,771,Kurume University,Japan,54,367,567,218,986,770,812,699.0,473,44.27,2015,,kurumebekka,0,0,0,Kurume University,
+771,771,772,Institut national des sciences Appliquées de Lyon,France,37,367,567,218,547,674,645,732.0,558,44.27,2015,,insadelyon,0,0,0,Institut national des sciences Appliquées de Lyon,
+772,772,773,Saga University,Japan,55,367,567,218,808,791,812,715.0,435,44.27,2015,,sgu_infomation,0,0,0,Saga University,
+773,773,774,Chongqing University,China,43,367,283,218,630,892,645,837.0,809,44.27,2015,,ChinaSantAnna,0,0,0,Chongqing University,
+774,774,775,Jikei University School of Medicine,Japan,56,367,567,218,959,711,645,686.0,797,44.27,2015,,,11,8,3,Jikei University School of Medicine,0.7272727272727273
+775,775,776,Second Military Medical University,China,44,367,567,218,579,664,645,754.0,395,44.27,2015,,,11,8,3,Second Military Medical University,0.7272727272727273
+776,776,777,Jawaharlal Nehru Centre for Advanced Scientific Research,India,12,367,567,218,868,650,645,715.0,453,44.27,2015,,jncasr,0,0,0,Jawaharlal Nehru Centre for Advanced Scientific Research,
+777,777,778,"University of North Texas, Denton",USA,209,367,567,218,675,636,645,715.0,554,44.27,2015,"North Texas, Denton University",newlypaul,1,1,0,"University of North Texas, Denton",1.0
+778,778,779,Ege University,Turkey,6,367,567,218,761,839,511,699.0,871,44.27,2015,,UniversiteEge,5,5,0,Ege University,1.0
+779,779,780,Mie University,Japan,57,367,567,218,835,860,645,741.0,368,44.27,2015,,,11,8,3,Mie University,0.7272727272727273
+780,780,781,École Polytechnique de Montréal,Canada,26,367,507,218,716,921,511,741.0,412,44.27,2015,,polymtl,3,2,1,École Polytechnique de Montréal,0.6666666666666666
+781,781,782,AGH University of Science and Technology,Poland,4,267,279,218,708,891,511,896.0,398,44.26,2015,Science And Technology Agh University,AGH_Krakow,0,0,0,AGH University of Science and Technology,
+782,782,783,University of Electronic Science and Technology of China,China,45,367,308,218,529,912,812,837.0,552,44.26,2015,Electronic Science And Technology   China University,UESTC1956,0,0,0,University of Electronic Science and Technology of China,
+783,783,784,University of Stirling,United Kingdom,58,367,357,218,772,707,812,754.0,871,44.26,2015,Stirling University,StirUni,57,47,10,University of Stirling,0.8245614035087719
+784,784,785,University of Greifswald,Germany,49,367,567,211,714,487,812,732.0,476,44.26,2015,Greifswald University,,11,8,3,University of Greifswald,0.7272727272727273
+785,785,786,National Polytechnic Institute,Mexico,2,330,567,218,573,579,428,741.0,620,44.26,2015,,IPN_MX,0,0,0,National Polytechnic Institute,
+786,786,787,Jacobs University Bremen,Germany,50,367,567,218,894,666,511,715.0,533,44.26,2015,,jacobs_bremen,0,0,0,Jacobs University Bremen,
+787,787,788,Capital Medical University,China,46,367,567,218,525,754,511,741.0,871,44.26,2015,,,11,8,3,Capital Medical University,0.7272727272727273
+788,788,789,Norwegian University of Life Sciences,Norway,5,367,567,218,769,570,511,715.0,782,44.26,2015,Life Sciences Norwegian University,torbenja,0,0,0,Norwegian University of Life Sciences,
+789,789,790,Michigan Technological University,USA,210,341,467,218,794,769,428,741.0,581,44.25,2015,,michigantech,1,1,0,Michigan Technological University,1.0
+790,790,791,Vilnius University,Lithuania,1,340,567,218,799,642,645,715.0,684,44.25,2015,,VU_LT,0,0,0,Vilnius University,
+791,791,792,North Dakota State University - Main Campus,USA,211,172,567,218,702,790,812,770.0,871,44.25,2015,,,11,8,3,North Dakota State University - Main Campus,0.7272727272727273
+792,792,793,University of Hohenheim,Germany,51,367,567,218,767,691,645,715.0,782,44.25,2015,Hohenheim University,BioeconomyUHoh,0,0,0,University of Hohenheim,
+793,793,794,University of North Carolina at Charlotte,USA,212,367,310,218,741,662,511,826.0,593,44.25,2015,North Carolina At Charlotte University,unccharlotte,19,16,3,University of North Carolina at Charlotte,0.8421052631578947
+794,794,795,Zhengzhou University,China,47,367,427,218,663,806,812,754.0,749,44.25,2015,,,11,8,3,Zhengzhou University,0.7272727272727273
+795,795,796,Cairo University,Egypt,1,285,469,180,697,730,511,781.0,871,44.25,2015,,AUC,2,1,1,Cairo University,0.5
+796,796,797,University of Caen Lower Normandy,France,38,207,567,218,637,768,812,754.0,787,44.25,2015,Caen Lower Normandy University,,11,8,3,University of Caen Lower Normandy,0.7272727272727273
+797,797,798,Saitama Medical University,Japan,58,367,567,218,993,586,645,732.0,488,44.25,2015,,,11,8,3,Saitama Medical University,0.7272727272727273
+798,798,799,University of Murcia,Spain,29,367,567,218,541,703,428,781.0,479,44.24,2015,Murcia University,cmarenostrum,0,0,0,University of Murcia,
+799,799,800,Showa University,Japan,59,367,567,218,985,759,645,715.0,727,44.24,2015,,OfShowa,0,0,0,Showa University,
+800,800,801,University of Oldenburg,Germany,52,367,567,218,729,619,645,732.0,816,44.24,2015,Oldenburg University,_laura_helen,0,0,0,University of Oldenburg,
+801,801,802,Magna Græcia University of Catanzaro,Italy,44,367,567,218,948,813,812,715.0,766,44.24,2015,Catanzaro Magna Græcia University,,11,8,3,Magna Græcia University of Catanzaro,0.7272727272727273
+802,802,803,National Sun Yat-sen University,Taiwan,11,367,567,218,461,950,511,781.0,871,44.24,2015,,,11,8,3,National Sun Yat-sen University,0.7272727272727273
+803,803,804,Nanjing University of Science and Technology,China,48,367,331,218,796,943,368,826.0,694,44.24,2015,Science And Technology Nanjing University,,11,8,3,Nanjing University of Science and Technology,0.7272727272727273
+804,804,805,University of Concepción,Chile,3,367,567,218,712,451,812,754.0,505,44.23,2015,Concepción University,AnibalPauchard,1,1,0,University of Concepción,1.0
+805,805,806,Chungbuk National University,South Korea,26,367,567,218,745,859,812,809.0,319,44.23,2015,,,11,8,3,Chungbuk National University,0.7272727272727273
+806,806,807,Taipei Medical University,Taiwan,12,367,567,218,499,883,645,781.0,661,44.23,2015,,TaipeiMedicalU,0,0,0,Taipei Medical University,
+807,807,808,Jaume I University,Spain,30,367,567,218,794,958,645,741.0,643,44.23,2015,,franferbel,0,0,0,Jaume I University,
+808,808,809,Bowling Green State University,USA,213,367,373,218,910,705,645,781.0,824,44.23,2015,,bgsu,14,12,2,Bowling Green State University,0.8571428571428571
+809,809,810,Nanjing University of Technology,China,49,367,567,218,748,984,812,932.0,217,44.22,2015,Technology Nanjing University,,11,8,3,Nanjing University of Technology,0.7272727272727273
+810,810,811,University of New England (Australia),Australia,22,367,251,218,938,634,511,932.0,797,44.22,2015,New England (Australia) University,,11,8,3,University of New England (Australia),0.7272727272727273
+811,811,812,Kangwon National University,South Korea,27,367,567,218,706,819,645,781.0,428,44.22,2015,,fungalplantfans,0,0,0,Kangwon National University,
+812,812,813,Inje University,South Korea,28,367,567,218,838,928,812,809.0,331,44.22,2015,,,11,8,3,Inje University,0.7272727272727273
+813,813,814,Aberystwyth University,United Kingdom,59,367,567,218,842,552,511,754.0,607,44.22,2015,,AberUni,11,8,3,Aberystwyth University,0.7272727272727273
+814,814,815,"University of Technology, Sydney",Australia,23,367,543,218,580,668,511,796.0,520,44.22,2015,"Technology, Sydney University",UTSEngage,19,16,3,"University of Technology, Sydney",0.8421052631578947
+815,815,816,University of Franche-Comté,France,39,302,567,218,743,814,511,770.0,583,44.22,2015,Franche-Comté University,fc_univ,0,0,0,University of Franche-Comté,
+816,816,817,University of Sassari,Italy,45,367,567,218,758,592,812,754.0,805,44.21,2015,Sassari University,unissTwit,0,0,0,University of Sassari,
+817,817,818,Chiang Mai University,Thailand,3,367,550,218,847,753,511,754.0,871,44.21,2015,,CMU_Nursing,0,0,0,Chiang Mai University,
+818,818,819,Budapest University of Technology and Economics,Hungary,5,256,567,218,740,761,645,781.0,529,44.21,2015,Technology And Economics Budapest University,rebomaville,0,0,0,Budapest University of Technology and Economics,
+819,819,820,University of Maribor,Slovenia,2,367,567,218,853,820,511,754.0,752,44.21,2015,Maribor University,majdamagdalena,0,0,0,University of Maribor,
+820,820,821,University of Bradford,United Kingdom,60,367,287,218,859,772,812,886.0,567,44.21,2015,Bradford University,UniofBradford,29,23,6,University of Bradford,0.7931034482758621
+821,821,822,University of Perpignan Via Domitia,France,40,160,567,218,974,580,428,826.0,871,44.21,2015,Perpignan Via Domitia University,upvd1,2,2,0,University of Perpignan Via Domitia,1.0
+822,822,823,Florida Institute of Technology,USA,214,367,567,218,973,793,368,770.0,871,44.21,2015,,FloridaTech,0,0,0,Florida Institute of Technology,
+823,823,824,University of Brighton,United Kingdom,61,367,567,218,854,829,812,754.0,766,44.21,2015,Brighton University,uniofbrighton,56,50,6,University of Brighton,0.8928571428571429
+824,824,825,University of Massachusetts Boston,USA,215,367,429,218,846,698,428,796.0,824,44.21,2015,Massachusetts Boston University,UMassBoston,21,18,3,University of Massachusetts Boston,0.8571428571428571
+825,825,826,Rio de Janeiro State University,Brazil,8,367,567,218,760,910,511,770.0,739,44.21,2015,,pabeda1,43,32,11,Rio de Janeiro State University,0.7441860465116279
+826,826,827,Nagoya Institute of Technology,Japan,60,367,504,218,825,958,645,921.0,229,44.2,2015,,LabSeki,0,0,0,Nagoya Institute of Technology,
+827,827,828,Jiangnan University,China,50,367,567,218,783,912,812,770.0,628,44.2,2015,,,11,8,3,Jiangnan University,0.7272727272727273
+828,828,829,Murdoch University,Australia,24,367,527,218,827,501,645,770.0,770,44.2,2015,,MurdochUni,13,11,2,Murdoch University,0.8461538461538461
+829,829,830,"University of Wales, Trinity Saint David",United Kingdom,62,367,567,218,1000,927,645,754.0,871,44.2,2015,"Wales, Trinity Saint David University",UWTSD,10,8,2,"University of Wales, Trinity Saint David",0.8
+830,830,831,University of Rouen,France,41,362,567,218,700,722,812,809.0,414,44.2,2015,Rouen University,,11,8,3,University of Rouen,0.7272727272727273
+831,831,832,The Catholic University of America,USA,216,367,407,218,947,596,511,809.0,674,44.2,2015,America The Catholic University,CatholicUniv,3,2,1,The Catholic University of America,0.6666666666666666
+832,832,833,Wright State University - Dayton,USA,217,367,567,218,810,805,812,770.0,824,44.2,2015,,wrightstate,11,8,3,Wright State University - Dayton,0.7272727272727273
+833,833,834,Dankook University,South Korea,29,367,567,218,888,948,645,896.0,241,44.2,2015,,dkupr,0,0,0,Dankook University,
+834,834,835,Clarkson University,USA,218,367,390,218,981,974,812,809.0,685,44.19,2015,,ClarksonUniv,3,3,0,Clarkson University,1.0
+835,835,836,University of Regina,Canada,27,367,567,218,851,737,645,781.0,573,44.19,2015,Regina University,UofRegina,20,12,8,University of Regina,0.6
+836,836,837,Boğaziçi University,Turkey,7,367,519,218,843,766,511,781.0,824,44.19,2015,,,11,8,3,Boğaziçi University,0.7272727272727273
+837,837,838,Kōchi University,Japan,61,367,567,218,942,788,812,781.0,536,44.19,2015,,,11,8,3,Kōchi University,0.7272727272727273
+838,838,839,University of Miyazaki,Japan,62,290,567,218,952,692,645,826.0,393,44.19,2015,Miyazaki University,dmiyazaki,0,0,0,University of Miyazaki,
+839,839,840,University of Electro-Communications,Japan,63,161,567,218,857,833,645,906.0,332,44.19,2015,Electro-Communications University,kizm_naoya,0,0,0,University of Electro-Communications,
+840,840,841,University of Valladolid,Spain,31,367,454,218,691,888,812,850.0,407,44.19,2015,Valladolid University,UVa_es,0,0,0,University of Valladolid,
+841,841,842,Bilkent University,Turkey,8,367,475,218,781,789,812,796.0,871,44.19,2015,,BilkentUniv,0,0,0,Bilkent University,
+842,842,843,Dublin City University,Ireland,6,367,567,218,803,933,511,850.0,347,44.19,2015,,DublinCityUni,67,44,23,Dublin City University,0.6567164179104478
+843,843,844,University of South Alabama,USA,219,367,567,218,979,784,812,796.0,464,44.19,2015,South Alabama University,UofSouthAlabama,0,0,0,University of South Alabama,
+844,844,845,Sofia University,Bulgaria,1,254,567,218,814,881,645,796.0,871,44.19,2015,,SophiaUniv_JP,0,0,0,Sofia University,
+845,845,846,Ocean University of China,China,51,367,567,218,648,735,812,809.0,541,44.19,2015,China Ocean University,OUC1924,0,0,0,Ocean University of China,
+846,846,847,King Fahd University of Petroleum and Minerals,Saudi Arabia,3,367,234,218,934,950,812,984.0,871,44.19,2015,Petroleum And Minerals King Fahd University,KFUPM,0,0,0,King Fahd University of Petroleum and Minerals,
+847,847,848,University of Veterinary Medicine Vienna,Austria,12,367,567,184,872,687,511,809.0,654,44.19,2015,Veterinary Medicine Vienna University,,11,8,3,University of Veterinary Medicine Vienna,0.7272727272727273
+848,848,849,University of Alcalá,Spain,32,367,567,218,746,657,812,796.0,608,44.18,2015,Alcalá University,UAHes,0,0,0,University of Alcalá,
+849,849,850,Hunter College,USA,220,261,438,218,822,610,812,826.0,805,44.18,2015,,Hunter_College,1,1,0,Hunter College,1.0
+850,850,851,"All India Institute of Medical Sciences, New Delhi",India,13,367,567,218,887,886,645,781.0,839,44.18,2015,,AIIMSRDA,3,2,1,"All India Institute of Medical Sciences, New Delhi",0.6666666666666666
+851,851,852,Gazi University,Turkey,9,367,468,218,750,942,645,809.0,871,44.18,2015,,Gazi_Universite,0,0,0,Gazi University,
+852,852,853,"National University of Ireland, Maynooth",Ireland,7,244,567,218,992,710,812,809.0,561,44.18,2015,"Ireland, Maynooth National University",ProgCity,1,1,0,"National University of Ireland, Maynooth",1.0
+853,853,854,Tehran University of Medical Sciences,Iran,3,367,567,218,771,899,812,796.0,871,44.18,2015,Medical Sciences Tehran University,smmhashemi,0,0,0,Tehran University of Medical Sciences,
+854,854,855,University of the Ryukyus,Japan,64,367,567,218,922,663,645,796.0,618,44.18,2015,The Ryukyus University,joaofungo,1,1,0,University of the Ryukyus,1.0
+855,855,856,Florida Atlantic University,USA,221,367,567,218,855,741,812,796.0,714,44.17,2015,,FloridaAtlantic,15,11,4,Florida Atlantic University,0.7333333333333333
+856,856,857,University of Siegen,Germany,53,367,532,218,870,732,428,809.0,769,44.17,2015,Siegen University,matsch_o0,0,0,0,University of Siegen,
+857,857,858,Huazhong Agricultural University,China,52,367,567,218,651,535,645,837.0,494,44.17,2015,,HZAU_China,0,0,0,Huazhong Agricultural University,
+858,858,859,University of Angers,France,42,367,567,218,840,801,812,809.0,550,44.17,2015,Angers University,brunodauce,0,0,0,University of Angers,
+859,859,860,University of Seoul,South Korea,30,367,567,218,989,907,645,921.0,259,44.17,2015,Seoul University,USeoul,0,0,0,University of Seoul,
+860,860,861,Brock University,Canada,28,367,567,218,877,727,511,809.0,638,44.17,2015,,BrockUniversity,15,13,2,Brock University,0.8666666666666667
+861,861,862,Fukuoka University,Japan,65,367,567,218,971,876,812,837.0,416,44.17,2015,,kenki11,0,0,0,Fukuoka University,
+862,862,863,Hamamatsu University School of Medicine,Japan,66,367,567,218,990,917,645,826.0,470,44.17,2015,,,11,8,3,Hamamatsu University School of Medicine,0.7272727272727273
+863,863,864,Nanjing Normal University,China,53,367,456,218,729,709,428,850.0,742,44.17,2015,,,11,8,3,Nanjing Normal University,0.7272727272727273
+864,864,865,National Chung Cheng University,Taiwan,13,367,567,218,796,991,645,809.0,871,44.17,2015,,,11,8,3,National Chung Cheng University,0.7272727272727273
+865,865,866,Nanjing Agricultural University,China,54,367,567,218,617,726,812,837.0,601,44.16,2015,,PowlsonDavid,2,2,0,Nanjing Agricultural University,1.0
+866,866,867,University of the Republic (Uruguay),Uruguay,66,367,567,218,814,669,812,809.0,871,44.16,2015,The Republic (Uruguay) University,Udelaruy,0,0,0,University of the Republic (Uruguay),
+867,867,868,Sejong University,South Korea,31,367,567,218,788,845,812,837.0,466,44.16,2015,,SEJONGRPG,0,0,0,Sejong University,
+868,868,869,Makerere University,Uganda,1,367,567,218,882,656,645,809.0,871,44.16,2015,,MakerereU,103,66,37,Makerere University,0.6407766990291263
+869,869,870,University of New Brunswick,Canada,29,367,354,218,777,802,812,886.0,591,44.16,2015,New Brunswick University,UNB,8,5,3,University of New Brunswick,0.625
+870,870,871,Northeastern University (China),China,55,367,315,218,759,974,812,906.0,698,44.16,2015,,Kehoe34,0,0,0,Northeastern University (China),
+871,871,872,University of Extremadura,Spain,33,367,567,218,766,958,812,826.0,630,44.16,2015,Extremadura University,LozanoReal,0,0,0,University of Extremadura,
+872,872,873,RMIT University,Australia,25,367,561,218,690,929,812,837.0,585,44.16,2015,,RMIT,10,7,3,RMIT University,0.7
+873,873,874,"Royal Veterinary College, University of London",United Kingdom,63,246,567,218,896,550,511,837.0,746,44.16,2015,"London Royal Veterinary College, University",StuartReid_RVC,0,0,0,"Royal Veterinary College, University of London",
+874,874,875,Chung Yuan Christian University,Taiwan,14,249,320,218,779,962,812,921.0,871,44.16,2015,,,11,8,3,Chung Yuan Christian University,0.7272727272727273
+875,875,876,University of Osnabrück,Germany,54,367,567,218,844,654,511,826.0,871,44.15,2015,Osnabrück University,,11,8,3,University of Osnabrück,0.7272727272727273
+876,876,877,Northwest University (China),China,56,367,567,218,904,848,368,837.0,871,44.15,2015,,junsugawara,1,1,0,Northwest University (China),1.0
+877,877,878,Chosun University,South Korea,32,367,567,218,942,984,812,991.0,209,44.15,2015,,CSUHIHCC,0,0,0,Chosun University,
+878,878,879,University of Orléans,France,43,367,524,218,754,495,645,837.0,839,44.15,2015,Orléans University,,11,8,3,University of Orléans,0.7272727272727273
+879,879,880,Jean Monnet University,France,44,367,567,218,626,486,812,850.0,710,44.15,2015,,Univ_St_Etienne,3,3,0,Jean Monnet University,1.0
+880,880,881,École centrale de Lyon,France,45,367,255,218,856,841,812,991.0,570,44.15,2015,,CentraleLyon,0,0,0,École centrale de Lyon,
+881,881,882,University of Western Sydney,Australia,26,367,567,218,651,551,645,850.0,647,44.15,2015,Western Sydney University,westernsydneyu,9,7,2,University of Western Sydney,0.7777777777777778
+882,882,883,Hefei University of Technology,China,57,367,302,218,914,974,812,932.0,871,44.15,2015,Technology Hefei University,,11,8,3,Hefei University of Technology,0.7272727272727273
+883,883,884,University of Massachusetts Lowell,USA,222,367,528,218,936,943,321,946.0,304,44.15,2015,Massachusetts Lowell University,UMassLowell,7,7,0,University of Massachusetts Lowell,1.0
+884,884,885,Manchester Metropolitan University,United Kingdom,64,367,458,218,941,677,812,850.0,721,44.14,2015,,ManMetUni,30,23,7,Manchester Metropolitan University,0.7666666666666667
+885,885,886,Nanjing Medical University,China,58,367,567,218,582,696,812,867.0,761,44.14,2015,,,11,8,3,Nanjing Medical University,0.7272727272727273
+886,886,887,Kyoto Institute of Technology,Japan,67,367,567,218,982,868,812,921.0,287,44.14,2015,,KyotoDesignLabE,0,0,0,Kyoto Institute of Technology,
+887,887,888,Shanghai Normal University,China,59,367,463,218,919,950,812,850.0,871,44.14,2015,,BRIClanguages,0,0,0,Shanghai Normal University,
+888,888,889,Southwest University,China,60,268,567,218,695,897,645,867.0,669,44.14,2015,,SWUniversity,0,0,0,Southwest University,
+889,889,890,Adam Mickiewicz University in Poznań,Poland,5,150,567,218,675,775,812,932.0,657,44.14,2015,,,11,8,3,Adam Mickiewicz University in Poznań,0.7272727272727273
+890,890,891,University of Calcutta,India,14,140,346,209,964,900,645,994.0,424,44.14,2015,Calcutta University,konikac27,0,0,0,University of Calcutta,
+891,891,892,University of Pécs,Hungary,6,367,567,218,962,812,812,850.0,501,44.14,2015,Pécs University,pte1367,0,0,0,University of Pécs,
+892,892,893,"Queens College, City University of New York",USA,223,323,374,218,977,690,812,886.0,729,44.14,2015,"New York Queens College, City University",QC_News,11,9,2,"Queens College, City University of New York",0.8181818181818182
+893,893,894,University of Lleida,Spain,34,367,567,218,883,850,812,837.0,809,44.14,2015,Lleida University,pampolsarq,0,0,0,University of Lleida,
+894,894,895,Nanjing University of Aeronautics and Astronautics,China,61,367,486,218,709,974,812,867.0,853,44.14,2015,Aeronautics And Astronautics Nanjing University,,11,8,3,Nanjing University of Aeronautics and Astronautics,0.7272727272727273
+895,895,896,University of Western Brittany,France,46,367,567,218,840,616,812,850.0,599,44.13,2015,Western Brittany University,UBO_UnivBrest,0,0,0,University of Western Brittany,
+896,896,897,University of North Carolina at Greensboro,USA,224,367,567,218,899,825,645,850.0,575,44.13,2015,North Carolina At Greensboro University,UNCG,22,16,6,University of North Carolina at Greensboro,0.7272727272727273
+897,897,898,Pukyong National University,South Korea,33,367,567,218,906,962,812,896.0,356,44.13,2015,,,11,8,3,Pukyong National University,0.7272727272727273
+898,898,899,Fourth Military Medical University,China,62,367,567,218,609,716,645,880.0,692,44.13,2015,,,11,8,3,Fourth Military Medical University,0.7272727272727273
+899,899,900,University of Fukui,Japan,68,367,567,218,950,797,812,850.0,610,44.13,2015,Fukui University,fukudai_koho,0,0,0,University of Fukui,
+900,900,901,University of Southern Mississippi,USA,225,367,567,218,913,853,812,850.0,676,44.13,2015,Southern Mississippi University,USMesports,1,1,0,University of Southern Mississippi,1.0
+901,901,902,University of Mannheim,Germany,55,367,518,218,916,903,428,867.0,871,44.13,2015,Mannheim University,sqrts,0,0,0,University of Mannheim,
+902,902,903,Shimane University,Japan,69,367,567,218,956,717,645,850.0,695,44.13,2015,,su_museum,0,0,0,Shimane University,
+903,903,904,China University of Geosciences (Wuhan),China,63,367,558,218,928,639,428,867.0,752,44.13,2015,Geosciences (Wuhan) China University,,11,8,3,China University of Geosciences (Wuhan),0.7272727272727273
+904,904,905,University of Thessaly,Greece,7,367,567,218,875,984,812,850.0,871,44.13,2015,Thessaly University,CivEngUTH,0,0,0,University of Thessaly,
+905,905,906,Oakland University,USA,226,367,567,218,888,810,812,850.0,871,44.13,2015,,oaklandu,81,69,12,Oakland University,0.8518518518518519
+906,906,907,Wilfrid Laurier University,Canada,30,367,298,218,952,921,812,969.0,871,44.13,2015,,Laurier,15,9,6,Wilfrid Laurier University,0.6
+907,907,908,Teikyo University,Japan,70,367,567,218,966,767,812,850.0,803,44.12,2015,,Teika1025,0,0,0,Teikyo University,
+908,908,909,Saitama University,Japan,71,367,349,218,959,609,511,932.0,545,44.12,2015,,IshiiLaboratory,0,0,0,Saitama University,
+909,909,910,Trent University,Canada,31,367,509,218,923,777,511,867.0,782,44.12,2015,,TrentUniversity,9,5,4,Trent University,0.5555555555555556
+910,910,911,Nicolaus Copernicus University in Toruń,Poland,6,367,567,218,873,821,511,867.0,698,44.12,2015,,,11,8,3,Nicolaus Copernicus University in Toruń,0.7272727272727273
+911,911,912,Tarbiat Modares University,Iran,4,367,567,218,769,991,812,867.0,871,44.12,2015,,ModaresUni,0,0,0,Tarbiat Modares University,
+912,912,913,University of North Dakota,USA,227,367,567,218,917,731,812,867.0,606,44.12,2015,North Dakota University,UofNorthDakota,8,2,6,University of North Dakota,0.25
+913,913,914,Isfahan University of Technology,Iran,5,367,567,218,682,923,645,880.0,871,44.12,2015,Technology Isfahan University,,11,8,3,Isfahan University of Technology,0.7272727272727273
+914,914,915,Fluminense Federal University,Brazil,9,367,313,218,802,892,645,958.0,871,44.12,2015,,uff_br,0,0,0,Fluminense Federal University,
+915,915,916,National Taiwan University of Science and Technology,Taiwan,15,367,567,218,598,991,812,886.0,823,44.12,2015,Science And Technology National Taiwan University,yogitrip,0,0,0,National Taiwan University of Science and Technology,
+916,916,917,University of Lethbridge,Canada,32,367,567,218,957,718,511,867.0,853,44.12,2015,Lethbridge University,ULethbridgeAlum,0,0,0,University of Lethbridge,
+917,917,918,Federal University of Santa Catarina,Brazil,10,367,567,218,606,941,812,886.0,763,44.12,2015,Santa Catarina Federal University,UFSC,1,1,0,Federal University of Santa Catarina,1.0
+918,918,919,University of Camerino,Italy,46,367,567,218,903,826,812,867.0,724,44.12,2015,Camerino University,alandpitts,0,0,0,University of Camerino,
+919,919,920,University of Brasília,Brazil,11,367,367,218,807,688,812,921.0,871,44.12,2015,Brasília University,catolica,0,0,0,University of Brasília,
+920,920,921,University of Wrocław,Poland,7,355,567,218,736,842,645,880.0,871,44.12,2015,Wrocław University,,11,8,3,University of Wrocław,0.7272727272727273
+921,921,922,University of Basilicata,Italy,47,367,567,218,940,900,645,867.0,871,44.12,2015,Basilicata University,Benny_Murgante,0,0,0,University of Basilicata,
+922,922,923,Jadavpur University,India,15,367,515,218,849,991,428,886.0,735,44.11,2015,,JUFET,0,0,0,Jadavpur University,
+923,923,924,South China Normal University,China,64,367,452,218,674,912,645,906.0,744,44.11,2015,,,11,8,3,South China Normal University,0.7272727272727273
+924,924,925,University of Hyderabad,India,16,367,567,218,879,910,812,880.0,871,44.11,2015,Hyderabad University,HydUniv,5,5,0,University of Hyderabad,1.0
+925,925,926,Ritsumeikan University,Japan,72,367,325,218,906,882,511,984.0,430,44.1,2015,,tanichu,2,2,0,Ritsumeikan University,1.0
+926,926,927,Carlos III University of Madrid,Spain,35,367,567,218,643,958,812,946.0,383,44.1,2015,Madrid Carlos Iii University,uc3m,3,3,0,Carlos III University of Madrid,1.0
+927,927,928,University of Cyprus,Cyprus,1,367,567,218,820,896,645,886.0,816,44.1,2015,Cyprus University,UCYOfficial,0,0,0,University of Cyprus,
+928,928,929,University of Texas at El Paso,USA,228,367,442,218,910,838,812,906.0,706,44.1,2015,Texas At El Paso University,UTEP,10,9,1,University of Texas at El Paso,0.9
+929,929,930,University of Cádiz,Spain,36,367,567,218,850,816,812,969.0,311,44.1,2015,Cádiz University,aduartesastre,0,0,0,University of Cádiz,
+930,930,931,Shahid Beheshti University of Medical Sciences,Iran,6,367,567,218,833,920,812,886.0,871,44.1,2015,Medical Sciences Shahid Beheshti University,smmhashemi,0,0,0,Shahid Beheshti University of Medical Sciences,
+931,931,932,National Taiwan Normal University,Taiwan,16,367,478,218,731,939,645,906.0,871,44.1,2015,,ntnuwings,0,0,0,National Taiwan Normal University,
+932,932,933,National University of Córdoba,Argentina,3,367,567,218,717,796,645,896.0,871,44.1,2015,Córdoba National University,unc_cordoba,0,0,0,National University of Córdoba,
+933,933,934,Federal University of Paraná,Brazil,12,367,497,218,697,800,812,906.0,772,44.1,2015,Paraná Federal University,JGBononi,0,0,0,Federal University of Paraná,
+934,934,935,University of Jaén,Spain,37,367,567,218,920,871,645,896.0,563,44.09,2015,Jaén University,ujaen,0,0,0,University of Jaén,
+935,935,936,"University of California, Merced",USA,229,367,567,218,899,540,812,906.0,491,44.09,2015,"California, Merced University",ucmerced,6,5,1,"University of California, Merced",0.8333333333333334
+936,936,937,University of Waikato,New Zealand,6,367,474,218,945,870,511,906.0,703,44.09,2015,Waikato University,waikato,13,10,3,University of Waikato,0.7692307692307693
+937,937,938,University of Central Lancashire,United Kingdom,65,367,494,218,946,603,511,906.0,749,44.09,2015,Central Lancashire University,UCLan,62,52,10,University of Central Lancashire,0.8387096774193549
+938,938,939,Federal University of Pernambuco,Brazil,13,367,552,218,749,884,812,946.0,417,44.09,2015,Pernambuco Federal University,rodrigo_lins,0,0,0,Federal University of Pernambuco,
+939,939,940,University of Almería,Spain,38,367,567,218,967,974,812,896.0,681,44.09,2015,Almería University,josemuyor,0,0,0,University of Almería,
+940,940,941,Federal University of São Carlos,Brazil,14,367,567,218,722,948,812,906.0,774,44.09,2015,São Carlos Federal University,ufscaroficial,0,0,0,Federal University of São Carlos,
+941,941,942,Charles Darwin University,Australia,27,367,567,218,931,742,645,896.0,871,44.09,2015,,CDUni,1,1,0,Charles Darwin University,1.0
+942,942,943,Yangzhou University,China,65,367,567,218,891,873,812,896.0,871,44.09,2015,,,11,8,3,Yangzhou University,0.7272727272727273
+943,943,944,Wrocław University of Technology,Poland,8,367,409,218,798,947,645,946.0,861,44.09,2015,Technology Wrocław University,,11,8,3,Wrocław University of Technology,0.7272727272727273
+944,944,945,Hirosaki University,Japan,73,367,505,218,951,844,511,906.0,693,44.08,2015,,hirosaki_univ,0,0,0,Hirosaki University,
+945,945,946,National Taiwan Ocean University,Taiwan,17,367,413,218,790,940,812,946.0,871,44.08,2015,,RahmadiSunoko,0,0,0,National Taiwan Ocean University,
+946,946,947,Jiangsu University,China,66,367,556,218,808,969,812,981.0,323,44.08,2015,,connectujs,0,0,0,Jiangsu University,
+947,947,948,Northwestern Polytechnical University,China,67,367,351,218,566,962,812,989.0,871,44.08,2015,,,11,8,3,Northwestern Polytechnical University,0.7272727272727273
+948,948,949,Xiangtan University,China,68,367,384,218,862,935,812,958.0,778,44.08,2015,,,11,8,3,Xiangtan University,0.7272727272727273
+949,949,950,United Arab Emirates University,United Arab Emirates,1,367,521,218,994,851,812,906.0,689,44.08,2015,,UAEU_NEWS,18,18,0,United Arab Emirates University,1.0
+950,950,951,Gachon University,South Korea,34,367,567,218,918,880,812,932.0,451,44.08,2015,,JHawLhD4VnMbsVv,0,0,0,Gachon University,
+951,951,952,Hallym University,South Korea,35,367,567,218,884,908,812,921.0,565,44.08,2015,,,11,8,3,Hallym University,0.7272727272727273
+952,952,953,Harbin Engineering University,China,69,367,567,218,970,991,645,906.0,839,44.07,2015,,,11,8,3,Harbin Engineering University,0.7272727272727273
+953,953,954,Dokuz Eylül University,Turkey,10,367,567,218,931,957,812,906.0,871,44.07,2015,,universitemDEU,0,0,0,Dokuz Eylül University,
+954,954,955,Jinan University,China,70,367,336,218,793,897,812,984.0,688,44.07,2015,,JinanUniversity,0,0,0,Jinan University,
+955,955,956,Shiraz University,Iran,7,367,567,218,865,962,645,921.0,871,44.07,2015,,,11,8,3,Shiraz University,0.7272727272727273
+956,956,957,Third Military Medical University,China,71,367,567,218,737,809,645,932.0,721,44.07,2015,,,11,8,3,Third Military Medical University,0.7272727272727273
+957,957,958,Amirkabir University of Technology,Iran,8,367,567,218,725,962,645,932.0,871,44.07,2015,Technology Amirkabir University,mohamadahj,0,0,0,Amirkabir University of Technology,
+958,958,959,Public University of Navarre,Spain,39,367,567,218,972,831,812,921.0,697,44.07,2015,Navarre Public University,,11,8,3,Public University of Navarre,0.7272727272727273
+959,959,960,Federico Santa María Technical University,Chile,4,367,567,218,955,923,368,946.0,645,44.07,2015,,usantamaria,1,1,0,Federico Santa María Technical University,1.0
+960,960,961,Federal University of ABC,Brazil,15,367,567,218,929,923,645,921.0,871,44.07,2015,Abc Federal University,parisyeros,0,0,0,Federal University of ABC,
+961,961,962,University of Puerto Rico at Mayagüez,Puerto Rico,1,367,567,218,998,793,645,921.0,871,44.06,2015,Puerto Rico At Mayagüez University,RullanAgustin,1,1,0,University of Puerto Rico at Mayagüez,1.0
+962,962,963,Southern Medical University,China,72,367,567,218,801,758,812,932.0,782,44.06,2015,,guangchuangyu,0,0,0,Southern Medical University,
+963,963,964,University of Silesia,Poland,9,367,567,218,867,864,511,932.0,871,44.06,2015,Silesia University,Tamarabalcii,0,0,0,University of Silesia,
+964,964,965,Ain Shams University,Egypt,2,367,567,218,875,832,511,932.0,871,44.06,2015,,AinshamsUniv,0,0,0,Ain Shams University,
+965,965,966,University of Valenciennes and Hainaut-Cambresis,France,47,367,567,218,866,950,645,932.0,871,44.06,2015,Valenciennes And Hainaut-Cambresis University,,11,8,3,University of Valenciennes and Hainaut-Cambresis,0.7272727272727273
+966,966,967,Chung Shan Medical University,Taiwan,18,367,567,218,727,973,645,946.0,871,44.06,2015,,,11,8,3,Chung Shan Medical University,0.7272727272727273
+967,967,968,National University of Colombia,Colombia,2,367,312,218,871,732,812,994.0,861,44.06,2015,Colombia National University,UNColombia,0,0,0,National University of Colombia,
+968,968,969,South China Agricultural University,China,73,367,567,218,877,811,812,932.0,871,44.06,2015,,,11,8,3,South China Agricultural University,0.7272727272727273
+969,969,970,Ibaraki University,Japan,74,367,567,218,999,448,645,946.0,562,44.06,2015,,,11,8,3,Ibaraki University,0.7272727272727273
+970,970,971,Fu Jen Catholic University,Taiwan,19,367,446,218,984,887,812,958.0,824,44.06,2015,,,11,8,3,Fu Jen Catholic University,0.7272727272727273
+971,971,972,Hunan Normal University,China,74,367,567,218,923,917,812,932.0,871,44.06,2015,,,11,8,3,Hunan Normal University,0.7272727272727273
+972,972,973,Ulsan National Institute of Science and Technology,South Korea,36,367,567,218,880,912,645,984.0,349,44.06,2015,,,11,8,3,Ulsan National Institute of Science and Technology,0.7272727272727273
+973,973,974,Federal University of Santa Maria,Brazil,16,367,396,218,954,974,812,975.0,871,44.05,2015,Santa Maria Federal University,juliocossioRI,0,0,0,Federal University of Santa Maria,
+974,974,975,Shenzhen University,China,75,367,410,218,976,778,645,999.0,318,44.05,2015,,SZUniversity,0,0,0,Shenzhen University,
+975,975,976,Tianjin Medical University,China,76,367,567,218,885,857,812,946.0,839,44.05,2015,,,11,8,3,Tianjin Medical University,0.7272727272727273
+976,976,977,Beijing University of Technology,China,77,367,567,218,780,950,812,969.0,512,44.05,2015,Technology Beijing University,,11,8,3,Beijing University of Technology,0.7272727272727273
+977,977,978,University of Reims Champagne-Ardenne,France,48,367,567,218,967,884,645,958.0,544,44.05,2015,Reims Champagne-Ardenne University,universitereims,1,1,0,University of Reims Champagne-Ardenne,1.0
+978,978,979,Yuan Ze University,Taiwan,20,367,567,218,923,984,812,946.0,871,44.05,2015,,,11,8,3,Yuan Ze University,0.7272727272727273
+979,979,980,"University of Chemistry and Technology, Prague",Czech Republic,5,367,567,218,991,868,812,946.0,778,44.05,2015,"Chemistry And Technology, Prague University",VSCHT,6,1,5,"University of Chemistry and Technology, Prague",0.16666666666666666
+980,980,981,University of Limerick,Ireland,8,367,529,218,892,863,812,969.0,516,44.05,2015,Limerick University,UL,198,158,40,University of Limerick,0.797979797979798
+981,981,982,China Medical University (PRC),China,78,367,567,218,804,749,645,958.0,871,44.04,2015,,,11,8,3,China Medical University (PRC),0.7272727272727273
+982,982,983,Feng Chia University,Taiwan,21,367,434,218,902,991,812,975.0,871,44.04,2015,,,11,8,3,Feng Chia University,0.7272727272727273
+983,983,984,Zhejiang University of Technology,China,79,367,567,218,858,991,812,958.0,672,44.04,2015,Technology Zhejiang University,,11,8,3,Zhejiang University of Technology,0.7272727272727273
+984,984,985,Novosibirsk State University,Russia,5,167,567,218,819,858,645,991.0,871,44.04,2015,,nsuem,0,0,0,Novosibirsk State University,
+985,985,986,University of Bucharest,Romania,1,237,567,218,845,804,645,975.0,871,44.04,2015,Bucharest University,GabyRamia,1,1,0,University of Bucharest,1.0
+986,986,987,Babeș-Bolyai University,Romania,2,367,567,218,874,855,812,958.0,871,44.04,2015,,UnivBabesBolyai,0,0,0,Babeș-Bolyai University,
+987,987,988,Mansoura University,Egypt,3,367,567,218,987,969,645,958.0,871,44.04,2015,,mansoura_uni,0,0,0,Mansoura University,
+988,988,989,University of Pau and Pays de l'Adour,France,49,367,567,218,980,991,812,958.0,809,44.04,2015,Pau And Pays De L'Adour University,universite_uppa,0,0,0,University of Pau and Pays de l'Adour,
+989,989,990,Henan Normal University,China,80,367,567,218,959,991,812,958.0,871,44.04,2015,,,11,8,3,Henan Normal University,0.7272727272727273
+990,990,991,Xidian University,China,81,367,542,218,830,974,812,984.0,434,44.03,2015,,XDU_China,0,0,0,Xidian University,
+991,991,992,Federal University of Bahia,Brazil,17,367,540,218,962,865,645,969.0,774,44.03,2015,Bahia Federal University,andrelemos,0,0,0,Federal University of Bahia,
+992,992,993,Southwest Jiaotong University,China,82,367,327,218,937,962,812,998.0,861,44.03,2015,,,11,8,3,Southwest Jiaotong University,0.7272727272727273
+993,993,994,Ryerson University,Canada,33,367,567,218,811,969,511,975.0,756,44.03,2015,,RyersonU,66,40,26,Ryerson University,0.6060606060606061
+994,994,995,King Abdulaziz University,Saudi Arabia,4,367,449,218,595,430,645,994.0,839,44.03,2015,,kauweb,2,2,0,King Abdulaziz University,1.0
+995,995,996,University of the Algarve,Portugal,7,367,567,218,926,845,812,969.0,816,44.03,2015,The Algarve University,UAlg,4,1,3,University of the Algarve,0.25
+996,996,997,Alexandria University,Egypt,4,236,566,218,997,908,645,981.0,871,44.03,2015,,HebaElTorky,0,0,0,Alexandria University,
+997,997,998,Federal University of Ceará,Brazil,18,367,549,218,830,823,812,975.0,824,44.03,2015,Ceará Federal University,cesarlincoln,0,0,0,Federal University of Ceará,
+998,998,999,University of A Coruña,Spain,40,367,567,218,886,974,812,975.0,651,44.02,2015,A Coruña University,dumitru_adina,0,0,0,University of A Coruña,
+999,999,1000,China Pharmaceutical University,China,83,367,567,218,861,991,812,981.0,547,44.02,2015,,,11,8,3,China Pharmaceutical University,0.7272727272727273

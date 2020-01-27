@@ -1,0 +1,100 @@
+,Unnamed: 0,Unnamed: 0.1,world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year,institution_alt,twitter_handle,total,positive,negative,university,happiness_ranking
+149,149,149,150,McMaster University,Canada,6,222,268,163,127,156,101,87.0,222,48.74,2015,,McMasterU,58,53,5,McMaster University,0.913793103448276
+228,228,228,229,Laval University,Canada,11,292,273,218,207,270,182,200.0,140,46.95,2015,,universitelaval,66,60,6,Laval University,0.9090909090909092
+32,32,32,33,University of Illinois at Urbana–Champaign,USA,24,33,75,21,40,48,42,74.0,65,59.94,2015,Illinois At Urbana–Champaign University,Illinois_Alma,79,71,8,University of Illinois at Urbana–Champaign,0.8987341772151899
+823,823,823,824,University of Brighton,United Kingdom,61,367,567,218,854,829,812,754.0,766,44.21,2015,Brighton University,uniofbrighton,56,50,6,University of Brighton,0.8928571428571429
+398,398,398,399,University of Nebraska Medical Center,USA,136,367,567,218,463,399,368,344.0,253,45.16,2015,Nebraska Medical Center University,unmc,55,49,6,University of Nebraska Medical Center,0.8909090909090909
+121,121,121,122,Aarhus University,Denmark,2,310,165,106,91,81,101,95.0,154,49.65,2015,,AarhusUni,76,67,9,Aarhus University,0.8815789473684209
+447,447,447,448,Indian Institute of Science,India,3,367,332,218,315,537,511,447.0,239,44.96,2015,,iiscbangalore,76,67,9,Indian Institute of Science,0.8815789473684209
+41,41,41,42,McGill University,Canada,2,34,37,75,33,53,44,34.0,132,56.49,2015,,mcgillu,61,53,8,McGill University,0.8688524590163934
+129,129,129,130,University of New South Wales,Australia,4,177,70,218,90,177,101,164.0,157,49.33,2015,New South Wales University,UNSW,124,107,17,University of New South Wales,0.8629032258064516
+239,239,239,240,University of Leicester,United Kingdom,19,367,567,218,258,139,197,170.0,385,46.72,2015,Leicester University,uniofleicester,63,54,9,University of Leicester,0.8571428571428571
+905,905,905,906,Oakland University,USA,226,367,567,218,888,810,812,850.0,871,44.13,2015,,oaklandu,81,69,12,Oakland University,0.8518518518518519
+93,93,93,94,King's College London,United Kingdom,7,27,190,114,76,116,101,74.0,188,51.31,2015,,KingsCollegeLon,94,80,14,King's College London,0.851063829787234
+52,52,52,53,"University of California, Davis",USA,36,54,227,59,29,33,35,52.0,62,54.85,2015,"California, Davis University",ucdavis,180,153,27,"University of California, Davis",0.85
+92,92,92,93,University of Melbourne,Australia,2,141,113,218,42,68,53,71.0,223,51.34,2015,Melbourne University,unimelb,79,67,12,University of Melbourne,0.8481012658227848
+87,87,87,88,University of Sydney,Australia,1,105,198,166,45,103,46,84.0,75,51.61,2015,Sydney University,Sydney_Uni,105,89,16,University of Sydney,0.8476190476190476
+292,292,292,293,University of Warwick,United Kingdom,27,210,444,116,205,239,161,308.0,234,46.05,2015,Warwick University,warwickuni,64,54,10,University of Warwick,0.84375
+937,937,937,938,University of Central Lancashire,United Kingdom,65,367,494,218,946,603,511,906.0,749,44.09,2015,Central Lancashire University,UCLan,62,52,10,University of Central Lancashire,0.8387096774193549
+132,132,132,133,Western University (The University of Western Ontario),Canada,5,367,41,218,149,208,234,190.0,261,49.31,2015,Western Ontario) Western University (The University,WesternU,74,62,12,Western University (The University of Western Ontario),0.8378378378378378
+39,39,39,40,University of North Carolina at Chapel Hill,USA,25,124,69,86,32,32,19,21.0,41,57.09,2015,North Carolina At Chapel Hill University,UNC,117,98,19,University of North Carolina at Chapel Hill,0.8376068376068376
+66,66,66,67,University of Manchester,United Kingdom,6,99,92,72,43,70,29,53.0,142,53.38,2015,Manchester University,OfficialUoM,166,137,29,University of Manchester,0.8253012048192772
+783,783,783,784,University of Stirling,United Kingdom,58,367,357,218,772,707,812,754.0,871,44.26,2015,Stirling University,StirUni,57,47,10,University of Stirling,0.8245614035087719
+40,40,40,41,University of Virginia,USA,26,209,20,126,94,74,88,90.0,97,56.73,2015,Virginia University,UVA,74,61,13,University of Virginia,0.8243243243243243
+106,106,106,107,University of Alberta,Canada,4,169,151,153,62,109,82,103.0,116,50.25,2015,Alberta University,UAlberta,62,51,11,University of Alberta,0.8225806451612904
+544,544,544,545,City University London,United Kingdom,41,367,122,218,785,861,812,880.0,601,44.64,2015,,CityUniLondon,70,57,13,City University London,0.8142857142857143
+208,208,208,209,Queen Mary University of London,United Kingdom,17,147,319,218,226,175,212,138.0,255,47.25,2015,London Queen Mary University,QMUL,59,48,11,Queen Mary University of London,0.8135593220338984
+211,211,211,212,Newcastle University,United Kingdom,18,367,222,218,192,159,234,159.0,365,47.17,2015,,UniofNewcastle,58,47,11,Newcastle University,0.8103448275862069
+452,452,452,453,University of Strathclyde,United Kingdom,36,367,216,218,389,467,368,486.0,305,44.94,2015,Strathclyde University,UniStrathclyde,67,54,13,University of Strathclyde,0.8059701492537313
+192,192,192,193,University of Ottawa,Canada,9,223,163,218,171,194,212,134.0,496,47.6,2015,Ottawa University,uOttawa,113,91,22,University of Ottawa,0.8053097345132744
+27,27,27,28,Duke University,USA,20,74,31,56,19,23,15,16.0,33,61.55,2015,,DukeU,87,70,17,Duke University,0.8045977011494253
+980,980,980,981,University of Limerick,Ireland,8,367,529,218,892,863,812,969.0,516,44.05,2015,Limerick University,UL,198,158,40,University of Limerick,0.797979797979798
+259,259,259,260,Oregon State University,USA,101,189,239,218,263,148,161,235.0,389,46.42,2015,,OregonState,84,67,17,Oregon State University,0.7976190476190477
+139,139,139,140,University of Nottingham,United Kingdom,10,131,109,84,116,176,146,140.0,138,49.02,2015,Nottingham University,UniofNottingham,112,89,23,University of Nottingham,0.7946428571428571
+324,324,324,325,University of York,United Kingdom,29,367,567,218,270,205,161,300.0,406,45.69,2015,York University,UniOfYork,120,95,25,University of York,0.7916666666666666
+31,31,31,32,University of Toronto,Canada,1,70,51,32,2,17,9,8.0,145,60.04,2015,Toronto University,UofT,134,105,29,University of Toronto,0.7835820895522388
+26,26,26,27,University College London,United Kingdom,3,21,447,27,12,22,15,18.0,67,62.27,2015,,ucl,118,92,26,University College London,0.7796610169491526
+151,151,151,152,University of Birmingham,United Kingdom,12,65,158,205,117,165,146,138.0,170,48.7,2015,Birmingham University,unibirmingham,102,78,24,University of Birmingham,0.7647058823529411
+200,200,200,201,Cardiff University,United Kingdom,16,321,218,143,178,153,146,170.0,193,47.46,2015,,cardiffuni,71,54,17,Cardiff University,0.7605633802816901
+252,252,252,253,University of Sussex,United Kingdom,22,151,257,57,359,250,161,308.0,553,46.49,2015,Sussex University,SussexUni,83,63,20,University of Sussex,0.7590361445783133
+566,566,566,567,Baylor University,USA,172,367,293,218,682,681,321,540.0,630,44.59,2015,,Baylor,164,124,40,Baylor University,0.7560975609756098
+34,34,34,35,Imperial College London,United Kingdom,4,90,82,30,19,26,23,19.0,47,59.61,2015,,imperialcollege,82,62,20,Imperial College London,0.7560975609756098
+127,127,127,128,University of Glasgow,United Kingdom,9,234,89,218,123,144,82,87.0,402,49.45,2015,Glasgow University,UofGlasgow,173,130,43,University of Glasgow,0.7514450867052023
+25,25,25,26,"University of California, San Francisco",USA,19,367,567,20,22,7,15,11.0,56,63.69,2015,"California, San Francisco University",UCSF,80,60,20,"University of California, San Francisco",0.75
+69,69,69,70,University of Utah,USA,44,97,105,67,97,65,101,90.0,19,52.89,2015,Utah University,UUtah,75,56,19,University of Utah,0.7466666666666667
+425,425,425,426,Lancaster University,United Kingdom,35,367,360,218,364,398,234,369.0,673,45.08,2015,,LancasterUni,67,50,17,Lancaster University,0.746268656716418
+335,335,335,336,University of East Anglia,United Kingdom,31,206,567,179,349,211,146,313.0,500,45.58,2015,East Anglia University,uniofeastanglia,92,68,24,University of East Anglia,0.7391304347826086
+61,61,61,62,University of British Columbia,Canada,3,81,275,93,26,36,37,34.0,81,53.92,2015,British Columbia University,UBC,76,56,20,University of British Columbia,0.7368421052631579
+9,9,9,10,Cornell University,USA,8,12,18,14,24,15,25,22.0,11,86.79,2015,,Cornell,83,61,22,Cornell University,0.7349397590361446
+96,96,96,97,Arizona State University,USA,55,367,455,66,143,85,76,140.0,21,51.13,2015,,ASU,104,76,28,Arizona State University,0.7307692307692307
+603,603,603,604,University of Hertfordshire,United Kingdom,46,367,567,218,792,396,511,511.0,839,44.51,2015,Hertfordshire University,UniofHerts,55,40,15,University of Hertfordshire,0.7272727272727273
+260,260,260,261,Durham University,United Kingdom,23,132,267,116,248,199,197,242.0,460,46.42,2015,,durham_uni,77,56,21,Durham University,0.7272727272727273
+677,677,677,678,University of Pretoria,South Africa,5,367,262,218,620,513,511,741.0,604,44.39,2015,Pretoria University,UPTuks,58,42,16,University of Pretoria,0.7241379310344828
+332,332,332,333,University of Exeter,United Kingdom,30,264,481,218,293,174,428,295.0,353,45.59,2015,Exeter University,UniofExeter,111,80,31,University of Exeter,0.7207207207207207
+79,79,79,80,Georgia Institute of Technology,USA,48,135,60,218,107,152,78,106.0,36,52.08,2015,,GeorgiaTech,68,49,19,Georgia Institute of Technology,0.7205882352941176
+76,76,76,77,University of Notre Dame,USA,47,221,24,155,242,242,182,235.0,352,52.27,2015,Notre Dame University,NotreDame,69,49,20,University of Notre Dame,0.7101449275362319
+102,102,102,103,University of Queensland,Australia,3,269,292,142,65,78,101,99.0,68,50.4,2015,Queensland University,UQ_News,65,46,19,University of Queensland,0.7076923076923077
+89,89,89,90,University of Texas MD Anderson Cancer Center,USA,53,367,567,80,93,72,42,29.0,71,51.51,2015,Texas Md Anderson Cancer Center University,MDAndersonNews,71,50,21,University of Texas MD Anderson Cancer Center,0.7042253521126759
+54,54,54,55,University of Edinburgh,United Kingdom,5,44,127,33,54,37,65,43.0,228,54.39,2015,Edinburgh University,EdinburghUni,127,89,38,University of Edinburgh,0.7007874015748031
+15,15,15,16,Johns Hopkins University,USA,13,18,84,16,4,11,5,3.0,2,71.6,2015,,JohnsHopkins,80,56,24,Johns Hopkins University,0.7
+1,1,1,2,Stanford University,USA,2,9,2,4,5,3,3,4.0,10,98.66,2015,,Stanford,109,76,33,Stanford University,0.6972477064220184
+184,184,184,185,"Trinity College, Dublin",Ireland,1,338,78,200,289,233,115,204.0,153,47.73,2015,,tcddublin,79,55,24,"Trinity College, Dublin",0.6962025316455697
+110,110,110,111,University of Helsinki,Finland,1,56,551,111,80,79,88,65.0,420,50.04,2015,Helsinki University,helsinkiuni,65,45,20,University of Helsinki,0.6923076923076923
+172,172,172,173,University of Sheffield,United Kingdom,14,142,209,196,129,137,136,147.0,179,48.07,2015,Sheffield University,sheffielduni,91,63,28,University of Sheffield,0.6923076923076923
+8,8,8,9,Princeton University,USA,7,4,15,3,72,25,24,33.0,225,89.42,2015,,Princeton,55,38,17,Princeton University,0.6909090909090909
+5,5,5,6,Columbia University,USA,4,13,6,9,13,13,11,12.0,4,96.14,2015,,Columbia,84,58,26,Columbia University,0.6904761904761905
+30,30,30,31,University of Washington - Seattle,USA,23,48,103,41,9,10,10,5.0,40,60.61,2015,Washington - Seattle University,UW,93,64,29,University of Washington - Seattle,0.6881720430107527
+4,4,4,5,University of Oxford,United Kingdom,2,7,13,10,7,12,7,9.0,15,96.46,2015,Oxford University,UniofOxford,99,68,31,University of Oxford,0.6868686868686869
+112,112,112,113,Georgetown University,USA,59,159,34,218,298,321,321,204.0,122,49.92,2015,,Georgetown,50,34,16,Georgetown University,0.68
+435,435,435,436,University College Cork,Ireland,3,367,430,218,426,431,368,402.0,195,45.03,2015,,UCC,130,88,42,University College Cork,0.676923076923077
+290,290,290,291,University of Texas at San Antonio,USA,112,367,567,218,445,376,197,216.0,254,46.1,2015,Texas At San Antonio University,UTSA,80,54,26,University of Texas at San Antonio,0.675
+24,24,24,25,University of Wisconsin–Madison,USA,18,29,29,34,21,24,22,27.0,27,64.51,2015,Wisconsin–Madison University,UWMadison,72,48,24,University of Wisconsin–Madison,0.6666666666666666
+262,262,262,263,University of Reading,United Kingdom,24,258,63,218,400,347,182,361.0,666,46.4,2015,Reading University,UniofReading,83,55,28,University of Reading,0.6626506024096386
+842,842,842,843,Dublin City University,Ireland,6,367,567,218,803,933,511,850.0,347,44.19,2015,,DublinCityUni,67,44,23,Dublin City University,0.6567164179104478
+505,505,505,506,University of Hull,United Kingdom,38,305,253,162,602,557,511,511.0,524,44.75,2015,Hull University,UniOfHull,107,70,37,University of Hull,0.6542056074766355
+59,59,59,60,University of Florida,USA,38,214,276,96,37,73,46,59.0,5,54.18,2015,Florida University,UF,127,83,44,University of Florida,0.6535433070866141
+14,14,14,15,"University of California, Los Angeles",USA,12,28,27,13,6,14,8,6.0,9,76.91,2015,"California, Los Angeles University",UCLA,117,76,41,"University of California, Los Angeles",0.6495726495726496
+630,630,630,631,Open University (UK),United Kingdom,47,367,567,218,616,340,645,549.0,809,44.46,2015,,OpenUniversity,174,113,61,Open University (UK),0.6494252873563219
+718,718,718,719,Howard University,USA,200,294,567,218,934,665,511,699.0,296,44.33,2015,,HowardU,54,35,19,Howard University,0.6481481481481481
+160,160,160,161,University of Leeds,United Kingdom,13,62,157,218,133,141,136,150.0,265,48.41,2015,Leeds University,UniversityLeeds,87,56,31,University of Leeds,0.6436781609195402
+6,6,6,7,"University of California, Berkeley",USA,5,5,21,6,10,4,4,7.0,29,92.25,2015,"California, Berkeley University",UCBerkeley,103,66,37,"University of California, Berkeley",0.6407766990291263
+868,868,868,869,Makerere University,Uganda,1,367,567,218,882,656,645,809.0,871,44.16,2015,,MakerereU,103,66,37,Makerere University,0.6407766990291263
+18,18,18,19,"University of Michigan, Ann Arbor",USA,15,24,17,140,3,20,6,14.0,12,68.36,2015,"Michigan, Ann Arbor University",UMich,109,68,41,"University of Michigan, Ann Arbor",0.6238532110091743
+393,393,393,394,University of Central Florida,USA,135,367,501,218,381,386,511,381.0,159,45.18,2015,Central Florida University,UCF,100,62,38,University of Central Florida,0.62
+361,361,361,362,Simon Fraser University,Canada,17,367,567,218,284,303,368,324.0,381,45.4,2015,,SFU,52,32,20,Simon Fraser University,0.6153846153846154
+268,268,268,269,University of Waterloo,Canada,12,367,124,218,190,333,234,292.0,626,46.34,2015,Waterloo University,UWaterloo,65,40,25,University of Waterloo,0.6153846153846154
+7,7,7,8,University of Chicago,USA,6,11,14,8,17,16,12,22.0,141,90.7,2015,Chicago University,UChicago,97,59,38,University of Chicago,0.6082474226804123
+993,993,993,994,Ryerson University,Canada,33,367,567,218,811,969,511,975.0,756,44.03,2015,,RyersonU,66,40,26,Ryerson University,0.6060606060606061
+299,299,299,300,University of South Carolina - Columbia,USA,115,367,299,185,262,367,146,273.0,649,45.95,2015,South Carolina - Columbia University,UofSC,66,40,26,University of South Carolina - Columbia,0.6060606060606061
+156,156,156,157,University of Cincinnati,USA,72,188,86,218,150,171,128,127.0,263,48.56,2015,Cincinnati University,uofcincy,53,32,21,University of Cincinnati,0.6037735849056604
+10,10,10,11,Yale University,USA,9,10,26,11,18,8,35,20.0,49,86.61,2015,,Yale,87,52,35,Yale University,0.5977011494252874
+237,237,237,238,University College Dublin,Ireland,2,241,112,218,288,285,128,247.0,278,46.79,2015,,ucddublin,62,37,25,University College Dublin,0.5967741935483871
+193,193,193,194,University of Missouri–Columbia,USA,84,250,88,98,222,226,161,242.0,150,47.59,2015,Missouri–Columbia University,Mizzou,59,34,25,University of Missouri–Columbia,0.576271186440678
+360,360,360,361,San Diego State University,USA,128,248,204,218,467,302,264,339.0,509,45.41,2015,,SDSU,86,46,40,San Diego State University,0.5348837209302325
+105,105,105,106,Indiana University - Bloomington,USA,58,134,35,178,180,143,161,190.0,178,50.26,2015,,IUBloomington,51,27,24,Indiana University - Bloomington,0.5294117647058824
+183,183,183,184,University of Houston,USA,80,367,42,218,310,257,511,349.0,156,47.83,2015,Houston University,UHouston,63,33,30,University of Houston,0.5238095238095238
+722,722,722,723,"Rutgers, The State University of New Jersey - Newark",USA,201,367,567,218,832,515,645,637.0,871,44.33,2015,"New Jersey - Newark Rutgers, The State University",RutgersU,51,26,25,"Rutgers, The State University of New Jersey - Newark",0.5098039215686274
+49,49,49,50,Rutgers University-New Brunswick,USA,33,91,40,37,100,66,46,89.0,61,55.23,2015,,RutgersU,51,26,25,Rutgers University-New Brunswick,0.5098039215686274
+50,50,50,51,University of Southern California,USA,34,152,62,39,57,64,101,56.0,34,55.12,2015,Southern California University,USC,80,40,40,University of Southern California,0.5
+274,274,274,275,Northeastern University,USA,108,316,125,218,370,312,264,362.0,86,46.29,2015,,Northeastern,65,28,37,Northeastern University,0.4307692307692308
+258,258,258,259,Virginia Commonwealth University,USA,100,367,403,150,264,253,321,213.0,206,46.43,2015,,VCU,122,49,73,Virginia Commonwealth University,0.4016393442622951
