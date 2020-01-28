@@ -17,9 +17,9 @@ Next is to get sentiment analysis in place, create a Jupyter notebook that prove
 
 ### The objective of this project is:
 - [x] ~~Find tweets from students talking about their University~~
-- [ ] Get the sentiment of those tweets
-- [ ] Assign an average to each University
-- [ ] Rank each University by the polarity
+- [x] Get the sentiment of those tweets
+- [x] Assign a happiness ranking to each University
+- [x] Rank each University by the happiness
 - [ ] Compare the 'happiness' ranking against the actual ranking : ) 
-- [ ] Create a website that displays the data as an unofficial ranking of student happiness.
+- [x] Create a website that displays the data as an unofficial ranking of student happiness.
 ----
