@@ -6,7 +6,7 @@ A ranking of universities in the world by sentiment from Twitter.
 
 This project is for analysing sentiments on student tweets about their universities, in order to build a 'happiness ranking'.
 
-> **_NOTE:_**  This project is for the data science element, the front-end part of the project is in [this repository](https://github.com/basharovV/UniHappyRanking).
+> **_NOTE:_**  This project is for the data science element, the front-end part of the project is in [this repository](https://github.com/basharovV/UniHappyRanking-Web).
 
 ### The objective of this project is:
 - [x] ~~Find tweets from students talking about their University~~
