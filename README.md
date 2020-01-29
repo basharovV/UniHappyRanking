@@ -83,7 +83,7 @@ Interesting results!
 ----
 
 ### Considerations
-- The data sucks. Sorry cMaster University, you're probably not the happiest university in the world. However! I aim to improve this by feeding in Student Room form posts and other sources as well. If you have any suggestions on how to make this ranking more than just an experiment, let me know! 
+- The data sucks. Sorry McMaster University, you're probably not the happiest university in the world. However! I aim to improve this by feeding in Student Room form posts and other sources as well. If you have any suggestions on how to make this ranking more than just an experiment, let me know! 
 - Sentiment analysis is very basic, doesn't have context, or humor, sarcasm understanding.
 
 If you would like to contribute, please submit an issue :) 
